@@ -1,0 +1,42 @@
+﻿l_english:
+ 
+ NAME_Spiritualist_Escort:0 "Адепт"
+ NAME_Spiritualist_Battlecruiser:0 "Пророк"
+ NAME_Materialist_Escort:0 "Знание"
+ NAME_Materialist_Battlecruiser:0 "Инквизитор"
+ NAME_Xenophile_Escort:0 "Дипломат"
+ NAME_Xenophile_Battlecruiser:0 "Хранитель"
+ NAME_Xenophobe_Escort:0 "Поработитель"
+ NAME_Xenophobe_Battlecruiser:0 "Доминатор"
+ NAME_Militarist_Escort:0 "Воин"
+ NAME_Militarist_Battlecruiser:0 "Вобеда"
+ NAME_Pacifist_Escort:0 "Миротворец I"
+ NAME_Pacifist_Battlecruiser:0 "Миротворец II"
+ NAME_Authoritarian_Escort:0 "Наблюдатель"
+ NAME_Authoritarian_Battlecruiser:0 "Мастер"
+ NAME_Egalitarian_Escort:0 "Свобода"
+ NAME_Egalitarian_Battlecruiser:0 "Справедливость"
+ NAME_Hive_Mind_Escort:0 "Тип I"
+ NAME_Hive_Mind_Battlecruiser:0 "Тип II"
+ NAME_Machine_Escort:0 "Юнит I"
+ NAME_Machine_Battlecruiser:0 "Юнит II"
+ NAME_Generic_Escort:0 "Востановленный эскорт"
+ NAME_Generic_Battlecruiser:0 "Востановленный линейный крейсер" 
+ NAME_Generic_Titan:0 "Востановленный титан"
+ 
+ NAME_Surplus_Escort:0 "Лишний эскорт"
+ NAME_Surplus_Battlecruiser:0 "Лишний линейный крейсер"
+ 
+ NAME_Surplus_Escort_I:0 "Лишний эскорт I"
+ NAME_Surplus_Escort_II:0 "Лишний эскорт II"
+ NAME_Surplus_Escort_III:0 "Лишний эскорт III"
+ 
+ NAME_Surplus_Battlecruiser_I:0 "Лишний линейный крейсер I"
+ NAME_Surplus_Battlecruiser_II: "Лишний линейный крейсер II"
+ NAME_Surplus_Battlecruiser_III:0 "Лишний линейный крейсер III"
+ 
+  
+ NAME_Gift_of_the_Ancestors:0 "Подарок вознесённых"
+ NAME_Bane_of_the_Ancestors:0 "Проклятие вознесённых"
+
+ 
