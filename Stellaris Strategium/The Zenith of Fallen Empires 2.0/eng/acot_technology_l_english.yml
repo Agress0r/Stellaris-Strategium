@@ -2,12 +2,12 @@
 
 ### SHIP TEXTS
 
-FE_ESCORT_COMBAT_COMPUTER_1:0 "Bionic Interface Combat Computer (Swarm)"
-FE_ESCORT_COMBAT_COMPUTER_1_DESC:0 "This advanced ship utilizes a unique combat computer that forms a bionic link with the crew. It is impervious to all intrusion attempts and possesses unrivalled combat algorithms."
+FE_ESCORT_COMBAT_COMPUTER_1:0 "Бионический боевой компьютер (рой)"
+FE_ESCORT_COMBAT_COMPUTER_1_DESC:0 "Этот усовершенствованный корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем. Он непроницаем для всех попыток взлома, а так же обладает непревзойденными боевыми алгоритмами."
 FE_ESCORT_COMBAT_COMPUTER_2:0 "Escort Bionic Interface Combat Computer (Picket)"
-FE_ESCORT_COMBAT_COMPUTER_2_DESC:0 "This advanced ship utilizes a unique combat computer that forms a bionic link with the crew. It is impervious to all intrusion attempts and possesses unrivalled combat algorithms."
+FE_ESCORT_COMBAT_COMPUTER_2_DESC:0 "Этот усовершенствованный корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем. Он непроницаем для всех попыток взлома, а так же обладает непревзойденными боевыми алгоритмами."
 FE_ESCORT_COMBAT_COMPUTER_3:0 "Bionic Interface Combat Computer (Line)"
-FE_ESCORT_COMBAT_COMPUTER_3_DESC:0 "This advanced ship utilizes a unique combat computer that forms a bionic link with the crew. It is impervious to all intrusion attempts and possesses unrivalled combat algorithms."
+FE_ESCORT_COMBAT_COMPUTER_3_DESC:0 "Этот усовершенствованный корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем. Он непроницаем для всех попыток взлома, а так же обладает непревзойденными боевыми алгоритмами."
 FE_ESCORT_COMBAT_COMPUTER_4:0 "Bionic Interface Combat Computer (Artillery)" 
 FE_ESCORT_COMBAT_COMPUTER_4_DESC:0 "This advanced ship utilizes a unique combat computer that forms a bionic link with the crew. It is impervious to all intrusion attempts and possesses unrivalled combat algorithms."
 FE_BATTLECRUISER_COMBAT_COMPUTER_1:0 "Bionic Interface Combat Computer (Picket)"
