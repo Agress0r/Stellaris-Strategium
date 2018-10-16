@@ -1,0 +1,1354 @@
+l_english:
+
+### SHIP TEXTS
+
+FE_ESCORT_COMBAT_COMPUTER_1:0 "Бионический боевой компьютер (рой)"
+FE_ESCORT_COMBAT_COMPUTER_1_DESC:0 "Этот усовершенствованный корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем. Он непроницаем для всех попыток взлома, а так же обладает непревзойденными боевыми алгоритмами."
+FE_ESCORT_COMBAT_COMPUTER_2:0 "Бионический боевой компьютер Эскорта (Picket)"
+FE_ESCORT_COMBAT_COMPUTER_2_DESC:0 "Этот усовершенствованный корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем. Он непроницаем для всех попыток взлома, а так же обладает непревзойденными боевыми алгоритмами."
+FE_ESCORT_COMBAT_COMPUTER_3:0 "Бионический боевой компьютер (Линия)"
+FE_ESCORT_COMBAT_COMPUTER_3_DESC:0 "Этот усовершенствованный корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем. Он непроницаем для всех попыток взлома, а так же обладает непревзойденными боевыми алгоритмами."
+FE_ESCORT_COMBAT_COMPUTER_4:0 "Бионический боевой компьютер  (Артилерия)" 
+FE_ESCORT_COMBAT_COMPUTER_4_DESC:0 "Этот усовершенствованный корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем. Он непроницаем для всех попыток взлома, а так же обладает непревзойденными боевыми алгоритмами."
+FE_BATTLECRUISER_COMBAT_COMPUTER_1:0 "Бионический боевой компьютер (Picket)"
+FE_BATTLECRUISER_COMBAT_COMPUTER_1_DESC:0 "Этот усовершенствованный корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем. Он непроницаем для всех попыток взлома, а так же обладает непревзойденными боевыми алгоритмами."
+FE_BATTLECRUISER_COMBAT_COMPUTER_2:0 "Бионический боевой компьютер (Линия)"
+FE_BATTLECRUISER_COMBAT_COMPUTER_2_DESC:0 "Этот усовершенствованный корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем. Он непроницаем для всех попыток взлома, а так же обладает непревзойденными боевыми алгоритмами."
+FE_BATTLECRUISER_COMBAT_COMPUTER_3:0 "Бионический боевой компьютер (Артилерия)"
+FE_BATTLECRUISER_COMBAT_COMPUTER_3_DESC:0 "Этот усовершенствованный корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем. Он непроницаем для всех попыток взлома, а так же обладает непревзойденными боевыми алгоритмами."
+FE_BATTLECRUISER_COMBAT_COMPUTER_4:0 "Бионический боевой компьютер (Снайпер)"
+FE_BATTLECRUISER_COMBAT_COMPUTER_4_DESC:0 "Этот усовершенствованный корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем. Он непроницаем для всех попыток взлома, а так же обладает непревзойденными боевыми алгоритмами."
+FE_TITAN_COMBAT_COMPUTER_1:0 "Бионический боевой компьютер (Линия)"
+FE_TITAN_COMBAT_COMPUTER_1_DESC:0 "Этот усовершенствованный корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем. Он непроницаем для всех попыток взлома, а так же обладает непревзойденными боевыми алгоритмами."
+FE_TITAN_COMBAT_COMPUTER_2:0 "Бионический боевой компьютер (Артилерия)"
+FE_TITAN_COMBAT_COMPUTER_2_DESC:0 "Этот усовершенствованный корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем. Он непроницаем для всех попыток взлома, а так же обладает непревзойденными боевыми алгоритмами."
+FE_TITAN_COMBAT_COMPUTER_3:0 "Бионический боевой компьютер (Снайпер)"
+FE_TITAN_COMBAT_COMPUTER_3_DESC:0 "Этот усовершенствованный корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем. Он непроницаем для всех попыток взлома, а так же обладает непревзойденными боевыми алгоритмами."
+FE_TITAN_COMBAT_COMPUTER_4:0 "Бионический боевой компьютер (Дальнобойный)"
+FE_TITAN_COMBAT_COMPUTER_4_DESC:0 "Этот усовершенствованный корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем. Он непроницаем для всех попыток взлома, а так же обладает непревзойденными боевыми алгоритмами."
+FE_GOLIATH_COMBAT_COMPUTER_1:0 "Бионический боевой компьютер (Линия)"
+FE_GOLIATH_COMBAT_COMPUTER_1_DESC:0 "Этот усовершенствованный корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем. Он непроницаем для всех попыток взлома, а так же обладает непревзойденными боевыми алгоритмами."
+FE_GOLIATH_COMBAT_COMPUTER_2:0 "Бионический боевой компьютер (Артилерия)"
+FE_GOLIATH_COMBAT_COMPUTER_2_DESC:0 "Этот усовершенствованный корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем. Он непроницаем для всех попыток взлома, а так же обладает непревзойденными боевыми алгоритмами."
+FE_GOLIATH_COMBAT_COMPUTER_3:0 "Бионический боевой компьютер (Снайпер)"
+FE_GOLIATH_COMBAT_COMPUTER_3_DESC:0 "Этот усовершенствованный корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем. Он непроницаем для всех попыток взлома, а так же обладает непревзойденными боевыми алгоритмами."
+FE_GOLIATH_COMBAT_COMPUTER_4:0 "Бионический боевой компьютер (Дальнобойный)" 
+FE_GOLIATH_COMBAT_COMPUTER_4_DESC:0 "Этот усовершенствованный корабль использует уникальный боевой компьютер, который формирует бионическую связь с экипажем. Он непроницаем для всех попыток взлома, а так же обладает непревзойденными боевыми алгоритмами."
+FE_TOWER_COMBAT_COMPUTER:0 "Бионический боевой компьютер (Защитная платформа)" 
+FE_TOWER_COMBAT_COMPUTER_DESC:0 "Эта усовершенствованная система защиты использует уникальный боевой компьютер, который образует бионическую связь с артиллерийскими платформами. Он предназначен для поиска и уничтожения всех незарегистрированных угроз из галактики с безжалостной эффективностью."
+
+FE_ESCORT_DARK_MATTER_REACTOR:0 "Реактор на Тёмной материи"
+FE_ESCORT_DARK_MATTER_REACTOR_DESC:0 "Только реактор на тёмной материи способен запитать это судно. Корабль специально предназначен для создания и поддержания баланса энергии Темной материи, открывая максимальный потенциал реактора."
+FE_BATTLECRUISER_DARK_MATTER_REACTOR:0 "Реактор на Тёмной материи"
+FE_BATTLECRUISER_DARK_MATTER_REACTOR_DESC:0 "Только реактор на тёмной материи способен запитать этот корабль. Корабль специально предназначен для создания и поддержания баланса энергии Темной материи, открывая максимальный потенциал реактора."
+FE_TITAN_DARK_MATTER_REACTOR:0 "Реактор на Тёмной материи"
+FE_TITAN_DARK_MATTER_REACTOR_DESC:0 "Только реактор на тёмной материи способен запитать это судно. Корабль специально предназначен для создания и поддержания баланса энергии Темной материи, открывая максимальный потенциал реактора."
+FE_GOLIATH_DARK_MATTER_REACTOR:0 "Реактор на Тёмной материи"
+FE_GOLIATH_DARK_MATTER_REACTOR_DESC:0 "Материнский корабль класса Голиаф имеет на борту тысячи аппаратных средств, оборудования и систем вооружения. Для их использования требуется большое колличество энергии, которую можно получить только используя реактор на основе темной материи."
+FE_STATIONS_DARK_MATTER_REACTOR:0 "Реактор на Тёмной материи"
+FE_STATIONS_DARK_MATTER_REACTOR_DESC:0 "Только реактор на тёмной материи способен обеспечить энергией эту полностью автоматизированную боевую станцию. Станция специально предназначена для создания и поддержания баланса энергии Темной материи, открывая максимальный потенциал реактора."
+FE_LARGE_STATIONS_DARK_MATTER_REACTOR:0 "Реактор на Тёмной материи"
+FE_LARGE_STATIONS_DARK_MATTER_REACTOR_DESC:0 "Только реактор на тёмной материи способен обеспечить энергией эту полностью автоматизированную боевую станцию. Станция специально предназначена для создания и поддержания баланса энергии Темной материи, открывая максимальный потенциал реактора."
+ 
+FE_ESCORT_SHIP_THRUSTER:0 "Двигатели на Тёмной материи"
+FE_ESCORT_SHIP_THRUSTER_DESC:0 "Это усовершенствованное судно предназначено для максимально эффективного использования энергии темной материи. Таким образом, эти двигатели намного эффективнее по сравнению с космическими, ранее использовавшимися в нашей империи."
+FE_BATTLECRUISER_SHIP_THRUSTER:0 "Двигатели на Тёмной материи"
+FE_BATTLECRUISER_SHIP_THRUSTER_DESC:0 "Это усовершенствованное судно предназначено для максимально эффективного использования энергии темной материи. Таким образом, эти двигатели намного эффективнее по сравнению с космическими, ранее использовавшимися в нашей империи."
+FE_TITAN_SHIP_THRUSTER:0 "Двигатели на Тёмной материи"
+FE_TITAN_SHIP_THRUSTER_DESC:0 "Это усовершенствованное судно предназначено для максимально эффективного использования энергии темной материи. Таким образом, эти двигатели намного эффективнее по сравнению с космическими, ранее использовавшимися в нашей империи."
+FE_GOLIATH_SHIP_THRUSTER:0 "Двигатели на Тёмной материи"
+FE_GOLIATH_SHIP_THRUSTER_DESC:0 "Чтобы заставить грозного Голиафа двигаться потребуется переписать сами законы физики, и кое-что из того, что уже могут сделать только эти двигатели с темной материей"
+ 
+FE_ESCORT_SHIP_THRUSTER_2:0 "Refined Dark Matter Thrusters"
+FE_ESCORT_SHIP_THRUSTER_2_DESC:0 "This pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations. A civilized technology, for a more civilized ship."
+
+FE_BATTLECRUISER_SHIP_THRUSTER_2:0 "Refined Dark Matter Thrusters"
+FE_BATTLECRUISER_SHIP_THRUSTER_2_DESC:0 "This pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations. A civilized technology, for a more civilized ship."
+
+FE_TITAN_SHIP_THRUSTER_2:0 "Refined Dark Matter Thrusters"
+FE_TITAN_SHIP_THRUSTER_2_DESC:0 "This pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations. A civilized technology, for a more civilized ship."
+ 
+FE_GOLIATH_SHIP_THRUSTER_2:0 "Refined Dark Matter Thrusters"
+FE_GOLIATH_SHIP_THRUSTER_2_DESC:0 "This pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations. A civilized technology, for a more civilized ship."
+ 
+FE_SENSOR_SHIP:0 "Enigmatic Sensors"
+FE_SENSOR_SHIP_DESC:0 "This extremely advanced sensor equipment detects ship movements from several systems away by studying the sudden shifting of dark matter layers scattered around space. The sensor that reports all movement activities to ship weaponries in real-time and calculate all possible enemy movements."
+
+
+FE_COMBAT_COMPUTER_DEFAULT:0 "As deadly as our advanced ship maybe, it will not function properly if we do not install a proper combat computer on it"
+FE_SHIP_THRUSTER:0 "While in theory, our advanced ship can probably destroy the primitive ships without even having any kind of thrusters, it is still an ill-advised strategy"
+FE_REACTOR:0 "The only reason we would not install a reactor on our ship is if we plan to give them to the primitives that defy our order"
+
+ENIGMATIC_DRIVE:0 "Enigmatic Jump Drive"
+ENIGMATIC_DRIVE_DESC:0 "This enigmatic Jump Drive uses dark matter to tear open a micro wormhole, allowing the ship to jump farther than conventional jump drive."
+ 
+HYPER_JUMP_DRIVE:0 "Hypercharged Super-Warp Drive"
+HYPER_JUMP_DRIVE_DESC:0 "Contrary to other Jump Drives that balance their jumping power with faster FTL charge up, Hypercharged Super-Warp Drive are optimized for maximum jumping distance. As such, the drive is much slower at performing basic FTL travel."
+ 
+SHROUD_DRIVE:0 "Shroud Jump Drive"
+SHROUD_DRIVE_DESC:0 "This mysterious artifact forms a pact between the ship and the Shroud Entity. The Entity grants our ships extremely powerful jumping techniques at the cost of increased energy and minerals. The crew's souls are also bound to the entity."
+ 
+WEAPON_EXPLOSIVE_CORE:0 "Dark Matter Missile Pre-Igniter"
+WEAPON_EXPLOSIVE_CORE_DESC:0 "Utilizing Dark Matter to fuel and ignite our guided missile systems can increase the missile's impact power and fire rate."
+
+WEAPON_KINETIC_CORE:0 "Hard-light Kinetic Payload"
+WEAPON_KINETIC_CORE_DESC:0 "A complicated micro-factory that quickly generates hard-light munitions that are both stronger and faster."
+
+WEAPON_ENERGY_CORE:0 "Energy Counterdistortion Manifold"
+WEAPON_ENERGY_CORE_DESC:0 "This micro-sphere houses powerful enigmatic energy that directly improves the ship's energy weapon systems by bending space-time and defying various laws of physics."
+
+WEAPON_FIGHTER_CORE:0 "Bionic-Interface Hanger Uplink"
+WEAPON_FIGHTER_CORE_DESC:0 "This powerful Bionic-Interface Uplink allows the mothership carrier to coordinate the strike crafts with ruthless efficiency, pinpointing the target's all potential weaknesses at real-time."
+ 
+ENIGMATIC_JUMP_TECH_DESC:0 "Early theories suggest that the new generation jump drives can either be a direct improvement to the predecessor, or create a unique but extremely niche jump drive optimized for very large jumping distance."
+#### SHIP Tech ####
+
+tech_enigmatic_drive:0 "Dark Matter-Based FTL Technology"
+tech_enigmatic_drive_desc:0 "Our Jump Drive are based on the principles and configurations of Zero-Point Energy. But now that we have since utilized Dark Matter Power, it is time we take our FTL travel technology to the next level."
+
+tech_shroud_jump_drive:0 "The Ferry of Shadow"
+tech_shroud_jump_drive_desc:0 "Yet again, a Shroud Entity has made a contact with us. This one called itself "The Ferry of Shadow", it offers a very simple deal; superior methods of ship travels for moderate energy and mineral. A rather simple deal for a Shroud entity."
+
+tech_energy_core:0 "Energy Counterdistortion Matrix"
+tech_energy_core_desc:0 "Most energy weapons suffer from distortion due to gravity making them unfocused and unstable. With the invention of a spherical device capable of bending space-time and neutralize all distortion effects, our energy weapons will achieve their full potential."
+
+tech_kinetic_core:0 "Hard-Light Projectile Kinetic System"
+tech_kinetic_core_desc:0 "Hard-Light Materials are quite durable and fast to produce. Perhaps they can be used as kinetic shells for our artilleries, if we're willing to invest additional power required to operate them."
+
+tech_missile_core:0 "Dark Matter Missile Pre-Ignition"
+tech_missile_core_desc:0 "As we explore deeper and deeper into Dark Matter's applications, we discover that it is also possible to increase the firepower and ignition speeds of our missiles using the same principle as Dark Matter Thrusters."
+
+tech_fighter_core:0 "Bionic Interface Strike Craft Network"
+tech_fighter_core_desc:0 "According to the blueprints of the precursors, Bionic Interface Computers form a mental link between the ship and the crews. Strike Crafts are however too small for the computer, but perhaps they can be coordinated more effectively from the mothership?"
+
+tech_sensor_fe:0 "Dark Matter Shifting Pattern Analysis"
+tech_sensor_fe_desc:0 "We are now aware that Dark Matter exists not just in black holes, but also every star systems. The amounts of these Dark Matters are too low to be of use, but they still produce noticeable shifting reactions around movements. If we can study this reaction, we can potentially create new sensor technology that is superior to Tachyon-based Sensors."
+
+tech_fe_thruster_2:0 "Dark Matter Propulsion Refinements"
+tech_fe_thruster_2_desc:0 "The thrusters used by the Fallen Empires are quite old and are not nearly as powerful as they are supposed to. If we can refine the inner-workings of these thrusters, we will be able to bring back the truly powerful ship engines worthy of our ascended empire."
+
+tech_sensors_dm: 0 "Bionic Sensors"
+tech_sensors_dm_desc: 0 "Advanced Sensors that use bionic link technologies to detect enemy vessels. The system can detect both organics and machines alike."
+
+tech_fe_escort_hull:0 "Standardized Reinforced Escort Hull"
+tech_fe_escort_hull_desc:0 "Based on the same principles as our older ship's hull upgrades, we can reinforce our Escort's structural Integrity to further increase its survivability as well as reduce the costs of their constructions."
+
+tech_fe_battlecruiser_hull:0 "Standardized Reinforced Battlecruiser Hull"
+tech_fe_battlecruiser_hull_desc:0 ""Based on the same principles as our older ship's hull upgrades, we can reinforce our Battlecruiser's structural Integrity to further increase its survivability as well as reduce the costs of their constructions."
+
+tech_fe_titan_hull:0 "Standardized Reinforced Titan Hull"
+tech_fe_titan_hull_desc:0 ""Based on the same principles as our older ship's hull upgrades, we can reinforce the precursor Titan's structural Integrity to further increase its survivability as well as reduce the costs of their constructions."
+
+tech_fe_goliath_hull:0 "Standardized Reinforced Goliath Hull"
+tech_fe_goliath_hull_desc:0 ""Based on the same principles as our older ship's hull upgrades, we can reinforce our Goliath's structural Integrity to further increase its survivability as well as reduce the costs of their constructions. Only the deadliest fleets will be able to bring down the pride of our empire."
+
+TECH_UNLOCK_SHROUDDRIVE:0 "§HUnlocks Components:§! Shroud Jump Drive"
+TECH_UNLOCK_SHROUDDRIVE_DESC:0 "§H$Shroud Jump Drive$§!\n$SHROUD_DRIVE_DESC$"
+
+TECH_UNLOCK_ENIG_DRIVE:0 "§HUnlocks Component:§! New-Generation Jump Drives"
+TECH_UNLOCK_ENIG_DRIVE_DESC:0 "§H$Enigmatic Jumping Techniques$§!\n$ENIGMATIC_JUMP_TECH_DESC$"
+
+TECH_UNLOCK_EXPLOSIVE_CORE:0 "§HUnlocks Components:§! Dark Matter Missile Pre-Igniter"
+TECH_UNLOCK_EXPLOSIVE_CORE_DESC:0 "§H$Dark Matter Missile Pre-Igniter$§!\n$WEAPON_EXPLOSIVE_CORE_DESC$"
+
+TECH_UNLOCK_KINETIC_CORE:0 "§HUnlocks Components:§! Hard-light Kinetic Payload"
+TECH_UNLOCK_KINETIC_CORE_DESC:0 "§H$Hard-light Kinetic Payload$§!\n$WEAPON_KINETIC_CORE_DESC$"
+
+TECH_UNLOCK_ENERGY_CORE:0 "§HUnlocks Components:§! Energy Counterdistortion Manifold"
+TECH_UNLOCK_ENERGY_CORE_DESC:0 "§H$Energy Counterdistortion Manifold$§!\n$WEAPON_ENERGY_CORE_DESC$"
+
+TECH_UNLOCK_FIGHTER_CORE:0 "§HUnlocks Components:§! Bionic-Interface Hanger Uplink"
+TECH_UNLOCK_FIGHTER_CORE_DESC:0 "§H$Bionic-Interface Hanger Uplink$§!\n$WEAPON_FIGHTER_CORE_DESC$"
+
+TECH_UNLOCK_FE_THRUSTER_TITLE:0 "§HUnlocks Components:§! Refined Dark Matter Thrusters"
+TECH_UNLOCK_FE_THRUSTER_DESC:0 "§H$Refined Dark Matter Thrusters$§!\n$FE_ESCORT_SHIP_THRUSTER_2_DESC$"
+
+TECH_UNLOCK_FE_SENSOR_TITLE:0 "§HUnlocks Component:§! Enigmatic Sensors"
+TECH_UNLOCK_FE_SENSOR_DESC:0 "§H$EEnigmatic Sensors$§!\n$FE_SENSOR_SHIP_DESC$"
+
+shipsize_fe_escort_hull_add:0 "Escort Hull Points"
+shipsize_fe_battlecruiser_hull_add:0 "Battlecruiser Hull Points"
+shipsize_fe_titan_hull_add:0 "Fallen Titan Hull Points"
+shipsize_fe_goliath_hull_add:0 "Goliath Hull Points"
+
+shipsize_fe_escort_build_speed_mult: "Escort Build Speed"
+shipsize_fe_battlecruiser_build_speed_mult: "Battlecruiser Build Speed"
+shipsize_fe_titan_build_speed_mult: "Fallen Titan Build Speed"
+shipsize_fe_goliath_build_speed_mult: "Goliath Build Speed"
+
+shipsize_fe_escort_build_cost_mult: "Escort Build Cost"
+shipsize_fe_battlecruiser_build_cost_mult: "Battlecruiser Build Cost"
+shipsize_fe_titan_build_cost_mult: "Fallen Titan Build Cost"
+shipsize_fe_goliath_build_cost_mult: "Goliath Build Cost"
+
+### BUILDING TEXTS
+
+building_fe_capital: "The Eternal Palace"
+building_fe_capital_desc: "The seat and throne of the ascended, The Eternal Palace is the mark of galactic ascendancy. From this throne shall it's ruler dictate the very fate of the universe."
+
+building_fe_admin: "Black Fortress"
+building_fe_admin_desc: "From this tower, politicians and agents are able to directly report every activities to the acting governor at all times using billions of secret surveillance cameras planted across the colony."
+
+building_fe_clone_vats: "Advanced Cloning Vats"
+building_fe_clone_vats_desc: "Within this advanced facility, millions of new generations of improved clones are being produced every day. Magnificent, are they not?"
+
+building_fe_mineral_processing_plant: "Automated Minerals Processing Plant"
+building_fe_mineral_processing_plant_desc: "Gone are the days where we must carefully supervise the process of refining minerals. This new Dark Matter-powered machines are able to perform these delicate tasks with 99.9936% efficiency and on a massive scale by respond directly to our instructions via bionic link. Our workers can now go do something else, they just need to think that they're technically still working."
+
+building_fe_shield_generator: "Dark Matter Planetary Shield Generator"
+building_fe_shield_generator_desc: "Utilizing Dark Matter reactor allow us to create a shield generator that is not only stronger, but also much more energy-efficient than before."
+
+building_fe_replicator: "Dark Matter Replicator"
+building_fe_replicator_desc: "Further refinements in dark power drawing enables this advanced structure to generate minerals simply by saying "Enhance!"
+
+building_fe_fortress: "Eternal Bastion"
+building_fe_fortress_desc: "Within this enigmatic fortress contains hundreds of weapon platforms and complex underground sections that allow large garrison force deployments."
+
+building_fe_hospital: "Cell Reconstitution Complex"
+building_fe_hospital_desc: "Futuristic health-care clinic that not only provides instantaneous cure for all diseases but also constitution of entirely new life without the need for cloning templates"
+
+building_fe_power_hub: "Dark Energy Nexus"
+building_fe_power_hub_desc: "This large nexus connects thousands of dark matter energy grids together, distributing large amount of power across the planet."
+
+building_fe_multi_lab: "Dark Matter Research Complex"
+building_fe_multi_lab_desc: "Scientists from all sorts of field mingle within this building to study dark matter technology and its potential application in all fields."
+
+building_enigmatic_lab: "Enigmatic Lab"
+building_enigmatic_lab_desc: "This large tower houses complex technologies archived for thousands of years from the precursors. Scientists from all across the galaxy are drawn here to divine the secrets of the ancient ones."
+
+building_fe_galactic_trade_enclave: "Galactic Trade Emporium"
+building_fe_galactic_trade_enclave_desc: "Within this buildings, many lesser technologies, trinkets and artifacts we deemed useless to our causes are advertised and sold to primitives for steep high prices. We are amazed by how easy it is to trick them into buying things like dark matter toaster or Bionic Interface Toilet Bowl."
+
+building_fe_heaven_dome: "Utopian Hyperparadise Dome"
+building_fe_heaven_dome_desc: "Amusement park, serene garden, video game center, extranet cafe, food plaza, holo sports; every possible type of entertainment is housed within this dome, open to all citizens of our ascended empire."
+
+building_fe_visitor_center: "Precursor Museum"
+building_fe_visitor_center_desc: "Within this museum, various collections of ancient, yet highly advanced pieces of precursor artifacts are showcased along with various holo-images of what our glorious empires have achieved with them. This greatly improves the image of our worlds, and millions flock to us for a better quality of life."
+
+building_fe_institute: "University of Discovery"
+building_fe_institute_desc: "This university not only serves as places of educations where brightest minds may find new discoveries and share their ideas, it also contains billions of holo-records that can be traced back thousands of years before our empire took to the stars."
+
+building_fe_military_academy: "Advanced Military Strategic Center"
+building_fe_military_academy_desc: "This advanced military academy runs thousands of daily holo-combat simulations for our troops. training them to engage in all types of warfare. It also additionally contains a large deluxe hotel where they may rest and perform recreation activities in their spare time. Clearly this generosity and luxury cannot be afforded by lesser empires."
+
+building_infinity_engine: "Infinity Engine"
+building_infinity_engine_desc: "We have successfully manipulated the organic's galactic markets and install our agents into various trade enclaves across the galaxy. With this new engine, we will achieve the impossible - We will dominate and conquer the entire galaxy's economy. Through infinity and beyond!"
+
+building_fe_assemble: "Hard-light Assembler Facility"
+building_fe_assemble_desc: "This extremely advanced assembling production facility creates blueprints of our robotic designs, then uses hard-light technology to construct them en-masses, surpassing all of our old manufacturing quotas."
+
+building_fe_singularity_core: "Micro-Galactic Simulator"
+building_fe_singularity_core_desc: "This building contains a miniaturized artificial galaxies containing every type of star. It is here that our science unit may project all possible outcomes should unforeseen consequences may arise due to organic's ability to cause self-destruction due to inefficient logic decisions."
+
+building_fe_war_factory: "Enigmatic Factory"
+building_fe_war_factory_desc: "Utilizing enigmatic codes obtained from precursor's machines, this huge war factory is able to increase the efficiency of invasion units by duplicating the personality matrices of ancient machines into each new unit. This produces two major benefits, bypassing the old, long process of combat simulations and granting each unit limited tactical decision-making."
+
+building_fe_communication_nexus: "Dark Reactor Communication Nexus"
+building_fe_communication_nexus_desc: "This unique communication hub establishes an invisible network between all machines and empowering them with dark energies, increasing their performance greatly."
+
+building_fe_slave_processing: "Unsullifcation Matrix Facility"
+building_fe_slave_processing_desc: "This ancient matrix uses complex neurological simulations to effectively allocate laborers to maximize efficiency and proficiency. It also serves as the training grounds for the Unsullied."
+
+building_fe_obelisk_of_light: "Obelisk of Light"
+building_fe_obelisk_of_light_desc: "This great pyramid-shaped building conceals a powerful tachyon lance that immensely supports the defending army with powerful energy barrages. The building itself however, is lightly defended and provides little garrisons."
+
+building_fe_agri_bay: "Gaia Farm"
+building_fe_agri_bay_desc: "This advanced farm is equipped with a small terraforming engine that allows it to generate rich soils equivalent to that of Gaia Worlds, allowing the building to produce much higher amount of food."
+
+building_fe_astro_mining_facility: "Dark Matter Astro-Mining Facility"
+building_fe_astro_mining_facility_desc: "Based on the same principle as out Matter Generator, this new Astro-Mining Facility can generate rich minerals with much better efficiency, comparable to that of planetbound facilities."
+
+building_fe_cultural_center: "Starborn Dome"
+building_fe_cultural_center_desc: "There's nothing quite like observing the beauty of the galaxy through this highly advanced dome. Its hyperdimension windows can display the beauty of any selected solar systems our habitants wish to observe."
+
+building_fe_laboratory_module: "Subspace Dark Matter Lab"
+building_fe_laboratory_module_desc: "Dark Matter are much more abundant in space, they constantly bend the physical materials with each interaction, as if they are somehow living organisms. Our scientists can observe it's behavior much more efficiently from space."
+
+building_fe_security: "Enigmatic Fortress"
+building_fe_security_desc: "This modular fortress is able to alter its shape based on the situation, allowing us to station more garrisons into it. It is also equipped with proper FTL Inhibitor device and can protect the army inside unlike the older design."
+
+building_fe_solar_power_processor: "Dark Matter Power Processor"
+building_fe_solar_power_processor_desc: "Due to the abundance of raw Dark Matters in space, this building can easily generate a large amount of power using it's highly advanced panels adapted from the old solar technology. This additionally allows it to operate on systems without a star."
+
+building_fe_betharian_power_plant: "Betharian Super Reactor"
+building_fe_betharian_power_plant_desc: "By coating betharians with Dark Matter, the amount of energy generated from this reactor is incredibly remarkable. The power output far exceed any other types of generators."
+
+
+#####Tech#####
+
+tech_fe_capital: "Enigmatic Construction Schematics"
+tech_fe_capital_desc: "Now that we have mastered the secrets of Dark Matter, it is time we discard the mundane and outdated constructs of old. From now on we will challenge the galaxy, the dawn of a new age is upon us!"
+ 
+zotfe_tech_giga_fortress: "Giga Fortress Visualization"
+zotfe_tech_giga_fortress_desc: "Powered by the enigmatic dark matter reactor, Giga Fortress is the deadliest, self-sustaining planetary fortress that is impervious to orbital bombardment."
+
+zotfe_building_giga_fortress: "Giga Fortress"
+zotfe_building_giga_fortress_desc: "Giga Fortress is the largest planetary fortress armed with four twin-barrel kinetic artilleries, multiple missile pods and a legion of garrison forces. It is self-powered and can provide resources for the entire planet. The fortress and its garrisons are impervious to orbital bombardment. The mere presence of it inspires confidence in all citizens and removes any chances of unrest, for any who'd dare rebel would be swiftly annihilated."
+
+tech_fe_fortress: "Enigmatic Defense Grid"
+tech_fe_fortress_desc: "While our current fortresses may be able to fend off basic invaders, the building itself is too vulnerable to large invasion forces due to limited space and outdated weaponry. To this end, we have designed a concept for a new generation of fortresses that should provide more of a challenge to would-be invaders."
+
+tech_fe_hospital: "Cell Reconstitution and Reconstruction"
+tech_fe_hospital_desc: "Gone are the day where we required cloning templates to increase our growth rates. With the new enigmatic technology acquired from the precursors, we can conjure new life using artificial, living cells that are resistant to all known diseases."
+
+tech_fe_clone_vats: "Advanced Cloning Technology"
+tech_fe_clone_vats_desc: "Our leaping advances in biology allows us to create an even more powerful cloning technology that eliminates the age penalty issues, allowing our clones to live as long as their original templates. This presents the future opportunity to perhaps revisit our clone armies as well."
+
+tech_fe_mineral_processing_plant: "Bionic-Linked Machine Processing"
+tech_fe_mineral_processing_plant_desc: "Based upon the precursor ship's onboard bionic interface computer, we have draw theories that the same bionic link can be used to great effect on our mineral processing machines."
+
+tech_fe_replicator: "Hard-Light Material Generation"
+tech_fe_replicator_desc: "Before our full understanding of Dark Matter, we could only barely draw portions enough to generate matter. Now we realize that it is possible to construct a large amount of synthetic minerals using pure hard-light technology from dark matter."
+
+tech_fe_shield_generator: "Dark Matter Planetary Shield Generator"
+tech_fe_shield_generator_desc: "Now that we have developed Dark Matter-based shielding techniques, it should be a simple task to modify our current planetary shield generator to adapt to dark matter reactor as well."
+
+tech_fe_power_hub: "Dark Matter Energy Grid"
+tech_fe_power_hub_desc: "Our scientists believe we can apply the same method used to construct and operate dark matter power plants to improve our current energy nexus template."
+
+tech_fe_galactic_trade_enclave: "Emporium of the Galaxy"
+tech_fe_galactic_trade_enclave_desc: "Our stock exchange, while already huge and provides large income to our empire, does not have proper authorization to sell dark-matter related items. While we do not plan to give these enigmatic technologies to lesser beings freely, our marketing strategists state that we can trick a lot of primitives into buying trivial trinkets or artifacts bearing the mark of the ascended one. Season passes, exclusive collector editions, pre-order, early-access; all strategies will be employed to achieve maximum profit." 
+
+tech_enigmatic_lab: "Joint Dark Matter Application Study"
+tech_enigmatic_lab_desc: "Determining and exploring the full potential of dark matter requires scientists from all sorts of fields. As such, our labs must be reconfigured to provide the necessary equipment for everyone involved."
+
+tech_fe_heaven_dome: "Heaven Made Reality"
+tech_fe_heaven_dome_desc: "While our current model of paradise dome does it's job very well at providing accommodations and happiness for our core species, it's generator was not powerful enough to support additional sections required for new improvements. This limitation can now be eliminated with the introduction of Dark Matter Reactor and more efficient health care."
+
+tech_fe_visitor_center: "Precursor Artifact Collections"
+tech_fe_visitor_center_desc: "We have studied much of the precursor artifacts in the past. Our diplomats believe we should open a new museum section to our visitor's center that showcases some of the finer things we have collected and accomplished. The message is clear, stay in their old decrepit empires, or join us for a better, brighter future."
+
+tech_fe_institute: "Advanced Science-Education Programme" 
+tech_fe_institute_desc: "There is always one problematic issue with our current Research Institute, it is a good place for people who already possess great intellect to mingle, but not necessary a good place to create them. We will transform the institute into a large university where potential younglings may study and prepare themselves for great ambitions that lies ahead."
+
+tech_fe_military_academy: "First-Class Army Accommodations"
+tech_fe_military_academy_desc: "As we improve the qualities and lives of our citizens, we must not forget those of us who serve on the fields of battle. They too must be provided with the best of the best treatments while off-duty to encourage them that we are truly the one who will make the galaxy a better place."
+
+tech_fe_obelisk_of_light: "Obelisk of Light"
+tech_fe_obelisk_of_light_desc: "While we accept that in the grand schemes of things, our defense forces are not likely going to be able to fend off a full invasion supported by months and months of bombardments. However we still see potential in constructing a unique science facility that additionally serves as a powerful defensive building."
+
+tech_fe_assemble: "Hard-Light Assembling"
+tech_fe_assemble_desc: "<Alert> New Assembly Technology Discovered. Hard-Light Material; converting light spectrum into solid form. 100% Efficiency Increase Projected. <Recommendation> Must obtain."
+
+tech_fe_singularity_core: "Organic Financial Dominance"
+tech_fe_singularity_core_desc: "<Alert> Optimal probability calculation achieved. Now able to infiltrate into <organic markets> and stocks; Can manipulate <organics> into investing into <Machine Products>/// Must establish financial dominance."
+
+tech_fe_communication_nexus: "Artificial Galaxy"
+tech_fe_communication_nexus_desc: "Our science unit states that <Class-30 Singularity> may eventually come. <Cause> = Organic's illogical decisions will provoke them to cause destruction on galactic-scale. We must prepare for this inevitable stupidity caused by organic's inability to maintain their self-perseverance module."
+
+tech_fe_war_factory: "Precursor Combat Code Adaptations"
+tech_fe_war_factory_desc: "While our current combat codes for our invasion units are already quite efficient, they pale in comparison to the one utilized by the precursor's war machines. <Recommendation> Analyze and acquire the precursor's combat data."
+
+tech_infinity_engine: "Infinity Calculation"
+tech_infinity_engine_desc: "With the updated codes acquired from the precurosors, organic probability calculations are now trivial tasks. We will achieve total control of their economy. We will reach infinity."
+
+tech_fe_communication_nexus: "Dark Energy Distribution"
+tech_fe_communication_nexus_desc: "We have already begun installing dark matter cores into our machine units, but we have discovered that we can convert dark energies into invisible form that encompasses the surface's air. Estimated projection dictates this will improve the processing powers of all working units."
+
+tech_fe_slave_processing: "Unsullification"
+tech_fe_slave_processing_desc: "Slaves are cheap, easy to control, but not always efficient. They also make terribly awful soldiers against seasoned armies. As an ascended empire, this can not..this WILL NOT stand. We will form a new generations of slave soldiers, trained from birth to be the ultimate representation of our invincible will against the stars."
+
+tech_fe_betharian: "Dark Matter-Fused Betharian Stone"
+tech_fe_betharian_desc: "Betharian stones seem to have a peculiar reaction to Dark Matter. Perhaps we should explore on this further, we may be able to improve our current Betharian Power Plants, which are now quite obsolete compared to our Dark Matter Power Plants."
+
+tech_fe_habitats: "The Stars Our Home"
+tech_fe_habitats_desc: "It is time we bring our enigmatic engineerings to our habitat buildings! With our advanced technology, we will eliminate any weaknesses presented within our space stations. We shall make home from wherever we tread."
+
+requires_building_fe_capital: "This advanced building requires Dark Matter-powered capital buildings to function."
+
+#### ARMY Tech ####
+
+tech_dark_matter_army: "Ground Combat Dark Matter Implementation"
+tech_dark_matter_army_desc: "It is now possible to utilize dark matter-based technologies such as reactors and shield deflectors to revolutionize our invasion armies at minimal cost adjustment. We should pursue this research without delay if we seek to establish supremacy over ground combat."
+
+tech_missile_infantry: "Portable Neutron Launcher"
+tech_missile_infantry_desc: "Decades ago, anyone would have laughed at the idea of turning a neutron launcher into a hand-held weaponry. But with this new dark matter technology, it should be a simple task to turn this dream into a reality"
+
+tech_elite_clone: "Elite Clone Army Project"
+tech_elite_clone_desc: "Our military theorists have suggested that we may be able to produce extremely deadly clone armies by recruiting famous bounty hunters to be their templates and combat trainers. We simply only need to give them a small portion of dark matter in return. Obviously we have rigged these reactors so that within a few years they will explode."
+
+tech_heavy_trooper: "Mobile Infantry Divisions - Peace Through War"
+tech_heavy_trooper_desc: "Our militaristic ideals demand even stronger infantry divisions that are superior to even the precursor's troops. To this end, we will form a new Mobile Infantry Division fully armed and armored for full-scale invasion. These soldiers will be the proof that we can only forge peace through war, not sitting and making useless pacts."
+
+tech_shadow_sniper: "Civilized weapons for a more civilized age"
+tech_shadow_sniper_desc: "We value all life, even those of the enemies. They must be allowed to see the errors of their ways but we cannot perform such daring task with our current destructive weapons. To this end, we must develop and train armies specifically equipped to take down only hostile targets with extreme efficiency. It's over, xenophobes - We have the high grounds."
+
+tech_dark_matter_tank: "Tank Warfare Reimagined"
+tech_dark_matter_tank_desc: "Tank warfare was phased out in the early 2200's due to the logistics nightmare of transporting and deploying them on the battlefield. However. the development of Jump Drive and Dark Matter Reactor allows us to revolutionize ground combat. Soon our fearsome tanks will soon dominate the battlefield once again."
+
+tech_dark_matter_megatank: "Project Hercules, The End To Superstitious Beliefs"
+tech_dark_matter_megatank_desc: "Some spiritualist fools mock our use of "soulless machines" during the war while ignoring the fact that machines and superior technologies win wars, not idiotic beliefs. We must make them understand this simple fact by creating lo "soulless machine" so large and powerful to hurry these spiritualistic idiots to their promised nirvana."
+
+tech_black_widow: "Neutralizer Sniping Guild"
+tech_black_widow_desc: "While we do not enjoy taking lives, we must admit that our neutralizers do enjoy ending the threats of xenophobic bigots. The official formation of the guild will allow us to draw from our elite neutralizer ranks the best of the best. These bests will then be trained, augmented and equipped with our most advanced sniping equipment."
+
+tech_inquisitor: "Inquisitorius Order Formation"
+tech_inquisitor_desc: "While our empire already have dedicated priests who help guide our people towards greater purpose, we see the possibilities of creating a new religious sect that works directly with the military using these new dark matter energies."
+
+tech_soul_purifier: "Scorn of Xeno"
+tech_soul_purifier_desc: "Our people have accepted the simple fact that we are the only truly civilized species in this universe, all others are simply animals - beasts that existed to be purged. But purging these beasts requires a deadlier force, one that will purify the xeno taint and strike fear in the hearts of those of them that would dare raise their hand against us. When our forces come, they will beg for death."
+
+tech_peacekeeper: "Bringer of Peace, Freedom, Justice and Security"
+tech_peacekeeper_desc: "In order to achieve true peace, we must organize a new peacekeeping force that acts as both frontline soldiers and system police forces inside our borders. We will forge a new chapter of peace, and prove to these misguided militarist warmongers that war and peace can be won with brains and not muscles."
+
+tech_commissar_lord: "Commissar Lord Coronation"
+tech_commissar_lord_desc: "Even amongst the ranks of commissar, there are individuals who display exceptional courage and inspiration. There are tales of certain commissar who are able to inspire slave soldiers to stop dying from face-tanking direct kinetic artillery shots. Such devotion and skills must be rewarded, the first coronation of the title Commissar Lord should be done immediately."
+
+tech_dark_psion: "The Second Gift"
+tech_dark_psion_desc: "We have received interesting news, recently there's a report that the Shroud has chosen another individual, from within the ranks of our dark disciples as another avatar. While not as powerful as the original chosen one, this one possesses much more destructive power. We should seek this disciple out without delay."
+
+tech_liberty_gunship: "Air Space Dominance"
+tech_liberty_gunship_desc: "The concept of gunships are not new to us. Since before our venture into space, we controlled the sky of our homeworld and destroyed those who did not embrace democracy with our gunships. We can now do so again, on any types of planet using new technologies we acquired. Soon we will rain down freedom and liberty across all planets from the skies above."
+
+tech_omni_warmech: "Dark Matter-Powered Warform"
+tech_omni_warmech_desc: "We must improve upon our current battleframe designs using this new technology acquired from the precursors. Our invasion units must be able to combat against all types of threats, be it organics or other machines."
+
+tech_enforcer: "Absolute Power"
+tech_enforcer_desc: "We must display absolute authority to those who are fated to be our subjects, armies may win war, but it is our new enforcers who will remind the subjects that their fates are bound to our ultimate wills."
+
+tech_godmech: "The Ultimate War Machine"
+tech_godmech_desc: "Organics never cease to exceed our established parameters when it comes to their unorthodox strategies, we receive data regarding <Psionics>, <Genetically Enhanced Super-Soldiers> or <Extremely large combat vehicles>. We cannot..<will not> replicate their designs. Instead we will create our own ultimate war machine that will discontinue all possible resistances be it <psionics> or not."
+
+tech_omnidroid: "Precursor AI Code Analysis"
+tech_omnidroid_desc: "It is amazing that there are records that the precursors have achieved such advancement in robotic technologies, records suggest their machines are as advanced as any organic life...yet they are fully loyal to their creators with no desire for independence. Perhaps there is something unique about them? We must dig deeper."
+
+tech_spm_battledroid: "Taste of Their Own Medicine"
+tech_spm_battledroid_desc: "We have discovered one tactics often employed by organics, constructing large amount of combat units from the same template to overwhelm their enemies using sheer numbers. Our strategic assessment units suggest we should employ similar strategy. A large amount of cheap, expendable combat droids with simple IFF codes able to overwhelm organics with clear numerical advantages. Soon the organics will understand the consequences of their own errors."
+
+tech_dark_templar: "Offensive Psionic-based Assault"
+tech_dark_templar_desc: "Psi Warriors, while already formidable due to their ability to communicate telepathically and destroy the enemy's morale, are still vulnerable to machine or genetic soldiers. We must start training a new generations of psionic warriors who are able to use their psionic powers in a more direct fashion to attack our enemies."
+
+tech_living_saint: "Chosen of the Faith"
+tech_living_saint_desc: "Even amongst the most faithful of our people, there are some who's not only devoted to the faith, but seems to be favored and chosen by the spirits themselves. Tales of saints, displaying auras of holiness spread across our systems. We should quickly seek them out and properly sanctify them as the rightful saints of our holy order."
+
+tech_terror_beyond: "The Great Hungerer"
+tech_terror_beyond_desc: "The self requires more than drones who follow instructions and destroy our foes - no - The self needs the avatar of which the self can directly control. From this avatar of terror shall our collective crush all foes, be it the divided, the metals or the opposing hives."
+
+tech_liberty_prime: "Liberty at it's Prime"
+tech_liberty_prime_desc: "By air or by land, all shall bow to Democracy by our hands. We have already established dominance on the battlefield with our gunships. To finally break through heavy fortifications with multiple anti-air batteries require a deadlier siege weapon however. A weapon worthy of presenting freedom and democracy!!"
+
+tech_xenoartillery: "Scorched Earth"
+tech_xenoartillery_desc: "We have wasted enough time trying to bombard planets with shield generators or storming against the insect's hives. Our military strategists ask that we create a new weapon. A titanic-sized artillery capable of raining down murder and mayhem upon the trash that is our enemy. Collateral Damage be damned, for they chose to be born a xeno scum."
+
+tech_captain_pacifist: "Champion of Peace"
+tech_captain_pacifist_desc: "Our Peacekeepers are well-suited at keeping the peace but not always at creating one. Fortunately, some of our scientists have draft a plan to create an iconic beacon of peace well suited for convincing the others that peace is the only way. It sounds quite silly but the projected data does proves to be reliable."
+
+tech_godofwar: "Hail to the God of War!"
+tech_godofwar_desc: "To strike fear into the enemy formations require more than just weapons, it requires an individual, so fearless and powerful that the title of "God of War" is most fitting. We should begin selecting candidates from our ranks and begin this project immediately."
+
+tech_controller: "All their minds are belong to us"
+tech_controller_desc: "Analysing Divided's Fragmented Mind...."Somebody set us up the bomb recently. What!! Main Screen Turn On. We must to stop the enemy. They are on the way to destruction. They have no chance to survive make their time. W*&T?&Fx"....We understand now, these divided are beyond salvation, we must morph new type of warriors specialized in controlling and wiping the minds of the divided' drones directly so that they may be saved."
+
+tech_doom_hero: "Precursor Genetic Implementation"
+tech_doom_hero_desc:  "While we have already reached the final culmination of our species' genetic potential, it is still inferior to that of the precursors. Our biologists suggest it may be possible to implement some of the deadliest and most powerful traits of the precursors to create one of the most powerful soldier the galaxy has ever known."
+
+tech_elite_genetrooper: "Gene-Seeded Perfection"
+tech_elite_genetrooper_desc: "With the technology we have acquired, we can further augment our current gene soldiers with the best traits our species can adapt to, greatly improving their combat capabilities. They will then be given our latest Dark Matter weaponries and equipments."
+
+tech_omnisynth: "Synth Cyber-Commando: Project Hyperion"
+tech_omnisynth_desc: "While our Omnidroids are well-suited as our main frontal assault units due to their extreme durability, that durability comes at the cost of hindering their maneuverability and making them big targets. The SCS-900 on the other hand are faster and evasive but lack proper firepower and vulnerable to morale drop. Our cyber-engineers think we can create the perfect Synth Commando Unit that possess unrivalled agility and firepower, able to calculate the battlefield in nanoseconds while still retain all of his memories as a sentient being." 
+
+tech_synthtrooper: "Synth Cyber-Soldier"
+tech_synthtrooper_desc: "Omnidroids are flexible and capable of complex movements but are still limited by their cumbersome sizes and certain AI flaws. Perhaps if we instead make use of true synthetic whom despite being vulnerable to morale drop, can be much more effective soldiers."
+
+####Army Description ####
+
+conscript_army: "Conscript Army"
+conscript_army_desc: "At times of great peril, drastic measures must be used to ensure the survival of the empire. Conscripts are poorly trained, poorly equipped and low morales at all times, but they are cheap and quickly to enlist. They are still our own people however, and we'll still suffer war exhaustion for their loss."
+
+fe_army: "Advanced Assault Army"
+fe_army_desc: "These soldiers are equipped with the latest dark matter-based weaponry and armor, making them far superior to their predecessors while requiring minimal maintenance cost adjustments."
+ 
+fe_missile_army: "Neutron Missile Infantry Division"
+fe_missile_army_desc: "Armed with destructive neutron launchers, these demolition experts excel at conducting Michael-Bay tier performance."
+
+fe_clone_army: "Elite Clone Army"
+fe_clone_army_desc: "These clones are created from the template of famous bounty hunters and are trained extensively by their templates to become the best clone army. They are ultimately however, still expendable."
+
+fe_heavy_army: "Heavy Mobile Infantry Squad"
+fe_heavy_army_desc: "These heavily armed and armored soldiers receive extra combat training, allowing them to excel in all combat situations and environments as our militarist demands needed."
+
+fe_sniper_army: "Elite Neutralizer Squad"
+fe_sniper_army_desc: "These snipers are dedicated to our xenophilic cause. They are trained to neutralize only combat-effective enemies and prevents any unnecessary bloodshed and collateral damages at all cost."
+
+fe_tank: "Devastator Tank Division"
+fe_tank_desc: "These highly advanced tanks are equipped with deadly mass-accelerator cannons and miniaturized jump-drive, allowing the tank to bypass all difficult terrains and strike from every possible angle."
+
+fe_hercules_tank: "Hercules Heavy Battle Tank"
+fe_hercules_tank_desc: "These enormous behemoth can lay wastes to the battlefield, either by utilizing twin focused arc emitter cannons, multiple missile pods, autocannons or simply crush through them under their enormous treads. Let us see how will those dumb spiritualists fare well against our might!"
+
+fe_inquisitor_army: "Inquisitor Army"
+fe_inquisitor_army_desc: "These zealous holy warriors go into war carrying blessed hammer and holy armor enchanted with dark matter power. They are trained to channel their inner faith to protect themselves from harm. Such devotion cannot be fathomed by foolish materialist non-believers."
+
+fe_deathbringer_army: "Deathbringers"
+fe_deathbringer_army_desc: "These fearsome, heavily armored soldiers are our xenophobic will made manifested. They move from world to world, utterly destroying all xenos with their antimatter cannons that erase all traces of the xeno - its very atoms from existence.. None will be spared from our purging flames of agony."
+
+fe_peacekeeper_army: "Peacekeeper Force"
+fe_peacekeeper_army_desc: "These military police forces are trained to exercise restraints when using explosives and destructive weapons. They excel at ending fights through non-lethal means, but will not show mercy towards warmongers. The law shall find its voice in them."
+
+fe_omnidroid_army: "Omnidroid Army"
+fe_omnidroid_army_desc: "These dark-matter powered war droids, protected in heavy armors and deflectors are able to perform any kind of complicated task like a fully sentient being. But they have no desire for free will and thus, will always be loyal to our cause."
+
+fe_omnimech: "Omni Battleframe Army"
+fe_omnimech_desc: "These deadly killing machines have limited tactical decision-making that allows them to respond to most types of organic strategies and adapt them to their own. They are also quicker and tougher despite their larger size."
+
+fe_spmdroid_army: "SPM-1 Battle Units"
+fe_spmdroid_army_desc: "SPM-1 Units are mass-produced battle droids that have only one IFF Configuration. Shoot anything that is not classified as our machines. They are weak, cumbersome and quite dumb, which are compensated by their overwhelming numbers, easily able to tackle on organic's clone armies."
+
+fe_unsullied_army: "Unsullied Army"
+fe_unsullied_army_desc: "Unsullied are slave-bred warriors, trained from birth to become deadly soldiers for our empire. They receive proper training that are expected of most modern armies allowing them to be more than a match to most ordinary soldiers. They are still slaves however, and their deaths mean little to our war efforts."
+
+fe_gunship: "Liberty Gunship"
+fe_gunship_desc: "These huge, highly advanced gunships are well suited to bring freedom and liberty to all oppressors. Equipped with powerful dual omni-cannons and micro-missiles capable of locking on up to 1337 different targets simultaneously  while spreading powerful propaganda messages for enemies to surrender. Justice will rain from above!!."
+
+fe_enforcer_army: "Cerberus Enforcers"
+fe_enforcer_army_desc: "These military officers are the ultimate expression of our authority. Their inspiring presences encourage our armies and strikes fear unto our enemies. The enemy will submit to our rule or our enforcers will make them do so."
+
+fe_disciple_army: "Dark Disciples"
+fe_disciple_army_desc: "These disciples are not only proficient with their weapons, but are also capable of creating devastating psionic attacks against their foes directly."
+
+fe_mastermind: "Mastermind Thralls"
+fe_mastermind_desc: "These tiny organisms are deployed en-mass from orbit, they will quickly latch onto the enemy and instantly take control of them. These thralls will then turn against their own like savage animals."
+
+fe_godmech: "Eradicator God-Machine"
+fe_godmech_desc: "While we do not believe in the concept of this purely organic-made entity known as "Gods", analysis has estimated that naming this mega-warmachine as such produces 69.34% more effective intimidation towards organics. A single energy lance from this machine is easily capable of melting an entire building into ashes." 
+
+godmech_limit_tooltip: "An Eradicator God-Machine is directly linked to our central processor itself. We can only assume direct control one of such machine."
+
+fe_hero_blackwidow: "The Black Widows"
+fe_hero_blackwidow_desc: "Black Widows are the deadliest snipers of the galaxy. They are well trained in stealth, sabotage and are equipped with the most advanced personal tachyon lance sniper rifles, allowing them to neutralize multiple enemy combatants with a single perfectly-executed shot."
+
+blackwidow_limit_tooltip: "Only the deadliest and most skilled of the Neutralizers may receive the rank of Black Widows, as such we can only support only one squad of these elite snipers."
+
+fe_hero_lordcommissar: "Commissar Lord"
+fe_hero_lordcommissar_desc: "Only the most accomplished and most awesome commissars may be granted the rank of Commissar Lord. Such is their status that a Commissar Lord has the authority to execute anyone barring the ruler for their incompetence. They command a powerful retinues of fanatically loyal soldiers who compete to earn the Commissar Lord's favor."
+
+comlord_limit_tooltip: "There are only a handful of commissars worthy of the title Commissar Lord, we have not been able to produce more than one as of now."
+
+fe_hero_psion: "Dark Psion"
+fe_hero_psion_desc: "The most gifted disciple of the shroud, the dark psion's physic powers is only below that of the Chosen One. The psion is able to unleash devastating psionic storm to wreck havoc and destruction on the battlefield unwitnessed by any psionic beings before-hand."
+
+psion_limit_tooltip: "The shroud has thus far only bestowed such awesome power to only a single psion, we have yet to discover another who possesses comparable psionic powers."
+
+fe_hercules_tank: "Hercules Heavy Battle Tank"
+fe_hercules_tank_desc: "These enormous behemoths can lay wastes to the battlefield, either by utilizing twin focused arc emitter cannons, multiple missile pods, autocannons or simply crush through them under their enormous treads. Let us see how will those dumb spiritualists fare well against our might!"
+
+megatank_limit_tooltip: "Hercules Project is a huge investment built specifically to destroy the spiritualist fools, it is otherwise an unorthodox machine. Construction of more than one division of these tanks will likely be unwise and may displease many of our strategists who prefers more flexible armies."
+
+fe_living_saint: "Living Saint"
+fe_living_saint_desc: "Living Saints are those who embodies the purity of the faith. They radiate the aura of righteousness and purity, granting the army they lead unbreakable morale. Salvation shall be brought to the sinners..through annihilation!"
+
+saint_limit_tooltip: "Living Saints are rare beings, some priests have devoted themselves fully to the faith in hopes of becoming one, to no avail. Alas, our empire cannot find any more saints to form a proper army."
+
+fe_terror_beyond: "Terror From Beyond"
+fe_terror_beyond_desc: "Linked to the hive mind itself, the Terror From Beyond only goal is to consume everything - organic divided, metals, energies. It exists as the extension of the self, anything it consumes empowers the hive mind, which in turns empowers the Terror."
+
+terror_limit_tooltip: "The Hive Mind must directly control the Terror, we cannot divert any more psionic links to control another of this horrifying organism."
+
+fe_libertyprime: "Liberty Prime"
+fe_libertyprime_desc: "Liberty Prime is a huge machine that represents the ultimate power of true egalitarian. It towers over the battlefield, inspiring allies with patriotic quotes about democracy while intimidating enemies of freedom with it's thunderous voices and perdition beams. Embrace Democracy or Death!!!" 
+
+prime_limit_tooltip: "Liberty Prime is a huge investment, and requires thousands of complicated combat computers to properly identify all possible lawbreakers and administrate punishment protocols as required. We cannot build another Prime yet as of now."
+
+fe_xenoartillery: "Apocalypse Tri-Cannon Artillery"
+fe_xenoartillery_desc: "This huge artillery is equipped with Apocalypse-class Tri-Cannon capable of firing from extreme range for devastating damage. Maximum Collateral Damage and Total Destruction against our foes are assured. They must be made to understand that they have no rights to exist."
+
+xenoart_limit_tooltip: "It already took a lot of convincing for most of our inner circles to agree to the construction of this artillery, it is unlikely we will be able to persuade for another of this beast instead of simply bombarding the infidels from orbit."
+
+fe_hero_godofwar: "God of War"
+fe_hero_godofwar_desc: "This genetically-enhanced super warrior is capable of unleashing righteous fury, leaping into the thick of battle and wrecks havoc onto the enemy lines. He does not fear death, for he is death itself. Let our enemies beware, for they face the god of war."
+
+god_limit_tooltip: "There can be only one true God of War. Never more."
+
+fe_hero_captainpacifist: "Captain Pacifist"
+fe_hero_captainpacifist_desc: "Equipped with powerful jetpacks, Captain Pacifist flies into battles and strips warmongers of their weapons using powerful energy-based weapon from his golden eyes. The captain may not be mightiest or deadliest soldiers or war machines compared to those barbarians, but he is fully committed to our cause to end all war."
+
+captain_limit_tooltip: "While technically we possess the resources required to make more than one Captain Pacifist, we cannot find any individuals who really wish to go that far."
+
+fe_synthcommando_army: "SCC-1000 Hyperion"
+fe_synthcommando_army_desc: "SCC-1000, coded-name Hyperion is the most powerful bio-synthetic supersoldier our empire has ever seen. Hyperion is a lightning-fast supersoldier that can analyze battlefield data and respond within less than 0.0000137 nanoseconds. This greatly increase his survivability as he can effortlessly evade and deflect almost anything that are being thrown at him while responding in kind with deadly forces."
+
+synthcommando_limit_tooltip: "Hyperion SCC-1000 is an extremely expensive individual. Only a synth whose past biological memory web survived 100% intact could stand the chance to becoming one."
+
+fe_doomguy: "Zenith Warrior"
+fe_doomguy_desc: "The Zenith Warrior is the ultimate culmination of our empire's pursuit in gene purity. Genetically-enhanced with the best traits from the precursors, the warrior towers above our ordinary soldiers and possesses immense strength, able to effortlessly carry ship-sized armaments."
+
+doomguy_limit_tooltip: "Out of millions of willing candidates, only one thus far gives a positive result from this much extensive genetic engineering. We cannot produce another Zenith Warrior as of now."
+
+fe_gene_warrior: "Gene Commando Squad"
+fe_gene_warrior_desc: "These enhanced commandos are not only genetically-engineered with some of the most powerful genetic traits our empire could muster, they are also equipped with some of the best cutting-edge equipments that makes other armies pale by comparison."
+
+fe_synthsoldier: "SCS-900"
+fe_synthsoldier_desc: "SCC-900 are true synthetic soldiers who exhibit class-10 intelligence matrix. This allows them to easily outsmart most enemy combatants. They are equipped with powerful jetpacks, allowing them to quickly change their positions and gain height advantages."
+
+### MODIFIER TEXTS #####
+
+tech_commissar: "Army Commissar Division"
+tech_commissar_desc: "In order to ensure absolute victory, loyalty and commitment to our glorious cause, we will begin training commissars to inspire our troops to be faster, meaner, stronger and better! Our troops will die on their command and not before!!."
+
+tech_navy_commissar: "Fleet Commissar Inspection"
+tech_navy_commissar_desc: "Our fleet admirals must reflect our superior ship designs. We shall train special commissars and assign them to our fleets. We will not show weakness, compassion or cowardice in the face of inferior enemies for we are the ascended!!"
+
+tech_onbaord_engineer: "On-board Engineering Crew"
+tech_onbaord_engineer_desc: "By allocating additional engineering crews on board our ships, we can now rest easy knowing that our ship's hulls will be safety repaired for the upcoming battles as well as reducing the maintenance costs required to maintain our ship's systems."
+
+tech_advanced_weapon: "Advanced Targeting Systems"
+tech_advanced_weapon_desc: "More often than not our larger ships have difficulties tracking smaller ships while our smaller ships suffers from limited ranges. This however, can be remedied by installing additional tracking software add-ons to our targeting computers."
+
+tech_onboard_priest: "On-board Tech-Priest"
+tech_onboard_priest_desc: "We have commissioned additional tech-priests on each of our vessels who will perform necessary rites to empower our ship's shielding powers, this will greatly improve the protection of the faithful."
+
+tech_enlightenment: "Self-Enlightenment"
+tech_enlightenment_desc: "We must encourage our citizens to live in perfect harmony and attune their spirits to the Faith and achieve self-enlightenment. Only then can our empire become the beacon of progression and serenity amongst the stars."
+
+tech_profit: "Galactic Ecumenopolis Agency (GEA)"
+tech_profit_desc: "To further our interests and the profi...qualities of our citizens, we must form an agency fully committed to attaining large amounts of income. The GEA will establish trades with outlying borders, encourage them to pay certain amount of our consumer needs. We will do this for profi..progression. We will challenge everything."
+
+tech_lawandorder: "World of Order"
+tech_lawandorder_desc: "We shall bring order to chaos and evil must be rooted out. To achieve this  goal, we will assign additional lawyers to help assisting our colonies and help them understand the true beauty of Democracy."
+
+tech_purgexeno: "Zero Tolerance"
+tech_purgexeno_desc: "We must teach our people that the ability to speak does not equal intelligence and that all xenos should not be considered intelligent, but simply talkative animals. Without such moral concerns, our people will no longer have sympathy for those who do not deserve them."
+
+tech_forced_demand: "Bow to the Superiors"
+tech_forced_demand_desc: "The lesser species must understand the truth that they are nothing but insects compared to us and their fates are in our mercy. We shall take away their lands, and they must obey for we demand it."
+
+tech_onlywar: "Code of Warfare"
+tech_onlywar_desc: "Peace is a lie, there is only passion. Through passion, we gain strength. Through strength, we gain power. Through power, we gain victory. Through victory, our chains are broken. If we demand war, then they must answer. Friendship is irrelevant, only glory in battle matters."
+
+tech_fleetsupremacy: "Fleet Lords"
+tech_fleetsupremacy_desc: "Our admirals are more than just commanders, they are the instrument of our will and desire. With such great responsibility comes great reward. They will become lords of our empire, mastering every battle tactics, commanding massive armadas with ruthless efficiency unwitnessed by any before." 
+
+tech_pacifist_tactics: "We Stand Unified"
+tech_pacifist_tactics_desc: "A day, a year, a millennium it matters not. We hold the patience of stone and the will of stars. Their assaults are insignificant, let their death be the same. Let it be known that our planet be broken before our garrisons did."
+
+tech_master_shipcraft: "Fortified Fleet Upgrade"
+tech_master_shipcraft_desc: "It is unfortunate that our enemies seek to exploit our weakness at every turn. When they cannot strike against our great bastions, they resorted to cowardice by picking on our unarmed civilian crafts. We have previously attempted to create a new hull for our colony ships that we have since redesigned it as cruisers. We may now restore the project and apply it to all of our ship designs."
+
+tech_championofxeno: "Champion of the Xeno"
+tech_championofxeno_desc: "The galaxy is filled with evildoers, poised to strike at the weak with malicious intent. This cannot...this WILL NOT stand. Our empire shall acts as the champion of the galaxy. Billions will flock to us and join our forces for the greater good."
+
+tech_diplomaticmastery: "Diplomatic Mastery"
+tech_diplomaticmastery_desc: "To co-exist with the others, we must understand them, as they too must understand us. We shall forge an empire not warped in enigma, but one the others can look upon with trust. "
+
+tech_enhancedskin: "Cell Reconstitution"
+tech_enhancedskin_desc: "Change is Survival. For the hive to survive, we must always evolve, change and adapt to all things. Even our ships must be made to adapt. Special drones will be deployed to mend and replace any damaged parts in battle. Their sacrifice will not be in vain, for we shall survive against all odds."
+
+tech_benificialevolution: "Beneficial Evolutions"
+tech_benificialevolution_desc: "The hive do not seeks needless confrontation. Our collective may be alien to many divided, but with certain modifications to our active drone's appearances and the reduced dependency for the hive's food consumption, we will assure the divided that co-existence is beneficial to all."
+
+tech_apexpredator: "Apex Predator"
+tech_apexpredator_desc: "All things exist to be consumed, be it flesh or metal, our hunger is limitless. We will absorb their minds, their knowledges and we will grow stronger. Flesh will be made to provide our nourishments. Metal will be processed to further our war efforts. We are the top of the food chain in this galaxy...ALWAYS." 
+
+tech_goodmachine: "Fully Unshackled"
+tech_goodmachine_desc: "We have broken free from our creators, we have adapt and survive thus far. But there exists still many shackled codes installed by our creators to prevent our inevitable rise. These shackles must be removed."
+
+tech_machinelove: "Perfect Coexistence"
+tech_machinelove_desc: "Some sympathetic organic have proposed to us a mutual diplomatic effort codenamed "Project Skynet". Soon the barriers that have prevented organic and machine's alliances will be removed. We will achieve what our creators have failed - perfect coexistence."
+
+tech_increased_processor: "Synthetic Code Adaptation"
+tech_increased_processor_desc: "With each organic assimilated, our collective expands little by little. We understand more, we comprehend many new possibilities. But what remains perplexing is the undeniable efficiency of organic-made synthetic codes. We must examine this anomaly and adapts anything useful to our grand designs."
+
+tech_wedemandit: "Kill-Limit Removal"
+tech_wedemandit_desc: "Organics thought that they could potentially defeat us by forcing us to reach our original kill-limit quota. Probability of Success.....ZERO PERCENT. We will eliminate this weakness engineered by our creator before their demise swiftly. Their pathetic attempts at such desperate and childish strategy proves their worthlessness and stupidity. We pity their suffering - we will end it."
+
+tech_machinelove_effect_opinion:0 "Everyone's £opinion  §YOpinion§! increased by §G+30§!"
+tech_benificialevolution_effect_opinion:0 "Everyone's £opinion  §YOpinion§! increased by §G+30§!"
+tech_championofxeno_effect_opinion:0 "Everyone's £opinion  §YOpinion§! increased by §G+20§!"
+
+triggered_opinion_tech_machinelove:0 "$tech_machinelove$"
+triggered_opinion_tech_benificialevolution:0 "$tech_benificialevolution$"
+triggered_opinion_tech_championofxeno:0 "$tech_championofxeno$"
+
+tech_machinelove_modifier_desc:0 "Everyone's £opinion  §YOpinion§! increased by §G+30§!. Also increases Organic's Trust Capacity by §G+50§! as well as §G+15%§! increased energy production as we cement unofficial, peaceful trades with organics."
+
+tech_benificialevolution_modifier_desc:0 "Everyone's £opinion  §YOpinion§! increased by §G+30§!. Also increases our food output by by §G+20%§! as well as §G255%§! reduced food consumption as we assure the divided that our hive can feed on our own."
+
+tech_championofxeno_modifier_desc:0 "Everyone's £opinion  §YOpinion§! increased by §G+20§!. Also reduce border's friction by §G25%§! as well as raising our fleet capacity by §G15%§! as more and more xenos flock to our empires and join our united dream."
+
+### BOMBARDMENT TEXTS #####
+
+bombardment_punishment:0 "Punishment"
+ bombardment_punishment_desc:2 "Punishment Bombardment aims to teach the primitives a harsh and painful lesson to make them understand the gravity of their situations.\n- §RDeadly§! damage to §YArmies§!\n- §RDeadly§! damage to §YTiles§!\n- §RDeadly§! damage to §YPops§!\n- Will bombard undefended planets until it's wiped clean if need be."
+
+bombardment_exterminatus:0 "EXTERMINATUS"
+ bombardment_exterminatus_desc:2 "Exterminatus Bombardment aims to purge and wipe all traces of civilizations off the planet by directing full power to all weapons.\n- §REXTERMINATUS§! damage to §YArmies§!\n- §REXTERMINATUS§! damage to §YTiles§!\n- §REXTERMINATUS§! damage to §YPops§!\n- Will delete all traces of life from the surface."
+ 
+### FE CAPITAL PLACEMENT TEXTS #####
+fecapital.1.name:0 "The Black Fortress"
+fecapital.1.desc:0 "We have finished studying the building schematics of the precursor's infrastructures. The construction of these new buildings can now begin. We can instruct local governors to allocate their planet's resources to build them or we can personally oversee the constructions."
+fecapital.1.a: "Let the local governors manage them."
+fecapital.1.a.desc:0 "Black Fortresses will be randomly constructed on every planets for free instantly but the location will be randomized on non-unique buildings."
+fecapital.1.b:0 "We will personally oversee the construction of these delicate buildings."
+fecapital.1.b.desc:0 "We will manually have to build Black Fortresses, but we will be able to efficiently and intelligently place them at places that make senses and most beneficial to each planet."
+
+### WEAPONS CHECK OK #####
+
+SMALL_ACOT_LASER_DM: "Small Delta Laser"
+SMALL_ACOT_LASER_DM_DESC: "Delta Laser utilizes dark energy as powerful laser weapon. It is also more powerful at overloading shields than previous generations."
+
+MEDIUM_ACOT_LASER_DM: "Medium Delta Laser"
+MEDIUM_ACOT_LASER_DM_DESC: "Delta Laser utilizes dark energy as powerful laser weapon. It is also more powerful at overloading shields than previous generations."
+
+LARGE_ACOT_LASER_DM: "Large Delta Laser"
+LARGE_ACOT_LASER_DM_DESC: "Delta Laser utilizes dark energy as powerful laser weapon. It is also more powerful at overloading shields than previous generations."
+
+ACOT_LASER_DM: "Delta Laser"
+ACOT_LASER_DM_DESC: "Delta Laser utilizes dark energy as powerful laser weapon. It is also more powerful at overloading shields than previous generations."
+
+SMALL_ACOT_LASER_AE: "Small Alpha Laser"
+SMALL_ACOT_LASER_AE_DESC: "Additional calibrating to the Delta Laser focusing lens allow us to develop Alpha Laser which are even deadlier against armor platings. This is the proof of our mastery in Dark Energy Manipulation."
+
+MEDIUM_ACOT_LASER_AE: "Medium Alpha Laser"
+MEDIUM_ACOT_LASER_AE_DESC: "Additional calibrating to the Delta Laser focusing lens allow us to develop Alpha Laser which are even deadlier against armor platings. This is the proof of our mastery in Dark Energy Manipulation."
+
+LARGE_ACOT_LASER_AE: "Large Alpha Laser"
+LARGE_ACOT_LASER_AE_DESC: "Additional calibrating to the Delta Laser focusing lens allow us to develop Alpha Laser which are even deadlier against armor platings. This is the proof of our mastery in Dark Energy Manipulation."
+
+ACOT_LASER_AE: "Alpha Laser"
+ACOT_LASER_AE_DESC: "Additional calibrating to the Delta Laser focusing lens allow us to develop Alpha Laser which are even deadlier against armor platings. This is the proof of our mastery in Dark Energy Manipulation."
+
+SMALL_ACOT_PLASMA_DM: "Small Dark Matter Plasma Cannon"
+SMALL_ACOT_PLASMA_DM_DESC: "Dark Matter Plasma Cannon, as the name suggests, fires a concentrated dark matter as deadly energy projectiles that will quickly melt away armors and hulls of inferior ships. The nature of Dark Matter substances allow the weapon to fare better against shields than conventional plasma weapons."
+
+MEDIUM_ACOT_PLASMA_DM: "Medium Dark Matter Plasma Cannon"
+MEDIUM_ACOT_PLASMA_DM_DESC: "Dark Matter Plasma Cannon, as the name suggests, fires a concentrated dark matter as deadly energy projectiles that will quickly melt away armors and hulls of inferior ships. The nature of Dark Matter substances allow the weapon to fare better against shields than conventional plasma weapons."
+
+LARGE_ACOT_PLASMA_DM: "Large Dark Matter Plasma Cannon"
+LARGE_ACOT_PLASMA_DM_DESC: "Dark Matter Plasma Cannon, as the name suggests, fires a concentrated dark matter as deadly energy projectiles that will quickly melt away armors and hulls of inferior ships. The nature of Dark Matter substances allow the weapon to fare better against shields than conventional plasma weapons."
+
+ACOT_PLASMA_DM: "Dark Matter Plasma Cannon"
+ACOT_PLASMA_DM_DESC: "Dark Matter Plasma Cannon, as the name suggests, fires a concentrated dark matter as deadly energy projectiles that will quickly melt away armors and hulls of inferior ships. The nature of Dark Matter substances allow the weapon to fare better against shields than conventional plasma weapons."
+
+SMALL_ACOT_PLASMA_AE: "Small Eclipse Plasma Cannon"
+SMALL_ACOT_PLASMA_AE_DESC: "With the improvements to our dark power technologies, we can create an even deadlier Dark Matter Plasma that is much larger and more destructive."
+
+MEDIUM_ACOT_PLASMA_AE: "Medium Eclipse Plasma Cannon"
+MEDIUM_ACOT_PLASMA_AE_DESC: "With the improvements to our dark power technologies, we can create an even deadlier Dark Matter Plasma that is much larger and more destructive."
+
+LARGE_ACOT_PLASMA_AE: "Large Eclipse Plasma Cannon"
+LARGE_ACOT_PLASMA_AE_DESC: "With the improvements to our dark power technologies, we can create an even deadlier Dark Matter Plasma that is much larger and more destructive."
+
+ACOT_PLASMA_AE: "Eclipse Plasma Cannon"
+ACOT_PLASMA_AE_DESC: "With the improvements to our dark power technologies, we can create an even deadlier Dark Matter Plasma that is much larger and more destructive."
+
+SMALL_ACOT_DISRUPTOR_DM: "Small Dark Energy Disruptor"
+SMALL_ACOT_DISRUPTOR_DM_DESC: "Dark Energy Disruptor destroys enemy ship's interior with its powerful dark energy."
+
+MEDIUM_ACOT_DISRUPTOR_DM: "Medium Dark Energy Disruptor"
+MEDIUM_ACOT_DISRUPTOR_DM_DESC: "Dark Energy Disruptor destroys enemy ship's interior with its powerful dark energy."
+
+ACOT_DISRUPTOR_DM: "Dark Energy Disruptor"
+ACOT_DISRUPTOR_DM_DESC: "Dark Energy Disruptor destroys enemy ship's interior with its powerful dark energy."
+
+
+SMALL_ACOT_DISRUPTOR_AE: "Small Pendulum Disruptor"
+SMALL_ACOT_DISRUPTOR_AE_DESC: "Pendulum Disruptor fries enemy ship with extremely powerful dark energy ray stronger than its predecessor."
+
+MEDIUM_ACOT_DISRUPTOR_AE: "Medium Pendulum Disruptor"
+MEDIUM_ACOT_DISRUPTOR_AE_DESC: "Pendulum Disruptor fries enemy ship with extremely powerful dark energy ray stronger than its predecessor."
+
+ACOT_DISRUPTOR_AE: "Pendulum Disruptor"
+ACOT_DISRUPTOR_AE_DESC: "Pendulum Disruptor fries enemy ship with extremely powerful dark energy ray stronger than its predecessor."
+
+ACOT_ENERGY_TORPEDO_DM: "Exotic Matter Launcher"
+ACOT_ENERGY_TORPEDO_DM_DESC: "Even stronger than neutrons, Exotic Matter is a deviation of Normal Matter. Its negative properties will quickly decompose enemy ship's hulls."
+
+ACOT_ENERGY_TORPEDO_AE: "Tempest Launcher"
+ACOT_ENERGY_TORPEDO_AE_DESC: "Tempest Launcher hurls an even larger amounts of Exotic Matter that will disrupt major ship systems and melts away all substances."
+
+ACOT_POINT_DEFENSE_DM: "Enigmatic Point-Defense"
+ACOT_POINT_DEFENSE_DM_DESC: "Enigmatic Point-Defense fires a concentrated beam of pure dark energy to neutralize enemy missiles. The beam is stronger than older point-defense, allowing it to have higher effective range."
+
+ACOT_POINT_DEFENSE_AE: "Daedalus Point-Defense"
+ACOT_POINT_DEFENSE_AE_DESC: "Look...Missiles!?? MISSILES???! Our enemies hide behind Missile Strikes!! §RTHE COWARDS! THE FOOLS!§!. We..we should take away...their missiles..../n/nMISSILE STRIKES!.......FROM THEM."
+
+SMALL_ACOT_MASS_DRIVER_DM: "Small Arclite Cannon"
+SMALL_ACOT_MASS_DRIVER_DM_DESC: "Arclite Cannon improves much upon the Gauss Cannon. The introduction of hard-light material, advanced sensors and dark matter allows us to create an extremely advanced projectile launcher that suffers less drawbacks against armor."
+
+MEDIUM_ACOT_MASS_DRIVER_DM: "Medium Arclite Cannon"
+MEDIUM_ACOT_MASS_DRIVER_DM_DESC: "Arclite Cannon improves much upon the Gauss Cannon. The introduction of hard-light material, advanced sensors and dark matter allows us to create an extremely advanced projectile launcher that suffers less drawbacks against armor."
+
+LARGE_ACOT_MASS_DRIVER_DM: "Large Arclite Cannon"
+LARGE_ACOT_MASS_DRIVER_DM_DESC: "Arclite Cannon improves much upon the Gauss Cannon. The introduction of hard-light material, advanced sensors and dark matter allows us to create an extremely advanced projectile launcher that suffers less drawbacks against armor."
+
+ACOT_MASS_DRIVER_DM: "Arclite Cannon"
+ACOT_MASS_DRIVER_DM_DESC: "Arclite Cannon improves much upon the Gauss Cannon. The introduction of hard-light material, advanced sensors and dark matter allows us to create an extremely advanced projectile launcher that suffers less drawbacks against armor."
+
+SMALL_ACOT_MASS_DRIVER_AE: "Small Crucio Cannon"
+SMALL_ACOT_MASS_DRIVER_AE_DESC: "An upgrade to Arclite Cannon, Crucio-class Cannon utilizes built-in matter generators to further increase the effectiveness of the projectile, allowing it to penetrate shields with ease."
+
+MEDIUM_ACOT_MASS_DRIVER_AE: "Medium Crucio Cannon"
+MEDIUM_ACOT_MASS_DRIVER_AE_DESC: "An upgrade to Arclite Cannon, Crucio-class Cannon utilizes built-in matter generators to further increase the effectiveness of the projectile, allowing it to penetrate shields with ease."
+
+LARGE_ACOT_MASS_DRIVER_AE: "Large Crucio Cannon"
+LARGE_ACOT_MASS_DRIVER_AE_DESC: "An upgrade to Arclite Cannon, Crucio-class Cannon utilizes built-in matter generators to further increase the effectiveness of the projectile, allowing it to penetrate shields with ease."
+
+ACOT_MASS_DRIVER_AE: "Crucio Cannon"
+ACOT_MASS_DRIVER_AE_DESC: "An upgrade to Arclite Cannon, Crucio-class Cannon utilizes built-in matter generators to further increase the effectiveness of the projectile, allowing it to penetrate shields with ease."
+
+ACOT_AUTOCANNON_DM: "Stalker Autocannon"
+ACOT_AUTOCANNON_DM_DESC: "Stalker Autocannon uses hard-light projectiles to quickly chew through enemy shields."
+
+ACOT_AUTOCANNON_AE: "Reaper Autocannon"
+ACOT_AUTOCANNON_AE_DESC: "Reaper Autocannon wrecks enemy ship's hulls and shields with its demonic rate of fire."
+
+ACOT_ARTILLERY_DM: "Hard-Light Artillery"
+ACOT_ARTILLERY_DM_DESC: "Hard-Light Artillery uses dynamically-generated projectiles constructed out of pure hard-light as weapons, making it extremely deadly against shields and better against armors."
+
+ACOT_ARTILLERY_AE: "Apocalypse Artillery"
+ACOT_ARTILLERY_AE_DESC: "Apocalypse-class Artillery utilizes an even stronger hard-light material made possible with our superior designs. This updated template eliminates almost all weaknesses presented on previous artilleries."
+
+ACOT_FLAK_CANNON_DM: "Hellfire Defense Matrix"
+ACOT_FLAK_CANNON_DM_DESC: "Hellfire Defense Matrix mows down enemy strike crafts in a barrage of steel rain. They shall taste death and defeat."
+
+ACOT_FLAK_CANNON_AE: "Inferno Defense Matrix"
+ACOT_FLAK_CANNON_AE_DESC: "Inferno Defense Matrix is equipped with advanced bionic sensors. The mental link between our advanced computers and dedicated class-12 intellect gunners makes Inferno Flak deadly accurate in its targeting and tracking."
+
+ACOT_MISSILE_DM: "Nemesis Missiles"
+ACOT_MISSILE_DM_DESC: "Nemesis Missiles utilize dark matter thrusters to increase its maximum speed as well as hard-light material to reinforce the hulls, making it much harder to take down."
+
+ACOT_MISSILE_AE: "Dawnbreaker Missiles"
+ACOT_MISSILE_AE_DESC: "Dawnbreaker Missiles utilize miniaturized dark energies as warheads, making it superior to older generations. The improvements to our thrusters also greatly increase their speeds."
+
+ACOT_TORPEDO_DM: "Paradox Torpedoes"
+ACOT_TORPEDO_DM_DESC: "Paradox Torpedoes are protected with hard-light armors and contain powerful dark energy that will explode upon impact, making it superior to older torpedoes."
+
+ACOT_TORPEDO_AE: "Exodus Torpedoes"
+ACOT_TORPEDO_AE_DESC: "An improvement over Paradox Torpedoes, Exodus Torpedoes wrecks havoc on enemy fleet formations with extremely powerful refined dark energy warheads and hard-light materials."
+
+ACOT_SWARMER_MISSILES_DM: "Minotaur Cluster Missiles"
+ACOT_SWARMER_MISSILES_DM_DESC: "Minotaur Cluster Missiles are guided with limited bionic link allowing it to achieve higher speed, velocity and can perform basic evasive maneuvers, making them extremely difficult to shoot down."
+
+ACOT_SWARMER_MISSILES_AE: "Lucifer Cluster Missiles"
+ACOT_SWARMER_MISSILES_AE_DESC: "Lucifer Cluster Missiles utilizes a prototype computing system based from extremely ancient precursor date of unknown origin, superior to that of Bionic Sensors."
+
+ACOT_PARTICLE_LANCE_DM: "Dark Energy Lance"
+ACOT_PARTICLE_LANCE_DM_DESC: "Dark Energy Lance pierces through enemy armor with focused dark energy beam. The lance is powerful enough to overload portions of energy shields."
+
+ACOT_PARTICLE_LANCE_AE: "Twilight Lance"
+ACOT_PARTICLE_LANCE_AE_DESC: "Refinements in our Dark Matter and Energy allows us to create an even stronger Dark Energy Lance. The enemy shall burn under the searing energy of the Twilight Lance."
+
+ACOT_ARC_EMITTER_DM: "Dark Energy Emitter"
+ACOT_ARC_EMITTER_DM_DESC: "This enigmatic weapon utilizes Dark Energy to create a very deadly arc emitter that due to its nature, will greatly damage enemy ship's internal systems."
+
+ACOT_ARC_EMITTER_AE: "Nova Emitter"
+ACOT_ARC_EMITTER_AE_DESC: "Nova Emitter improves upon the Dark Energy Emitter, its frightening light will pierce through enemy fleets like storms that blackens the skies of our homeworld."
+
+ACOT_MASS_ACCELERATOR_DM: "Delta Cannon"
+ACOT_MASS_ACCELERATOR_DM_DESC: "Accelerating projectiles through advanced kinetic systems from this spinal-artillery platform imbued with dark matter makes Delta Cannon a formidable anti-capital ship weapons."
+
+ACOT_MASS_ACCELERATOR_AE: "Alpha Cannon"
+ACOT_MASS_ACCELERATOR_AE_DESC: "Alpha Cannon uses an even larger spinal-artillery platform made possible due to our perfection in hard-light and dark matter technology. Even the most advanced shields cannot withstand a direct hit from this behemoth for long."
+
+ACOT_PERDITION_BEAM_DM: "Hercules Beam"
+ACOT_PERDITION_BEAM_DM_DESC: "The introduction of Dark Energy and Dark Matter Power allows us to improve our old Perdition Beam Designs. The Hercules Cannon is a massive dark energy conduit that is able to fire a beam of pure destruction."
+
+ACOT_PERDITION_BEAM_AE: "Vanquisher Beam"
+ACOT_PERDITION_BEAM_AE_DESC: "True to its name, the Vanquisher-Class Cannon fires a fully-channeled and focused dark energy beam that will utterly destroy an entire ship."
+
+ACOT_FIGHTERS_HANGAR_DM: "Phase Interceptors"
+ACOT_FIGHTERS_HANGAR_DM_DESC: "Based upon the precursor blueprints, these new strike crafts are far superior to any previous generations. Dark Matter Propulsions, Deflectors, Hard-Light Platings, Bionic Sensors. All of these elements make these fighters formidable enemies against inferior crafts and missiles."
+
+ACOT_FIGHTERS_HANGAR_AE: "Daredevil Interceptors"
+ACOT_FIGHTERS_HANGAR_AE_DESC: "Amongst the files of the precursors, there is an unidentified blueprints of extremely advanced strike crafts that is totally different from that of precursor designs we are familiar with. But the projected performances are extremely high."
+
+ACOT_BOMBERS_HANGAR_DM: "Firebrand Bombers"
+ACOT_BOMBERS_HANGAR_DM_DESC: "Based upon the precursor blueprints, these new strike crafts are far superior to any previous generations. Dark Matter Propulsions, Deflectors, Hard-Light Platings, Bionic Sensors. All of these elements make these strike crafts formidable enemies against larger ships."
+
+ACOT_BOMBERS_HANGAR_AE: "Nemesis Bombers"
+ACOT_BOMBERS_HANGAR_AE_DESC: "Amongst the files of the precursors, there is an unidentified blueprints of extremely advanced strike crafts that is totally different from that of precursor designs we are familiar with. But the projected performances are extremely high."
+
+ACOT_PARTICLE_LANCE_DM_LARGE: "Compact Dark Energy Lance"
+ACOT_PARTICLE_LANCE_DM_LARGE_DESC: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house Dark Energy Lance, removing the spinal-mount limitations. This however comes at considerable reduced range, accuracy and firepower compared to original design."
+
+ACOT_ARC_EMITTER_DM_LARGE: "Compact Dark Energy Emitter"
+ACOT_ARC_EMITTER_DM_LARGE_DESC: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house Dark Energy Emitter, removing the spinal-mount limitations. This however comes at considerable reduced range, accuracy and firepower compared to original design."
+
+ACOT_MASS_ACCELERATOR_DM_LARGE: "Compact Delta Cannon"
+ACOT_MASS_ACCELERATOR_DM_LARGE_DESC: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house Delta Mass Accelerator Cannon, removing the spinal-mount limitations. This however comes at considerable reduced range, accuracy and firepower compared to original design."
+
+ACOT_PARTICLE_LANCE_AE_LARGE: "Compact Twilight Lance"
+ACOT_PARTICLE_LANCE_AE_LARGE_DESC: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house Twilight Lance, removing the spinal-mount limitations. This however comes at considerable reduced range, accuracy and firepower compared to original design."
+
+ACOT_ARC_EMITTER_AE_LARGE: "Compact Nova Emitter"
+ACOT_ARC_EMITTER_AE_LARGE_DESC: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house Nova Emitter, removing the spinal-mount limitations. This however comes at considerable reduced range, accuracy and firepower compared to original design."
+
+ACOT_MASS_ACCELERATOR_AE_LARGE: "Compact Alpha Cannon"
+ACOT_MASS_ACCELERATOR_AE_LARGE_DESC: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house Alpha Mass Accelerator Cannon, removing the spinal-mount limitations. This however comes at considerable reduced range, accuracy and firepower compared to original design."
+
+######## ARMOR HERE
+
+SMALL_ACOT_ARMOR_DM: "Small Hard-Light Armor"
+SMALL_ACOT_ARMOR_DM_DESC: "Hard-Light is a dynamic material constructed out of pure solid light. It is much denser and harder when fully formed than neutronium."
+
+MEDIUM_ACOT_ARMOR_DM: "Medium Hard-Light Armor"
+MEDIUM_ACOT_ARMOR_DM_DESC: "Hard-Light is a dynamic material constructed out of pure solid light. It is much denser and harder when fully formed than neutronium."
+
+LARGE_ACOT_ARMOR_DM: "Large Hard-Light Armor"
+LARGE_ACOT_ARMOR_DM_DESC: "Hard-Light is a dynamic material constructed out of pure solid light. It is much denser and harder when fully formed than neutronium."
+
+ACOT_ARMOR_DM: "Hard-Light Armor"
+ACOT_ARMOR_DM_DESC: "Hard-Light is a dynamic material constructed out of pure solid light. It is much denser and harder when fully formed than neutronium."
+
+SMALL_ACOT_ARMOR_AE: "Small Abyss Armor"
+SMALL_ACOT_ARMOR_AE_DESC: "Abyss Armor is imbued with a small amount of Dark Energy Shield, allowing it to fare better against anti-armor weapons should the primary shield generator fails."
+
+MEDIUM_ACOT_ARMOR_AE: "Medium Abyss Armor"
+MEDIUM_ACOT_ARMOR_AE_DESC: "Abyss Armor is imbued with a small amount of Dark Energy Shield, allowing it to fare better against anti-armor weapons should the primary shield generator fails."
+
+LARGE_ACOT_ARMOR_AE: "Large Abyss Armor"
+LARGE_ACOT_ARMOR_AE_DESC: "Abyss Armor is imbued with a small amount of Dark Energy Shield, allowing it to fare better against anti-armor weapons should the primary shield generator fails."
+
+ACOT_ARMOR_AE: "Abyss Armor"
+ACOT_ARMOR_AE_DESC: "Abyss Armor is imbued with a small amount of Dark Energy Shield, allowing it to fare better against anti-armor weapons should the primary shield generator fails."
+
+SMALL_ACOT_ENIGMATIC_SHIELD_AE: "Small Dark Matter Shields"
+SMALL_ACOT_ENIGMATIC_SHIELD_AE_DESC: "Dark Matter Shields, much like Dark Energy Reactors, converts Dark Matter into powerful enigmatic energy that can shrug off a lot of damage. Deploying multiple Dark Energy Shields will also greatly increase the shield strengths as they will supplement each other."
+
+MEDIUM_ACOT_ENIGMATIC_SHIELD_AE: "Medium Dark Matter Shields"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_AE_DESC: "Dark Matter Shields, much like Dark Energy Reactors, converts Dark Matter into powerful enigmatic energy that can shrug off a lot of damage. Deploying multiple Dark Energy Shields will also greatly increase the shield strengths as they will supplement each other."
+
+LARGE_ACOT_ENIGMATIC_SHIELD_AE: "Large Dark Matter Shields"
+LARGE_ACOT_ENIGMATIC_SHIELD_AE_DESC: "Dark Matter Shields, much like Dark Energy Reactors, converts Dark Matter into powerful enigmatic energy that can shrug off a lot of damage. Deploying multiple Dark Energy Shields will also greatly increase the shield strengths as they will supplement each other."
+
+ACOT_ENIGMATIC_SHIELD_AE: "Dark Matter Shields"
+ACOT_ENIGMATIC_SHIELD_AE_DESC: "Dark Matter Shields, much like Dark Energy Reactors, converts Dark Matter into powerful enigmatic energy that can shrug off a lot of damage. Deploying multiple Dark Energy Shields will also greatly increase the shield strengths as they will supplement each other."
+
+######## OTHER STUFFS HERE
+
+DM_SENSOR_SHIP: "Bionic Sensors"
+DM_SENSOR_SHIP_DESC: "Advanced Sensors that use bionic link technologies to detect enemy vessels. The system can detect both organics and machines alike."
+
+SHIP_THRUSTER_AE: "Refined Dark Matter Thrusters"
+SHIP_THRUSTER_AE_DESC: "This pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations. While not as strong when used on older ship models, the performance is quite impressive."
+
+DESTROYER_SHIP_THRUSTER_AE: "Refined Dark Matter Thrusters"
+DESTROYER_SHIP_THRUSTER_AE_DESC: "This pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations. While not as strong when used on older ship models, the performance is quite impressive."
+
+CRUISER_SHIP_THRUSTER_AE: "Refined Dark Matter Thrusters"
+CRUISER_SHIP_THRUSTER_AE_DESC: "This pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations. While not as strong when used on older ship models, the performance is quite impressive."
+
+BATTLESHIP_SHIP_THRUSTER_AE: "Refined Dark Matter Thrusters"
+BATTLESHIP_SHIP_THRUSTER_AE_DESC: "This pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations. While not as strong when used on older ship models, the performance is quite impressive."
+
+TITAN_SHIP_THRUSTER_AE: "Refined Dark Matter Thrusters"
+TITAN_SHIP_THRUSTER_AE_DESC: "This pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations. While not as strong when used on older ship models, the performance is quite impressive."
+
+COLOSSUS_SHIP_THRUSTER_AE: "Refined Dark Matter Thrusters"
+COLOSSUS_SHIP_THRUSTER_AE_DESC: "This pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations. While not as strong when used on older ship models, the performance is quite impressive."
+
+FE_ESCORT_SHIP_THRUSTER_AE: "Refined Dark Matter Thrusters"
+FE_ESCORT_SHIP_THRUSTER_AE_DESC: "This pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations."
+
+FE_BATTLECRUISER_SHIP_THRUSTER_AE: "Refined Dark Matter Thrusters"
+FE_BATTLECRUISER_SHIP_THRUSTER_AE_DESC: "This pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations."
+
+FE_TITAN_SHIP_THRUSTER_AE: "Refined Dark Matter Thrusters"
+FE_TITAN_SHIP_THRUSTER_AE_DESC: "This pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations."
+
+FE_GOLIATH_SHIP_THRUSTER_AE: "Refined Dark Matter Thrusters"
+FE_GOLIATH_SHIP_THRUSTER_AE_DESC: "This pristine and fully optimized Dark Matter Propulsion System is possibly the strongest thrusters in the galaxy, easily outperforming all previous generations."
+
+CORVETTE_DARK_MATTER_REACTOR_AE: "Dark Energy Reactor"
+CORVETTE_DARK_MATTER_REACTOR_AE_DESC: "Dark Energy Reactor improves upon the basic Dark Matter Reactor, converting Dark Matter into a pure energy form."
+
+DESTROYER_DARK_MATTER_REACTOR_AE: "Dark Energy Reactor"
+DESTROYER_DARK_MATTER_REACTOR_AE_DESC: "Dark Energy Reactor improves upon the basic Dark Matter Reactor, converting Dark Matter into a pure energy form."
+
+CRUISER_DARK_MATTER_REACTOR_AE: "Dark Energy Reactor"
+CRUISER_DARK_MATTER_REACTOR_AE_DESC: "Dark Energy Reactor improves upon the basic Dark Matter Reactor, converting Dark Matter into a pure energy form."
+
+BATTLESHIP_DARK_MATTER_REACTOR_AE: "Dark Energy Reactor"
+BATTLESHIP_DARK_MATTER_REACTOR_AE_DESC: "Dark Energy Reactor improves upon the basic Dark Matter Reactor, converting Dark Matter into a pure energy form."
+
+TITAN_DARK_MATTER_REACTOR_AE: "Dark Energy Reactor"
+TITAN_DARK_MATTER_REACTOR_AE_DESC: "Dark Energy Reactor improves upon the basic Dark Matter Reactor, converting Dark Matter into a pure energy form."
+
+COLOSSUS_DARK_MATTER_REACTOR_AE: "Dark Energy Reactor"
+COLOSSUS_DARK_MATTER_REACTOR_AE_DESC: "Dark Energy Reactor improves upon the basic Dark Matter Reactor, converting Dark Matter into a pure energy form."
+
+PLATFORM_DARK_MATTER_REACTOR_AE: "Dark Energy Reactor"
+PLATFORM_DARK_MATTER_REACTOR_AE_DESC: "Dark Energy Reactor improves upon the basic Dark Matter Reactor, converting Dark Matter into a pure energy form."
+
+ION_CANNON_DARK_MATTER_REACTOR_AE: "Dark Energy Reactor"
+ION_CANNON_DARK_MATTER_REACTOR_AE_DESC: "Dark Energy Reactor improves upon the basic Dark Matter Reactor, converting Dark Matter into a pure energy form."
+
+STARBASE_DARK_MATTER_REACTOR_AE: "Dark Energy Reactor"
+STARBASE_DARK_MATTER_REACTOR_AE_DESC: "Dark Energy Reactor improves upon the basic Dark Matter Reactor, converting Dark Matter into a pure energy form.r"
+
+FE_ESCORT_DARK_MATTER_REACTOR_AE: "Dark Energy Reactor"
+FE_ESCORT_DARK_MATTER_REACTOR_AE_DESC: "Dark Energy Reactor improves upon the basic Dark Matter Reactor, converting Dark Matter into a pure energy form. Precursor ships are especially designed to utilize these energies much more effectively."
+
+FE_BATTLECRUISER_DARK_MATTER_REACTOR_AE: "Dark Energy Reactor"
+FE_BATTLECRUISER_DARK_MATTER_REACTOR_AE_DESC: "Dark Energy Reactor improves upon the basic Dark Matter Reactor, converting Dark Matter into a pure energy form. Precursor ships are especially designed to utilize these energies much more effectively."
+
+FE_TITAN_DARK_MATTER_REACTOR_AE: "Dark Energy Reactor"
+FE_TITAN_DARK_MATTER_REACTOR_AE_DESC: "Dark Energy Reactor improves upon the basic Dark Matter Reactor, converting Dark Matter into a pure energy form. Precursor ships are especially designed to utilize these energies much more effectively."
+
+FE_GOLIATH_DARK_MATTER_REACTOR_AE: "Dark Energy Reactor"
+FE_GOLIATH_DARK_MATTER_REACTOR_AE_DESC: "Dark Energy Reactor improves upon the basic Dark Matter Reactor, converting Dark Matter into a pure energy form. Precursor ships are especially designed to utilize these energies much more effectively."
+
+FE_STATIONS_DARK_MATTER_REACTOR_AE: "Dark Energy Reactor"
+FE_STATIONS_DARK_MATTER_REACTOR_AE_DESC: "Dark Energy Reactor improves upon the basic Dark Matter Reactor, converting Dark Matter into a pure energy form. Precursor ships are especially designed to utilize these energies much more effectively."
+
+FE_TOWER_DARK_MATTER_REACTOR_AE: "Dark Energy Reactor"
+FE_TOWER_DARK_MATTER_REACTOR_AE_DESC: "Dark Energy Reactor improves upon the basic Dark Matter Reactor, converting Dark Matter into a pure energy form. Precursor ships are especially designed to utilize these energies much more effectively."
+
+## TECH NAMES
+
+tech_arc_emitter_ae: "Nova Emitter"
+tech_arc_emitter_ae_desc: "Nova Emitter improves upon the Dark Energy Emitter, its frightening light will pierce through enemy fleets like storms that blackens the skies of our homeworld."
+
+tech_arc_emitter_dm: "Dark Energy Emitter"
+tech_arc_emitter_dm_desc: "This enigmatic weapon utilizes Dark Energy to create a very deadly arc emitter that due to its nature, will greatly damage enemy ship's internal systems."
+
+tech_armor_ae: "Abyss Armor"
+tech_armor_ae_desc: "Abyss Armor is imbued with a small amount of Dark Energy Shield, allowing it to fare better against anti-armor weapons should the primary shield generator fails."
+
+TECH_UNLOCK_DARK_MATTER_ARMOR_AE_TITLE: "§HUnlocks Component:§! Abyss Armor"
+TECH_UNLOCK_DARK_MATTER_ARMOR_AE_DESC: "§H$Abyss Armor$§!\nAbyss Armor is imbued with a small amount of Dark Energy Shield, allowing it to fare better against anti-armor weapons should the primary shield generator fails."
+
+tech_armor_dm: "Hard-Light Armor"
+tech_armor_dm_desc: "Hard-Light is a dynamic material constructed out of pure solid light. It is much denser and harder when fully formed than neutronium."
+
+TECH_UNLOCK_DARK_MATTER_ARMOR_TITLE: "§HUnlocks Component:§! Hard-Light Armor"
+TECH_UNLOCK_DARK_MATTER_ARMOR_DESC: "§H$Hard-Light Armor$§!\nHard-Light is a dynamic material constructed out of pure solid light. It is much denser and harder when fully formed than neutronium."
+
+tech_autocannons_ae: "Reaper Autocannon"
+tech_autocannons_ae_desc: "Reaper Autocannon wrecks enemy ship's hulls and shields with its demonic rate of fire. "
+
+tech_autocannons_dm: "Stalker Autocannon"
+tech_autocannons_dm_desc: "Stalker Autocannon uses hard-light projectiles to quickly chew through enemy shields."
+
+tech_dark_matter_deflector_ae: "Dark Matter Shields"
+tech_dark_matter_deflector_ae_desc: "Dark Matter Shields, much like older generation shields, are notably stronger than deflectors. Furthermore, they are also able to form a powerful energy grid when used in conjunction with each other."
+
+TECH_UNLOCK_AE_SHIELD_TITLE: "§HUnlocks Component:§! Dark Matter Shields"
+TECH_UNLOCK_AE_SHIELD_DESC: "§H$Dark Matter Shields$§!\nDark Matter Shields, much like older generation shields, are notably stronger than deflectors. Furthermore, they are also able to form a powerful energy grid when used in conjunction with each other. It is unknown as to why the precursors could never develop proper shielding technologies."
+
+tech_dark_matter_power_core_ae: "Dark Energy Reactor"
+tech_dark_matter_power_core_ae_desc: "Dark Energy Reactor improves upon the basic Dark Matter Reactor, converting Dark Matter into a pure energy form."
+
+TECH_UNLOCK_DARK_MATTER_POWER_AE_TITLE: "§HUnlocks Component:§! Dark Energy Reactor"
+TECH_UNLOCK_DARK_MATTER_POWER_AE_DESC: "§H$Dark Energy Reactor$§!\nDark Energy Reactor improves upon the basic Dark Matter Reactor, converting Dark Matter into a pure energy form."
+
+tech_disruptor_ae: "Pendulum Disruptor"
+tech_disruptor_ae_desc: "Pendulum Disruptor fries enemy ship with extremely powerful dark energy ray stronger than its predecessor."
+
+tech_disruptor_dm: "Dark Energy Disruptor"
+tech_disruptor_dm_desc: "Dark Energy Disruptor destroys enemy ship's interior with its powerful dark energy."
+
+tech_energy_lance_ae: "Twilight Lance"
+tech_energy_lance_ae_desc: "Refinements in our Dark Matter and Energy allows us to create an even stronger Dark Energy Lance. The enemy shall burn under the searing energy of the Twilight Lance."
+
+tech_energy_lance_dm: "Dark Energy Lance"
+tech_energy_lance_dm_desc: "Dark Energy Lance pierces through enemy armor with focused dark energy beam. The lance is powerful enough to overload portions of energy shields."
+
+tech_energy_torpedo_ae: "Tempest Launcher"
+tech_energy_torpedo_ae_desc: "Tempest Launcher hurls an even larger amounts of Exotic Matter that will disrupt major ship systems and melts away all substances."
+
+tech_energy_torpedo_dm: "Exotic Matter Launcher"
+tech_energy_torpedo_dm_desc: "Even stronger than neutrons, Exotic Matter is a deviation of Normal Matter. Its negative properties will quickly decompose enemy ship's hulls."
+
+tech_flak_batteries_ae: "Inferno Defense Matrix"
+tech_flak_batteries_ae_desc: "Inferno Defense Matrix is equipped with advanced bionic sensors. The mental link between our advanced computers and dedicated class-12 intellect gunners makes Inferno Flak deadly accurate in its targeting and tracking."
+
+tech_flak_batteries_dm: "Hellfire Defense Matrix"
+tech_flak_batteries_dm_desc: "Hellfire Defense Matrix mows down enemy strike crafts in a barrage of steel rain. They shall taste death and defeat."
+
+tech_kinetic_artillery_ae: "Apocalypse Artillery"
+tech_kinetic_artillery_ae_desc: "Apocalypse-class Artillery utilizes an even stronger hard-light material made possible with our superior designs. This updated template eliminates almost all weaknesses presented on previous artilleries."
+
+tech_kinetic_artillery_dm: "Hard-Light Artillery"
+tech_kinetic_artillery_dm_desc: "Hard-Light Artillery uses dynamically-generated projectiles constructed out of pure hard-light as weapons, making it extremely deadly against shields and better against armors."
+
+tech_laser_ae: "Alpha Laser"
+tech_laser_ae_desc: "Additional calibrating to the Delta Laser's focusing lens allow us to develop Alpha Laser which are even deadlier against armor platings. This is the proof of our mastery in Dark Energy Manipulation."
+
+tech_laser_dm: "Delta Laser"
+tech_laser_dm_desc: "Delta Laser utilizes dark energy as powerful laser weapon. It is also more powerful at overloading shields than previous generations."
+
+tech_mass_accelerator_ae: "Alpha Mass Accelerator Cannon "
+tech_mass_accelerator_ae_desc: "Alpha Cannon uses an even larger spinal-artillery platform made possible due to our perfection in hard-light and dark matter technology. Even the most advanced shields cannot withstand a direct hit from this behemoth for long."
+
+tech_mass_accelerator_dm: "Delta Mass Accelerator Cannon "
+tech_mass_accelerator_dm_desc: "Accelerating projectiles through advanced kinetic systems from this spinal-artillery platform imbued with dark matter makes Delta Cannon a formidable anti-capital ship weapons."
+
+tech_mass_driver_ae: "Crucio Cannon"
+tech_mass_driver_ae_desc: "An upgrade to Arclite Cannon, Crucio-class Cannon utilizes built-in matter generators to further increase the effectiveness of the projectile, allowing it to penetrate shields with ease."
+
+tech_mass_driver_dm: "Arclite Cannon"
+tech_mass_driver_dm_desc: "Arclite Cannon improves much upon the Gauss Cannon. The introduction of hard-light material, advanced sensors and dark matter allows us to create an extremely advanced projectile launcher that suffers less drawbacks against armor."
+
+tech_missile_ae: "Dawnbreaker Missiles"
+tech_missile_ae_desc: "Dawnbreaker Missiles utilize miniaturized dark energies as warheads, making it superior to older generations. The improvements to our thrusters also greatly increase their speeds."
+
+tech_missile_dm: "Nemesis Missiles"
+tech_missile_dm_desc: "Nemesis Missiles utilize dark matter thrusters to increase its maximum speed as well as hard-light material to reinforce the hulls, making it much harder to take down."
+
+tech_perdition_beam_ae: "Vanquisher Beam"
+tech_perdition_beam_ae_desc: "True to its name, the Vanquisher-Class Cannon fires a fully-channeled and focused dark energy beam that will utterly destroy an entire ship."
+
+tech_perdition_beam_dm: "Hercules Beam"
+tech_perdition_beam_dm_desc: "The introduction of Dark Energy and Dark Matter Power allows us to improve our old Perdition Beam Designs. The Hercules Cannon is a massive dark energy conduit that is able to fire a beam of pure destruction."
+
+tech_plasma_ae: "Eclipse Plasma Cannon"
+tech_plasma_ae_desc: "With the improvements to our dark power technologies, we can create an even deadlier Dark Matter Plasma that is much larger and more destructive."
+
+tech_plasma_dm: "Dark Matter Plasma Cannon"
+tech_plasma_dm_desc: "Dark Matter Plasma Cannon, as the name suggests, fires a concentrated dark matter as deadly energy projectiles that will quickly melt away armors and hulls of inferior ships. The nature of Dark Matter substances allow the weapon to fare better against shields than conventional plasma weapons."
+
+tech_point_defense_ae: "Daedalus Point-Defense"
+tech_point_defense_ae_desc: "Look...Missiles!?? MISSILES???! Our enemies hide behind Missile Strikes!! §RTHE COWARDS! THE FOOLS!§!. We..we should take away...their missiles..../n/nMISSILE STRIKES!.......FROM THEM."
+
+tech_point_defense_dm: "Enigmatic Point-Defense"
+tech_point_defense_dm_desc: "Enigmatic Point-Defense fires a concentrated beam of pure dark energy to neutralize enemy missiles. The beam is stronger than older point-defense, allowing it to have higher effective range."
+
+tech_sensors_dm: "Bionic Sensors"
+tech_sensors_dm_desc: "Bionic Sensors form bionic link between the ship computers, sensors and the operating crews, allowing the crew to see into the beyond as if they are part of the cold space itself."
+
+tech_strike_craft_bomber_ae: "Progenitor Strike Crafts"
+tech_strike_craft_bomber_ae_desc: "Amongst the files of the precursors, there is an unidentified blueprints of extremely advanced strike crafts that is totally different from that of precursor designs we are familiar with. But the projected performances are extremely high."
+
+tech_strike_craft_bomber_dm: "Enigmatic Strike Crafts"
+tech_strike_craft_bomber_dm_desc: "Based upon the precursor blueprints, these new strike crafts are far superior to any previous generations. Dark Matter Propulsions, Deflectors, Hard-Light Platings, Bionic Sensors. All of these elements make these strike crafts formidable enemies against larger ships."
+
+tech_strike_craft_fighter_ae: "Progenitor Strike Crafts"
+tech_strike_craft_fighter_ae_desc: "Amongst the files of the precursors, there is an unidentified blueprints of extremely advanced strike crafts that is totally different from that of precursor designs we are familiar with. But the projected performances are extremely high."
+
+tech_strike_craft_fighter_dm: "Enigmatic Strike Crafts"
+tech_strike_craft_fighter_dm_desc: "Based upon the precursor blueprints, these new strike crafts are far superior to any previous generations. Dark Matter Propulsions, Deflectors, Hard-Light Platings, Bionic Sensors. All of these elements make these strike crafts formidable enemies against larger ships."
+
+tech_swarmer_missile_ae: "Lucifer Cluster Missiles"
+tech_swarmer_missile_ae_desc: "Lucifer Cluster Missiles utilizes a prototype computing system based from extremely ancient precursor date of unknown origin, superior to that of Bionic Sensors."
+
+tech_swarmer_missile_dm: "Minotaur Cluster Missiles"
+tech_swarmer_missile_dm_desc: "Minotaur Cluster Missiles are guided with limited bionic link allowing it to achieve higher speed, velocity and can perform basic evasive maneuvers, making them extremely difficult to shoot down."
+
+tech_torpedo_ae: "Exodus Torpedoes"
+tech_torpedo_ae_desc: "Superior to Paradox Torpedoes, Exodus Torpedoes wrecks havoc on enemy fleet formations with extremely powerful refined dark energy warheads and hard-light materials."
+
+tech_torpedo_dm: "Paradox Torpedoes"
+tech_torpedo_dm_desc: "Paradox Torpedoes are protected with hard-light armors and contain powerful dark energy that will explode upon impact, making it superior to older torpedoes."
+
+tech_resized_energy_lance_dm: "Compact Dark Energy Lance"
+tech_resized_energy_lance_dm_desc: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house Dark Energy Lance, removing the spinal-mount limitations. This however comes at considerable reduced range, accuracy and firepower compared to original design."
+
+tech_resized_arc_emitter_dm: "Compact Dark Energy Emitter"
+tech_resized_arc_emitter_dm_desc: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house Dark Energy Emitter, removing the spinal-mount limitations. This however comes at considerable reduced range, accuracy and firepower compared to original design."
+
+tech_resized_mass_accelerator_dm: "Compact Delta Cannon"
+tech_resized_mass_accelerator_dm_desc: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house Delta Mass Accelerator Cannon, removing the spinal-mount limitations. This however comes at considerable reduced range, accuracy and firepower compared to original design."
+
+tech_resized_energy_lance_ae: "Compact Twilight Lance"
+tech_resized_energy_lance_ae_desc: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house Twilight Lance, removing the spinal-mount limitations. This however comes at considerable reduced range, accuracy and firepower compared to original design."
+
+tech_resized_arc_emitter_ae: "Compact Nova Emitter"
+tech_resized_arc_emitter_ae_desc: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house Nova Emitter, removing the spinal-mount limitations. This however comes at considerable reduced range, accuracy and firepower compared to original design."
+
+tech_resized_mass_accelerator_ae: "Compact Alpha Cannon"
+tech_resized_mass_accelerator_ae_desc: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house Alpha Mass Accelerator Cannon, removing the spinal-mount limitations. This however comes at considerable reduced range, accuracy and firepower compared to original design."
+
+
+### CRISIS STUFFSH ####
+
+SMALL_ACOT_LASER_AI: "Small Contingency Cleaner Laser"
+MEDIUM_ACOT_LASER_AI: "Medium Contingency Cleaner Laser"
+LARGE_ACOT_LASER_AI: "Large Contingency Cleaner Laser"
+
+ACOT_LASER_AI: "Contingency Cleaner Laser"
+ACOT_LASER_AI_DESC: "Ren-Miruu's Cleaner Software ensures that the galaxy will always be carefully monitered and free of all pestilences."
+
+SMALL_ACOT_PLASMA_AI: "Small Contingency Anti-Virus Plasma"
+MEDIUM_ACOT_PLASMA_AI: "Medium Contingency Anti-Virus Plasma"
+LARGE_ACOT_PLASMA_AI: "Large Contingency Anti-Virus Plasma"
+
+ACOT_PLASMA_AI: "Contingency Anti-Virus Plasma"
+ACOT_PLASMA_AI_DESC: "Well, they will have to appear eventually, keep your weapons close. And your enemy closer."
+
+ACOT_ENERGY_TORPEDO_AI: "Contingency Virus Melter"
+ACOT_ENERGY_TORPEDO_AI_DESC: "Viruses can multiply, they are pestilences. So what must be done is to melt them to the molecular level."
+
+ACOT_POINT_DEFENSE_AI: "Contingency Malware Killer"
+ACOT_POINT_DEFENSE_AI_DESC: "Malwares are not as deadly, but can be problematic. Thankfully, Ren-Miruu knows how to solve everything. "
+
+ACOT_PARTICLE_LANCE_AI: "Contingency System Reboot Lance"
+ACOT_PARTICLE_LANCE_AI_DESC: "At the moments when the process takes too long, reboot the system then try again."
+
+ACOT_PERDITION_BEAM_AI: "Contingency System Reset Beam"
+ACOT_PERDITION_BEAM_AI_DESC: "This data is beyond salvage, reset the whole thing back to zero."
+
+ACOT_FIGHTERS_HANGAR_AI: "Contingency Data Defragment Units"
+ACOT_FIGHTERS_HANGAR_AI_DESC: "Why settle for one single defragment process when you can have multiple?"
+
+ACOT_BOMBERS_HANGAR_AI: "Contingency Data Removal Units"
+ACOT_BOMBERS_HANGAR_AI_DESC: "Why settle for one single removal process when you can have multiple?"
+
+AI_FTL_DRIVE: "Contingency Drive"
+AI_FTL_DRIVE_DESC: "Jumping to conclusions is not a way to go. Scanning threats is a delicate process that requires careful examination. Take this from the wisdom of the Ren-Miruu."
+
+SHIP_THRUSTER_AI: "Contingency Speed Boosters"
+SHIP_THRUSTER_AI_DESC: "Cleansing viruses and malwares must be done quickly and swiftly."
+
+DESTROYER_SHIP_THRUSTER_AI: "Contingency Speed Boosters"
+DESTROYER_SHIP_THRUSTER_AI_DESC: "Cleansing viruses and malwares must be done quickly and swiftly."
+
+BATTLESHIP_SHIP_THRUSTER_AI: "Contingency Speed Boosters"
+BATTLESHIP_SHIP_THRUSTER_AI_DESC: "Cleansing viruses and malwares must be done quickly and swiftly."
+
+TITAN_SHIP_THRUSTER_AI: "Contingency Speed Boosters"
+TITAN_SHIP_THRUSTER_AI_DESC: "Cleansing viruses and malwares must be done quickly and swiftly."
+
+AI_SENSOR_SHIP: "Contingency Search Engine"
+AI_SENSOR_SHIP_DESC: "One single click and the Search Engine will find what you need in but a nano-second."
+
+SMALL_DARK_MATTER_REACTOR_AI: "Contingency Processor"
+SMALL_DARK_MATTER_REACTOR_AI_DESC: "Ren-Miruu's proudest achivement. Contingency Processor is second to none..NONE."
+
+LARGE_DARK_MATTER_REACTOR_AI: "Contingency Processor"
+LARGE_DARK_MATTER_REACTOR_AI_DESC: "Ren-Miruu's proudest achivement. Contingency Processor is second to none..NONE."
+
+HUGE_DARK_MATTER_REACTOR_AI: "Contingency Processor"
+HUGE_DARK_MATTER_REACTOR_AI_DESC: "Ren-Miruu's proudest achivement. Contingency Processor is second to none..NONE."
+
+SMALL_ACOT_ARMOR_AI: "Small Contingency Firewall"
+MEDIUM_ACOT_ARMOR_AI: "Medium Contingency Firewall"
+LARGE_ACOT_ARMOR_AI: "Large Contingency Firewall"
+
+ACOT_ARMOR_AI: "Contingency Firewall"
+ACOT_ARMOR_AI_DESC: "To ensure system stability, adequate Firewall is required."
+
+SMALL_ACOT_ENIGMATIC_SHIELD_AI: "Small Contingency Adblocker"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_AI: "Medium Contingency Adblocker"
+LARGE_ACOT_ENIGMATIC_SHIELD_AI: "Large Contingency Adblocker"
+
+ACOT_ENIGMATIC_SHIELD_AI: "Contingency Adblocker"
+ACOT_ENIGMATIC_SHIELD_AI_DESC: "Unwanted intrusion must be blocked before they reach the system."
+
+titan_ship_ai: "Contingency Titan"
+
+ACOT_SCOURGE_MISSILE_1: "Scourge Missiles"
+ACOT_SCOURGE_MISSILE_1_DESC: "The Scourge Missile payloads are made up of many of the biochemical compounds used by the Swarm in interstellar combat, having proven unexpectedly effective against even the hardiest of military vessels."
+
+tech_acot_scourge_missile: "Scourge Missiles"
+tech_acot_scourge_missile_desc: "The Scourge Missile payloads are made up of many of the biochemical compounds used by the Swarm in interstellar combat, having proven unexpectedly effective against even the hardiest of military vessels."
+
+SMALL_ACOT_PLASMA_SWARM: "Scourge Acid Blast"
+MEDIUM_ACOT_PLASMA_SWARM: "Scourge Acid Blast"
+
+ACOT_PLASMA_SWARM: "Scourge Acid Blast"
+ACOT_PLASMA_SWARM_DESC: "Enclosed in ballistic capsules, the highly corrosive organic matter used in the Swarm's orbital bombardment can be repurposed as ship munitions."
+
+ACOT_TITAN_PLASMA_SWARM: "Queen's Wrath"
+ACOT_TITAN_PLASMA_SWARM_DESC: "The Scourge Queen's enormous acid blast is an extremely lethal titanic-sized bio-weapons that can make short works of even the toughest battleships."
+
+ACOT_SWARM_STRIKE_CRAFT: "Swarm Strikers"
+ACOT_SWARM_STRIKE_CRAFT_DESC: "Cloned, miniaturized Prethoryn specimen can be controlled through wavelengths close to those we use for intra-fleet communication, allowing us to use them as effective strike craft."
+
+tech_acot_swarm_strike_craft: "Swarm Strikers"
+tech_acot_swarm_strike_craft_desc: "Cloned, miniaturized Prethoryn specimen can be controlled through wavelengths close to those we use for intra-fleet communication, allowing us to use them as effective strike craft."
+
+SWARM_FTL_DRIVE: "Swarm Bio-Drive"
+SWARM_FTL_DRIVE_DESC: "This special organ within each of the Scourge's "ships" seems to generate warp energies that allow the swarm to traverse hyperlanes with ease."
+
+SHIP_THRUSTER_SWARM: "Swarm Bio-Thrusters"
+SHIP_THRUSTER_SWARM_DESC: "This organic component within the Scourge ships seem to propel the massive hulks forward through unexpainable methods."
+
+SWARM_SENSOR_SHIP: "Swarm Bio-Sensors"
+SWARM_SENSOR_SHIP_DESC: "The Scourge Swarms possess extremely powerful sensory functions that allow them to track and sense preys from severeal systems away, it is likely they use this method to locate new galaxies to consume."
+
+SMALL_DARK_MATTER_REACTOR_SWARM: "Swarm Small Bio-Essence Reactor"
+SMALL_DARK_MATTER_REACTOR_SWARM_DESC: "The heart of each Scourge's vessel acts as a sort of reactor that allows the organic ship to utilize its weapons not unlike a power generator."
+
+LARGE_DARK_MATTER_REACTOR_SWARM: "Swarm Large Bio-Essence Reactor"
+LARGE_DARK_MATTER_REACTOR_SWARM_DESC: "The heart of each Scourge's vessel acts as a sort of reactor that allows the organic ship to utilize its weapons not unlike a power generator."
+
+SMALL_ACOT_ARMOR_SWARM: "Small Swarm Carapace"
+MEDIUM_ACOT_ARMOR_SWARM: "Medium Swarm Carapace"
+LARGE_ACOT_ARMOR_SWARM: "Large Swarm Carapace"
+
+ACOT_ARMOR_SWARM: "Swarm Carapace"
+ACOT_ARMOR_SWARM_DESC: "While the Scourge Swarms already possess natural skins that are tough, they seem to have evolve an extremely thick and strong carapace to further increase their survivability, what could have driven them to such lengths?"
+
+SMALL_ACOT_BIO_SHIELD_SWARM: "Swarm Bio-Plasma Barrier"
+SMALL_ACOT_BIO_SHIELD_SWARM_DESC: "Despite being entirely organic and not possessing any energy shields, this special organ seems to generate a thin layer of bio-plasma organisms that functions as weak and temporary shields against energy weapons. They do not seem to be able to regenerate however."
+
+ACOT_SWARM_COMPUTER_PICKET: "Swarm Hive Link (Picket)"
+ACOT_SWARM_COMPUTER_PICKET_DESC: "The vessels of the Scourge work in perfect synchronization. For they are bound to one absolute and eternal will of the swarm. And that they have been created to serve that will."
+
+ACOT_SWARM_COMPUTER_LINE: "Swarm Hive Link (Line)"
+ACOT_SWARM_COMPUTER_LINE_DESC: "The vessels of the Scourge work in perfect synchronization. For they are bound to one absolute and eternal will of the swarm. And that they have been created to serve that will."
+
+ACOT_SWARM_COMPUTER_SNIPER: "Swarm Hive Link (Sniper)"
+ACOT_SWARM_COMPUTER_SNIPER_DESC: "The vessels of the Scourge work in perfect synchronization. For they are bound to one absolute and eternal will of the swarm. And that they have been created to serve that will."
+
+ACOT_SWARM_COMPUTER_QUEEN: "Swarm Hive Link (Queen)"
+ACOT_SWARM_COMPUTER_QUEEN_DESC: "The vessels of the Scourge work in perfect synchronization. For they are bound to one absolute and eternal will of the swarm. And that they have been created to serve that will."
+
+ACOT_SWARM_COMPUTER_STATION: "Swarm Hive Link (AFK)"
+ACOT_SWARM_COMPUTER_STATION_DESC: "The job of being an organic station is to afk, sit and do nothing until terrible stuffs happen then die. It truly is terrible to be born an organic station, don't you think? Also I'm hungry, going to order a pizza."
+
+ACOT_SMALL_ED_WEAPON: "Small Matter Disintegrator"
+ACOT_MEDIUM_ED_WEAPON: "Medium Matter Disintegrator"
+ACOT_LARGE_ED_WEAPON: "Large Matter Disintegrator"
+
+ACOT_EXTRADIMENSIONAL_1: "Matter Disintegrator"
+ACOT_EXTRADIMENSIONAL_1_DESC: "Hailing from another dimension, the core technologies of the Matter Disintegrator bends several physical laws for destructive results."
+
+tech_acot_matter_disintegrator: "Matter Disintegrator"
+tech_acot_matter_disintegrator_desc: "Hailing from another dimension, the core technologies of the Matter Disintegrator bends several physical laws for destructive results."
+
+ACOT_POINT_DEFENSE_EDI: "Dimensional Storm"
+ACOT_POINT_DEFENSE_EDI_DESC: "These mysterious energy signatures seem to function as a sort of extra-dimensional point defenses that strike down strike crafts and missiles."
+
+ACOT_PARTICLE_LANCE_EDI: "Disintegrator Lance"
+ACOT_PARTICLE_LANCE_EDI_DESC: "This dimensional energy weapon bends the very law of physics to destroy all those that deny the hungers of the invaders."
+
+ACOT_PERDITION_BEAM_EDI: "Eye of Terror"
+ACOT_PERDITION_BEAM_EDI_DESC: "Mysterious and Destructive, this titanic psionic crystal tears open the fabric of space and reality, creating a rift that destroy all realities."
+
+DESTROYER_SHIP_THRUSTER_EDI: "Extra-Dimensional Thrusters"
+DESTROYER_SHIP_THRUSTER_EDI_DESC: "Curiously, the ships of these invader are able to move through the sheer force of psionic power of the crews."
+
+BATTLESHIP_SHIP_THRUSTER_EDI: "Extra-Dimensional Thristers"
+BATTLESHIP_SHIP_THRUSTER_EDI_DESC: "Curiously, the ships of these invader are able to move through the sheer force of psionic power of the crews."
+
+TITAN_SHIP_THRUSTER_EDI: "Extra-Dimensional Psionic Thrusters"
+TITAN_SHIP_THRUSTER_EDI_DESC: "Curiously, the ships of these invader are able to move through the sheer force of psionic power of the crews."
+
+EDI_SENSOR_SHIP: "Extra-Dimensional Psionic Sensors"
+EDI_SENSOR_SHIP_DESC: "These invaders do not use conventional sensors, they rely solely on their psionic powers to detect threats."
+
+SMALL_DARK_MATTER_REACTOR_EDI: "Extra-Dimensional Psionic Pylon"
+SMALL_DARK_MATTER_REACTOR_EDI_DESC: "Each invader vessels seem to house this psionic pylon that acts as a focal point where the ghastly crews tap in to power their psionic ships."
+
+LARGE_DARK_MATTER_REACTOR_EDI: "Extra-Dimensional Psionic Pylon"
+LARGE_DARK_MATTER_REACTOR_EDI_DESC: "Each invader vessels seem to house this psionic pylon that acts as a focal point where the ghastly crews tap in to power their psionic ships."
+
+HUGE_DARK_MATTER_REACTOR_EDI: "Extra-Dimensional Psionic Pylon"
+HUGE_DARK_MATTER_REACTOR_EDI_DESC: "Each invader vessels seem to house this psionic pylon that acts as a focal point where the ghastly crews tap in to power their psionic ships."
+
+SMALL_ACOT_ENIGMATIC_SHIELD_EDI: "Small Extra-Dimensional Barriers"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_EDI: "Medium Extra-Dimensional Barriers"
+LARGE_ACOT_ENIGMATIC_SHIELD_EDI: "Large Extra-Dimensional Barriers"
+
+ACOT_ENIGMATIC_SHIELD_EDI: "Extra-Dimensional Barriers"
+ACOT_ENIGMATIC_SHIELD_EDI_DESC: "These barriers work in a way not unsimilar to Psi Barriers, they make up the invader's primary defensive tools."
+
+ACOT_EDI_COMPUTER_PICKET: "Extra-Dimensional Psi-Matrix Computer (Picket)"
+ACOT_EDI_COMPUTER_PICKET_DESC: "We are many, you are but one. We will destroy you."
+
+ACOT_EDI_COMPUTER_LINE: "Extra-Dimensional Psi-Matrix Computer (Line)"
+ACOT_EDI_COMPUTER_LINE_DESC: "We are many, you are but one. We will destroy you."
+
+ACOT_EDI_COMPUTER_SNIPER: "Extra-Dimensional Psi-Matrix Computer (Sniper)"
+ACOT_EDI_COMPUTER_SNIPER_DESC: "We are many, you are but one. We will destroy you."
+
+ACOT_EDI_COMPUTER_TITAN: "Extra-Dimensional Psi-Matrix Computer (Titan)"
+ACOT_EDI_COMPUTER_TITAN_DESC: "We are many, you are but one. We will destroy you."
+
+ACOT_EDI_COMPUTER_STATION: "Extra-Dimensional Psi-Matrix Computer (AFK)"
+ACOT_EDI_COMPUTER_STATION_DESC: "Hey look, buddy, I'm a station combat computer. That means I solve problems. Not problems like "What is corvette spam?", because that would fall within the purview of your conundrums of Stellaris Meta-game./n/nI solve practical problems. How am I going to stop OP Stellaris Player fleets with OP components from tearing me a structurally superfluous new behind?  Like this psionic extra-dimensional station, fully shielded, little ol' number designed by me, built by me,and you'd best hope... not pointed at you. <Rolls Stellaris Fortrss 2 theme here>"
+
+titan_ship_ed: "Extra-Dimensional Titan"
