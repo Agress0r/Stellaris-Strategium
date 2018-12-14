@@ -1,8 +1,11 @@
 ﻿l_russian:
 #漢化大佬們辛苦啦！
- country_resource_physics_research_add:0 "Ежемесячные физические исследования"
- country_resource_society_research_add:0 "Ежемесячные социологические исследования"
- country_resource_engineering_research_add:0 "Ежемесячные инженерные исследования"
+ mod_country_base_physics_research_produces_add:0 "Ежемесячные физические исследования"
+ mod_country_base_society_research_produces_add:0 "Ежемесячные социологические исследования"
+ mod_country_base_engineering_research_produces_add:0 "Ежемесячные инженерные исследования"
+ mod_megastructures_cost_mult:0 "Стоимость строительства мегаструктур"
+ mod_weapon_type_point_defense_weapon_fire_rate_mult:0 "Скорострельность орудий точечной защиты"
+ mod_tradition_cost_empire_size_mult:0 "Стоимость традиций от размера империи"
 
 sls_physics_add_lv0:0 "Ученый - физик"
  sls_physics_add_lv1:0 "$sls_physics_add_lv0$"
@@ -856,6 +859,7 @@ sls_swap_window_opened_tooltip:0 "§RМы связались с исследов
 
 sls.51.name:0 "Научный корпус разблокирован"
 sls.51.desc:0 "Ученый §H[sls_swap_leader_name.GetName]§! теперь может открыть свой §YНаучный корпус§!! \n\nВыберите один из них."
+sls.51.desc.b:0 "Учёный §H[sls_swap_leader_name.GetName]§! с §H[sls_swap_leader_name_ship.GetName]§! теперь может открыть свой §YНаучный корпус§!! \n\nВыберите один из них."
 sls.51.desc.head_researcher_phy:0 "Ученый §H[sls_swap_leader_name.GetName]§!, который управляет нашими §BФизическими исследованиями§!, может открыть свой §YНаучный корпус§!! \n\nВыберите один из них."
 sls.51.desc.head_researcher_soc:0 "Ученый §H[sls_swap_leader_name.GetName]§!, который управляет нашими §Gсоциологическими исследованиями§!, может открыть свой §YНаучный корпус§!! \n\nВыберите один из них."
 sls.51.desc.head_researcher_eng:0 "Ученый §H[sls_swap_leader_name.GetName]§!, который управляет нашими §HИнженерными исследованиями§!, может открыть свой §YНаучный корпус§!! \n\nВыберите один из них."
