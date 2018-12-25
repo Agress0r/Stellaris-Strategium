@@ -1,9 +1,7 @@
 ﻿l_russian:
 
-
-
- zofe_debug.1.name:0 "Внешний вид корабля"
- zofe_debug.1.desc:0 "Изменить внешний вид корабля?"
+ zofe_debug.1.name:0 "Внешний вид кораблей"
+ zofe_debug.1.desc:0 "Какой дизайн мы выберем?"
  zofe_debug.1.a:0 "$fallen_spiritualist$"
  zofe_debug.1.b:0 "$fallen_spiritualist_02$"
  zofe_debug.1.c:0 "$fallen_materialist$"
@@ -24,5 +22,9 @@
  zofe_debug.1.r:0 "$fallen_hive_mind_02$"
  zofe_debug.1.s:0 "$fallen_machine$"
  zofe_debug.1.t:0 "$fallen_machine_02$"
-
+ zofe_debug.1.w:0 "$fallen_megacorp$"
+ 
+ zofe_debug.2.name: "Насильное Вознесение (Чит)"
+ zofe_debug.2.desc: "Ты делаешь большую ошибку."
+ zofe_debug.2.a: "Ужасно!"
 
