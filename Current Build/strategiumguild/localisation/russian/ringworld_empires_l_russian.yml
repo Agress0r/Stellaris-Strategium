@@ -1,5 +1,15 @@
 ﻿l_russian:
 
+d_ancestor_ruins:0 "Древние руины"
+d_ancestor_ruins_desc:0 "Эти руины выглядят древними, их происхождение остается загадкой."
+
+d_ancestor_mineral_vault:0 "Древнее хранилище минералов"
+d_ancestor_mineral_vault_desc:0 "Сканеры обнаружили большое количество минералов, спрятанных под поверхностью."
+
+d_ancestor_ship_graveyard:0 "Древнее кладбище кораблей"
+d_ancestor_ship_graveyard_desc:0 "Остатки древних космических кораблей разбросаны по поверхности."
+
+
 beacon_of_infinity_system_initializer_NAME:0 "Маяк бесконечности"
 beacon_of_infinity_system_initializer_DESC:0 "Начало в мире-кольце с (4) секциями в системе с жёлтой звездой, с одним соседним кольцом (1) и 1 разрушенным кольцом в соседних системах."
 

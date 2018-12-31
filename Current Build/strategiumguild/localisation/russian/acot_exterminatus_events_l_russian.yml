@@ -1,0 +1,9 @@
+﻿l_russian:
+
+### EXTERMINATUS TEXTS #####
+exterminatus_event.2.name:0 "[From.GetName] Exterminated"
+exterminatus_event.2.desc:0 "Our enemies have performed Exterminatus on one of our colony, §H[From.GetName]§!. Reports indicated that they have utterly destroyed all traces of life, turning the entire planet into a molten fireball."
+exterminatus_event.2.a: "This atrocity must be avenged!"
+exterminatus_event.3.desc:0 "Our admirals have notified us that they have finished performing their charges and the Exterminatus of §H[From.GetName]§! has come to it's conclusion. The planet is now nothing but a molten core devoid of all life."
+exterminatus_event.3.a:0 "Let this be a lesson to their kind!"
+bombed_to_molten_world:0 "§Y[From.GetName] is now a burning Molten World.§!"

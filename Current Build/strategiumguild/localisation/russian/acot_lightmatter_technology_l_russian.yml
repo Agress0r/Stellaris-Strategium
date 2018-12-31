@@ -1,0 +1,330 @@
+﻿l_russian:
+
+### SHIP COMPONENTS TEXTS
+TECH_UNLOCK_ORIGIN_ARMOR_TITLE: "§HUnlocks Component:§! Celestial Armor"
+TECH_UNLOCK_ORIGIN_ARMOR_DESC: "Celestial Armor utilizes solidified Light Matter to create one of the most powerful hull material known to any civilizations."
+
+TECH_UNLOCK_ORIGIN_PLATINGS_TITLE: "§HUnlocks Component:§! Seraph Platings"
+TECH_UNLOCK_ORIGIN_PLATINGS_DESC: "These platings are made by unknown materials that are not only extremely durable but also able to reshape and regenerate themselves to repair any damages done to the ship's hull."
+
+TECH_UNLOCK_ORIGIN_SHIELD_TITLE: "§HUnlocks Component:§! Divine Shield"
+TECH_UNLOCK_ORIGIN_SHIELD_DESC: "This Light Matter-based shield is even stronger than Stellarite Shields as the shields are reinforced with the Omni-Matrix Network itself."     
+
+TECH_UNLOCK_ORIGIN_THRUSTER_TITLE: "§HUnlocks Component:§! Light Matter Thrusters"
+TECH_UNLOCK_ORIGIN_THRUSTER_DESC: "Ancient yet extremely powerful ship thrusters far exceed that of other designs made by lesser empires."
+      
+TECH_UNLOCK_ORIGIN_REACTOR_TITLE: "§HUnlocks Component:§! Light Matter Reactor"
+TECH_UNLOCK_ORIGIN_REACTOR_DESC: "Due to the immense power output of the Light Matter, only a single reactor type is required to power all kinds of ships. It is more benificial to field the reactor on larger ships over smaller ones."
+
+TECH_UNLOCK_ORIGIN_OENSORS_TITLE: "§HUnlocks Component:§! Light Matter Arrays"
+TECH_UNLOCK_ORIGIN_OENSORS_DESC: "This latest detection systems determine ship movements through the now ever-expanding light matter throughout subspaces. No evil shall escape our sight."
+
+TECH_UNLOCK_ORIGIN_CCOM_TITLE: "§HUnlocks Component:§! Omni-Matrix Combat Analyzer"
+TECH_UNLOCK_ORIGIN_CCOM_DESC: "The Omni-Matrix Combat Analyzer is the most advanced bio-synthetic combat computer adaptation ever developed. The system effectively increases the amount of operating crews by two-fold or more without actually taking up space of the ship."
+
+TECH_UNLOCK_ORIGIN_JDRIVE_TITLE: "§HUnlocks Component:§! Eternity Stellar Drive"
+TECH_UNLOCK_ORIGIN_JDRIVE_DESC: "Embrace Light Matter. Embrace Eternity. The Stars are in our grasp"
+
+ACOT_LASER_OE: "Omega Laser Cannon"
+ACOT_LASER_OE_DESC: "Omega Laser utilizes Light Matter energy to cleave ship platings like butter. it is far superior to any other previously known laser weaponry."
+
+ACOT_PLASMA_OE: "Light Matter Plasma Cannon"
+ACOT_PLASMA_OE_DESC: "Light Matter can be modified as a very powerful corrosive-like state that can eat away other materials whole, creating an extremely deadly anti-ship weapons."
+
+SMALL_ACOT_DISRUPTOR_OE: "Ray of Light"
+SMALL_ACOT_DISRUPTOR_OE_DESC: "This advanced disruptor weapon modifies Light Matter substance into a high-frequency wave that deconstructs matter on the molecular level, deleting the enemy ship from existence, bypassing all useless armors and shields they hide behind. Stupid metal boxes."
+
+MEDIUM_ACOT_DISRUPTOR_OE: "Ray of Light"
+MEDIUM_ACOT_DISRUPTOR_OE_DESC: "This advanced disruptor weapon modifies Light Matter substance into a high-frequency wave that deconstructs matter on the molecular level, deleting the enemy ship from existence, bypassing all useless armors and shields they hide behind. Stupid metal boxes."
+
+ACOT_DISRUPTOR_OE: "Ray of Light"
+ACOT_DISRUPTOR_OE_DESC: "This advanced disruptor weapon modifies Light Matter substance into a high-frequency wave that deconstructs matter on the molecular level, deleting the enemy ship from existence, bypassing all useless armors and shields they hide behind. Stupid metal boxes."
+
+ACOT_OMNI_PLASMA_OE: "Supercharged Light Energy Cannon"
+ACOT_OMNI_PLASMA_OE_DESC: "Based on the same concept as previous design, the weapon is able to fire an even deadlier light energy sphere over a longer distance."
+
+ACOT_PARTICLE_LANCE_OE: "Searing Prismatic Lance"
+ACOT_PARTICLE_LANCE_OE_DESC: "This spinal amplifier weapon fires a continious stream of light energy through prismatic lens and light crystal to devastate enemy formations."
+
+ACOT_POINT_DEFENSE_OE: "Lancer Point Defense System"
+ACOT_POINT_DEFENSE_OE_DESC: "The ability to manipulate Light Matter at will allows this PDS to fire an equivalent of micro-lance energy weapon. The effect is destructive to all targets, especially compared to other PDS by standards."
+
+ACOT_ARC_EMITTER_OE: "Divine Storm Discharger"
+ACOT_ARC_EMITTER_OE_DESC: "Divine Storm Discharger cleaves through enemy ships with high-frequency, solidified light matter."
+
+ACOT_PERDITION_BEAM_OE: "Light of Arya"
+ACOT_PERDITION_BEAM_OE_DESC: "A weapon forged out of pure anger, Light of Arya infuses the operator's will to kill the enemy into the already destructive weapon into an even greater intensity. Rip and Tear."
+
+ACOT_AUTOCANNON_OE: "Light Pulse-Cannon"
+ACOT_AUTOCANNON_OE_DESC: "This short-ranged anti-shield automatic weapon utilizes special ammunication loaded with solidified light matter canisters that explodes on contact with extremely deadly precision and kinetic force."
+
+ACOT_MASS_DRIVER_OE: "Starbreaker Cannon"
+ACOT_MASS_DRIVER_OE_DESC: "Starbreaker Cannon further amplifies the power of the kinetic force of Sundowner Cannon by further augmenting it with light matter and psionic-focusing of the operator."
+
+ACOT_FLAK_CANNON_OE: "Omega Kinetic Defense System"
+ACOT_FLAK_CANNON_OE_DESC: "Omega-class KDS is an improved version of the previous model, featuring even more potent defensive mechanisms unrivalled by any."
+
+ACOT_ARTILLERY_OE: "Lightbound Hyperveolocity Artillery"
+ACOT_ARTILLERY_OE_DESC: "Lightbound Artillery fires an even stronger super-accelerated light matter shell that makes short work of enemy ships across massive distances without losing density and force."
+
+ACOT_MASS_ACCELERATOR_OE: "Gatecrusher Warp Cannon"
+ACOT_MASS_ACCELERATOR_OE_DESC: "Gatecrusher Warp Cannon fires an enormous slug encased with light matter energy that warps itself into enemy ships via micro-wormhole, bypassing travelling dinstance while still maintaining the full kinetic force, speed and velocity. Our ships can even look away while doing it, because cool guys don't look at explosions."
+
+ACOT_MISSILE_OE: "Dual Lightbringer Missile"
+ACOT_MISSILE_OE_DESC: "Lightbringer Missiles are not not only more destructive than Starviper, but are also fired in pairs. This makes them much harder to take down while doublling their firepowers."
+
+ACOT_FIGHTERS_HANGAR_OE: "Paladin Inteceptor"
+ACOT_FIGHTERS_HANGAR_OE: "State-of-the-art inteceptors that outperform all crappier generations. Let the hunt begins."
+
+ACOT_BOMBERS_HANGAR_OE: "Crusader Bomber"
+ACOT_BOMBERS_HANGAR_OE_DESC: "State-of-the-art bombers that outperform all crappier generations. Time to put on the real show."
+
+ACOT_GUNSHIP_HANGAR_OE: "Tempest Gunship"
+ACOT_GUNSHIP_HANGAR_OE_DESC: "The Tempest  improves upon the Firestorm-Class Gunship, featuring even better protection and firepower."
+
+ACOT_ULTIMATE_WEAPON: "Divine Judgement"
+ACOT_ULTIMATE_WEAPON_DESC: "One of the most powerful arsenal ever developed, Divine Judgement projects the ultimate form of expression of the progenitor with destructive force of light matter and psionic energy"
+
+ACOT_FLAGSHIP_SUPER_WEAPON: "Divine Intervention"
+ACOT_FLAGSHIP_SUPER_WEAPON: "Thanks to the Arkship's six enormous power pylons, the Divine Intervention-class Juddgement Beams are much stronger and faster than one utilized by smaller capital ships."
+
+ACOT_PLANET_KILLER_NANITE: "Divine Punishment"
+ACOT_PLANET_KILLER_NANITE_DESC: "Your meme ENDS HERE."
+
+ACOT_ARMOR_OE: "Celestial Armor"
+ACOT_ARMOR_OE_DESC: "Celestial Armor utilizes solidified Light Matter to create one of the most powerful hull material known to any civilizations."
+ACOT_ENIGMATIC_SHIELD_OE: "Divine Shield"
+ACOT_ENIGMATIC_SHIELD_OE_DESC: "This Light Matter-based shield is even stronger than Stellarite Shields as the shields are reinforced with the Omni-Matrix Network itself."
+
+SMALL_ACOT_ARMOR_OE: "Small Celestial Armor"
+SMALL_ACOT_ARMOR_OE_DESC: "Celestial Armor utilizes solidified Light Matter to create one of the most powerful hull material known to any civilizations."
+
+MEDIUM_ACOT_ARMOR_OE: "Medium Celestial Armor"
+MEDIUM_ACOT_ARMOR_OE_DESC: "Celestial Armor utilizes solidified Light Matter to create one of the most powerful hull material known to any civilizations."
+
+LARGE_ACOT_ARMOR_OE: "Large Celestial Armor"
+LARGE_ACOT_ARMOR_OE_DESC: "Celestial Armor utilizes solidified Light Matter to create one of the most powerful hull material known to any civilizations."
+
+SMALL_ACOT_ENIGMATIC_SHIELD_OE: "Small Divine Shield"
+SMALL_ACOT_ENIGMATIC_SHIELD_OE_DESC: "This Light Matter-based shield is even stronger than Stellarite Shields as the shields are reinforced with the Omni-Matrix Network itself."
+
+MEDIUM_ACOT_ENIGMATIC_SHIELD_OE: "Medium Divine Shield"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_OE_DESC: "This Light Matter-based shield is even stronger than Stellarite Shields as the shields are reinforced with the Omni-Matrix Network itself."
+
+LARGE_ACOT_ENIGMATIC_SHIELD_OE: "Large Divine Shield"
+LARGE_ACOT_ENIGMATIC_SHIELD_OE_DESC: "This Light Matter-based shield is even stronger than Stellarite Shields as the shields are reinforced with the Omni-Matrix Network itself."
+
+STELLARITE_DRIVE_OE: "Eternity Stellar Drive"
+STELLARITE_DRIVE_OE_DESC: "Embrace Light Matter, and travels anywhere across the galaxy."
+
+SHIP_THRUSTER_OE: "Light Matter Thrusters"
+SHIP_THRUSTER_OE_DESC: "Extremely powerful ship thrusters utilizing Light Matter power to move at incridible speed."
+
+DESTROYER_SHIP_THRUSTER_OE: "Light Matter Thrusters"
+DESTROYER_SHIP_THRUSTER_OE_DESC: "Extremely powerful ship thrusters utilizing Light Matter power to move at incridible speed."
+
+CRUISER_SHIP_THRUSTER_OE: "Light Matter Thrusters"
+CRUISER_SHIP_THRUSTER_OE_DESC: "Extremely powerful ship thrusters utilizing Light Matter power to move at incridible speed."
+
+BATTLESHIP_SHIP_THRUSTER_OE: "Light Matter Thrusters"
+BATTLESHIP_SHIP_THRUSTER_OE_DESC: "Extremely powerful ship thrusters utilizing Light Matter power to move at incridible speed."
+
+TITAN_SHIP_THRUSTER_OE: "Light Matter Thrusters"
+TITAN_SHIP_THRUSTER_OE_DESC: "Extremely powerful ship thrusters utilizing Light Matter power to move at incridible speed."
+
+COLOSSUS_SHIP_THRUSTER_OE: "Light Matter Thrusters"
+COLOSSUS_SHIP_THRUSTER_OE_DESC: "Extremely powerful ship thrusters utilizing Light Matter power to move at incridible speed."
+
+OE_SENSOR_SHIP: "Light Matter Arrays"
+OE_SENSOR_SHIP_DESC: "This latest detection systems determine ship movements through the now ever-expanding light matter throughout subspaces. No evil shall escape our sight."
+
+LIGHT_MATTER_REACTOR_OE: "Light Matter Reactor"
+LIGHT_MATTER_REACTOR_OE_DESC: "Due to the immense power output of the Light Matter, only a single reactor type is required to power all kinds of ships. It is more benificial to field the reactor on larger ships over smaller ones."
+
+OE_OFFENSIVE_COMBAT_COMPUTER: "Offensive Omni-Matrix Analyzer (Small Ships)"
+OE_OFFENSIVE_COMBAT_COMPUTER_DESC: "The Omni-Matrix Combat Analyzer is the most advanced bio-synthetic combat computer adaptation ever developed. The system effectively increases the amount of operating crews by two-fold or more without actually taking up space of the ship. This variation is adapted at offensive tactics."
+
+OE_BALANCE_COMBAT_COMPUTER: "Balanced Omni-Matrix Analyzer (Small Ships)"
+OE_BALANCE_COMBAT_COMPUTER_DESC: "The Omni-Matrix Combat Analyzer is the most advanced bio-synthetic combat computer adaptation ever developed. The system effectively increases the amount of operating crews by two-fold or more without actually taking up space of the ship."
+
+OE_DEFENSIVE_COMBAT_COMPUTER: "Defensive Omni-Matrix Analyzer (Small Ships)"
+OE_DEFENSIVE_COMBAT_COMPUTER_DESC: "The Omni-Matrix Combat Analyzer is the most advanced bio-synthetic combat computer adaptation ever developed. The system effectively increases the amount of operating crews by two-fold or more without actually taking up space of the ship. This variation is adapted at defensive tactics."
+
+
+OE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Offensive Omni-Matrix Analyzer (Large Ships)"
+OE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "The Omni-Matrix Combat Analyzer is the most advanced bio-synthetic combat computer adaptation ever developed. The system effectively increases the amount of operating crews by two-fold or more without actually taking up space of the ship. This variation is adapted at offensive tactics."
+
+OE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "Balanced Omni-Matrix Analyzer (Large Ships"
+OE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "The Omni-Matrix Combat Analyzer is the most advanced bio-synthetic combat computer adaptation ever developed. The system effectively increases the amount of operating crews by two-fold or more without actually taking up space of the ship."
+
+OE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Defensive Omni-Matrix Analyzer (Large Ships)"
+OE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "The Omni-Matrix Combat Analyzer is the most advanced bio-synthetic combat computer adaptation ever developed. The system effectively increases the amount of operating crews by two-fold or more without actually taking up space of the ship. This variation is adapted at defensive tactics."
+
+
+OE_OFFENSIVE_COMBAT_COMPUTER_TITAN: "Offensive Omni-Matrix Analyzer (Titanic Ships)"
+OE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "The Omni-Matrix Combat Analyzer is the most advanced bio-synthetic combat computer adaptation ever developed. The system effectively increases the amount of operating crews by two-fold or more without actually taking up space of the ship. This variation is adapted at offensive tactics."
+
+OE_BALANCE_COMBAT_COMPUTER_TITAN: "Balanced Omni-Matrix Analyzer (Titanic Ships)"
+OE_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "The Omni-Matrix Combat Analyzer is the most advanced bio-synthetic combat computer adaptation ever developed. The system effectively increases the amount of operating crews by two-fold or more without actually taking up space of the ship."
+
+OE_DEFENSIVE_COMBAT_COMPUTER_TITAN: "Defensive Omni-Matrix Analyzer (Titanic Ships)"
+OE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "The Omni-Matrix Combat Analyzer is the most advanced bio-synthetic combat computer adaptation ever developed. The system effectively increases the amount of operating crews by two-fold or more without actually taking up space of the ship. This variation is adapted at defensive tactics."
+
+
+OE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "Offensive Omni-Matrix Analyzer (Goliath)"
+OE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "The Omni-Matrix Combat Analyzer is the most advanced bio-synthetic combat computer adaptation ever developed. The system effectively increases the amount of operating crews by two-fold or more without actually taking up space of the ship. This variation is adapted at offensive tactics."
+
+OE_BALANCE_COMBAT_COMPUTER_GOLIATH: "Balanced Omni-Matrix Analyzer (Goliath)"
+OE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "The Omni-Matrix Combat Analyzer is the most advanced bio-synthetic combat computer adaptation ever developed. The system effectively increases the amount of operating crews by two-fold or more without actually taking up space of the ship."
+
+OE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "Defensive Omni-Matrix Analyzer (Goliath)"
+OE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "The Omni-Matrix Combat Analyzer is the most advanced bio-synthetic combat computer adaptation ever developed. The system effectively increases the amount of operating crews by two-fold or more without actually taking up space of the ship. This variation is adapted at defensive tactics."
+
+OE_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "Offensive Omni-Matrix Analyzer (Station)"
+OE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "The Omni-Matrix Combat Analyzer is the most advanced bio-synthetic combat computer adaptation ever developed. The system effectively increases the amount of operating crews by two-fold or more without actually taking up space of the ship. This variation is adapted at offensive tactics."
+
+OE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "Defensive Omni-Matrix Analyzer (Platform Station XBOX One)"
+OE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "The Omni-Matrix Combat Analyzer is the most advanced bio-synthetic combat computer adaptation ever developed. The system effectively increases the amount of operating crews by two-fold or more without actually taking up space of the ship. This variation is adapted at defensive tactics."
+
+ACOT_AFTERBURNERS_OE: "Omega Afterburners"
+ACOT_AFTERBURNERS_OE_DESC: "In the events that the thrusters alone are still not enough for the ship to go fast. Omega Afterburners can be used to drive the ship closer so that you can hit them with your SWORD! HUO HAEE HYIEE HWAHHH KWAHHH~ It's over!"
+
+ACOT_HYPERCHARGED_JUMPER_OE: "Omega Supercharged Hyperdrive Amplifier "
+ACOT_HYPERCHARGED_JUMPER_OE_DESC: "Additional auxilary amplifiers can be installed on the jump drive's modular turbines to increase their performance. This model requires almost no burden on the FTL driver. Useful for performing Tacticool Espionage Action."
+
+ACOT_REPAIR_COUNTERMEASURES_OE: "Omega Reactive Countermeasure Drones"
+ACOT_REPAIR_COUNTERMEASURES_OE_DESC: "The most sophisticated and durable of all UMDs, the Omega-Class provides the best protection, deterrances and maintenances. Their services will be honored in the archieves of our empire."
+
+ACOT_SHIELD_BOOSTER_OE: "Light Matter Supercharged Barrier"
+ACOT_SHIELD_BOOSTER_OE_DESC: "Superchaging barriers grant the ship's shield generators almost twice as much strengths, far exceeding older generations."
+
+ACOT_WEAPONS_CORE_OE: "Super-focused Light Matter Core"
+ACOT_WEAPONS_CORE_OE_DESC: "Super-focused Light Matter Core converts excess energies from surrounding materials to amplify the ship's weapon systems for even greater performance than before."
+
+ACOT_AURA_TECH_INHIBITOR_OE: "Seraphim Network Inhibitor"
+ACOT_AURA_TECH_INHIBITOR_OE_DESC: "This extremely powerful device inteferes with enemy systems, zapping away their powers and bestows them on allied ships. None may challenge us and live to tell the tale. Kill or be killed, Jack."
+
+ACOT_AURA_SUPERAURA_OE: "Light Matter Forge Network"
+ACOT_AURA_SUPERAURA_OE_DESC: "A special network orchestrated from the flagship that  establishes powerful artificial link between all vessel's computers within the fleet, tuning them together into an undying meme. All Memes. All passed along."
+
+ACOT_AUX_ENIGMATIC_AI: "Omni-Matrix Anti-Life Equation Database"
+ACOT_AUX_ENIGMATIC_AI_DESC: "This database contains all the informations regarding all weakpoints, flaws and exploitable mechanics of all progenitor-era designs in full detail that can be uploaded to all ship's weapon systems."
+
+aura_origin: "Concentrated Network"
+friendly_tech_inhibitor_aura: "Hostile Network Inhibitor"
+hostile_tech_inhibitor_aura: "Friendly Network Amplifier"
+
+shipsize_colossus_hull_add: "Colossus Hull Add"
+
+ORIGIN_PLANET_KILLER_NANITE: "Nanite Cleanser"
+ORIGIN_PLANET_KILLER_NANITE_DESC: "Nanite Cleanser is Orginal Empire's frightening weapon that can quickly terraform and cleanse the entire world with Nanite."
+ORIGIN_PLANET_KILLER_NANITE_ACTION: "Nanite-Cleanse"
+
+FLEETORDER_DESTROY_PLANET_WITH_ORIGIN_PLANET_KILLER_NANITE: "Preparing to cleanse $PLANET|Y$ with nanites"
+MESSAGE_DESC_FOR_ORIGIN_PLANET_KILLER_NANITE: "was cleansed by nanites from"
+is_nanited: "§R$TRIGGER_FAIL$Target is already a Nanite World§!"
+
+tech_lightmatter_afterburners: "Omega Afterburners"
+tech_lightmatter_afterburners_desc: "In the events that the thrusters alone are still not enough for the ship to go fast. Omega Afterburners can be used to drive the ship closer so that you can hit them with your SWORD! HUO HAEE HYIEE HWAHHH KWAHHH~ It's over!"
+
+tech_lightmatter_armor: "Celestial Armor"
+tech_lightmatter_armor_desc: "Celestial Armor utilizes solidified Light Matter to create one of the most powerful hull material known to any civilizations."
+
+tech_lightmatter_artillery: "Lightbound Hypervelocity Artillery"
+tech_lightmatter_artillery_desc: "Lightbound Artillery fires an even stronger super-accelerated light matter shell that makes short work of enemy ships across massive distances without losing density and force."
+
+tech_lightmatter_aura_energy_drainer: "Seraphim Network Inhibitor"
+tech_lightmatter_aura_energy_drainer_desc: "This extremely powerful device inteferes with enemy systems, zapping away their powers and bestows them on allied ships. None may challenge us and live to tell the tale. Kill or be killed, Jack."
+
+tech_lightmatter_autocannon: "Light Pulse-Cannon"
+tech_lightmatter_autocannon_desc: "This short-ranged anti-shield automatic weapon utilizes special ammunication loaded with solidified light matter canisters that explodes on contact with extremely deadly precision and kinetic force."
+
+tech_lightmatter_lance: "Searing Prismatic Lance"
+tech_lightmatter_lance_desc: "This spinal amplifier weapon fires a continious stream of light energy through prismatic lens and light crystal to devastate enemy formations."
+
+tech_lightmatter_bomber: "Crusader Bombers"
+tech_lightmatter_bomber_desc: "State-of-the-art bombers that outperform all crappier generations. Time to put on the real show."
+
+tech_lightmatter_disruptor: "Ray of Light"
+tech_lightmatter_disruptor_desc: "This advanced disruptor weapon modifies Light Matter substance into a high-frequency wave that deconstructs matter on the molecular level, deleting the enemy ship from existence, bypassing all useless armors and shields they hide behind. Stupid metal boxes."
+
+tech_lightmatter_emitter: "Divine Storm Emitter"
+tech_lightmatter_emitter_desc: "Divine Storm Discharger cleaves through enemy ships with high-frequency, solidified light matter."
+
+tech_lightmatter_fighter: "Paladin Interceptors"
+tech_lightmatter_fighter_desc: "State-of-the-art inteceptors that outperform all crappier generations. Let the hunt begins."
+
+tech_lightmatter_flak: "Omega Kinetic Defense System"
+tech_lightmatter_flak_desc: "Omega-class KDS is an improved version of the previous model, featuring even more potent defensive mechanisms unrivalled by any."
+
+tech_lightmatter_gauss: "Starbreaker Cannon"
+tech_lightmatter_gauss_desc: "Starbreaker Cannon further amplifies the power of the kinetic force of Sundowner Cannon by further augmenting it with light matter and psionic-focusing of the operator."
+
+tech_lightmatter_gunship: "Tempest Gunship"
+tech_lightmatter_gunship_desc: "The Tempest  improves upon the Firestorm-Class Gunship, featuring even better protection and firepower."
+
+tech_lightmatter_hyper_jump_drive: "Omega Supercharged Hyperdrive Amplifier"
+tech_lightmatter_hyper_jump_drive_desc: "Additional auxilary amplifiers can be installed on the jump drive's modular turbines to increase their performance. This model requires almost no burden on the FTL driver. Useful for performing Tacticool Espionage Action."
+
+tech_lightmatter_inspire_aura: ""Light Matter Forge Network"
+tech_lightmatter_inspire_aura_desc: "A special network orchestrated from the flagship that  establishes powerful artificial link between all vessel's computers within the fleet, tuning them together into an undying meme. All Memes. All passed along."
+
+tech_lightmatter_jump_drive: "Eternity Stellar Drive"
+tech_lightmatter_jump_drive_desc: "Now that Light Matter is strating to spread itself across the space again, the Stellar Drive can be upgraded to allow it to cross extreme distances by rematerializing the ships into anywhere there is the light."
+
+tech_lightmatter_laser: "Omega Laser"
+tech_lightmatter_laser_desc: "Omega Laser utilizes Light Matter energy to cleave ship platings like butter. it is far superior to any other previously known laser weaponry."
+
+tech_lightmatter_missile: "Dual Lightbringer Misisles"
+tech_lightmatter_missile_desc: "Lightbringer Missiles are not not only more destructive than Starviper, but are also fired in pairs. This makes them much harder to take down while doublling their firepowers."
+
+tech_lightmatter_photon: "Light Matter Plasma Cannon"
+tech_lightmatter_photon_desc: "Light Matter can be modified as a very powerful corrosive-like state that can eat away other materials whole, creating an extremely deadly anti-ship weapons."
+
+tech_lightmatter_plasma_cannon: "Supercharged Light Energy Cannon"
+tech_lightmatter_plasma_cannon_desc: "Based on the same concept as previous design, the weapon is able to fire an even deadlier light energy sphere over a longer distance."
+
+tech_lightmatter_point_defence: "Omega Point Defense System"
+tech_lightmatter_point_defence_desc: "The ability to manipulate Light Matter at will allows this PDS to fire an equivalent of micro-lance energy weapon. The effect is destructive to all targets, especially compared to other PDS by standards."
+
+tech_lightmatter_reactive_drone: "Omega-Class Reactive Drone Platings"
+tech_lightmatter_reactive_drone_desc: "he most sophisticated and durable of all UMDs, the Omega-Class provides the best protection, deterrances and maintenances. Their services will be honored in the archieves of our empire."
+
+tech_lightmatter_reactor: "Light Matter Mastery"
+tech_lightmatter_reactor_desc: "Through the combinations of Stellarite, Psionic and Synthetic Energies fused with the genetics of the ancients, Light Matter is a living energy lifeform that can multiply itself and provides endless supplies of energies."
+
+tech_ultimate_weapon: "Divine Judgement"
+tech_ultimate_weapon_desc: "One of the most powerful arsenal ever developed, Divine Judgement projects the ultimate form of expression of the progenitor with destructive force of light matter and psionic energy"
+
+tech_lightmatter_sensors: "Light Matter Arrays"
+tech_lightmatter_sensors_desc: "This latest detection systems determine ship movements through the now ever-expanding light matter throughout subspaces. No evil shall escape our sight. Beware Light Matter's light."
+
+tech_lightmatter_shield: "Divine Shields"
+tech_lightmatter_shield_desc: "This Light Matter-based shield is even stronger than Stellarite Shields as the shields are reinforced with the Omni-Matrix Network itself."
+
+tech_lightmatter_shield_supercharger: "Light Matter Supercharged Barrier"
+tech_lightmatter_shield_supercharger_desc: "Superchaging barriers grant the ship's shield generators almost twice as much strengths, far exceeding older generations."
+
+tech_planet_killer_naniter: "Nanite Coke"
+tech_planet_killer_naniter_desc: "Encasing the planet with nothing but memes, turing it into memepool."
+
+tech_lightmatter_thruster: "Light Matter Thrusters"
+tech_lightmatter_thruster_desc: "Extremely powerful ship thrusters utilizing Light Matter power to move at incridible speed."
+
+tech_lightmatter_titan_beam: "Light of Arya"
+tech_lightmatter_titan_beam_desc: "A weapon forged out of pure anger, Light of Arya infuses the operator's will to kill the enemy into the already destructive weapon into an even greater intensity. Rip and Tear."
+
+tech_lightmatter_weapon_core: "Super-focused Light Matter Core"
+tech_lightmatter_weapon_core_desc: "If our current guns are not killing the enemies fast enough? Use more guns. Solving practical problems are our specialties."
+
+tech_warp_lightmatter_cannon: "Gatecrusher Warp Cannon"
+tech_warp_lightmatter_cannon_desc: ""Gatecrusher Warp Cannon fires an enormous slug encased with light matter energy that warps itself into enemy ships via micro-wormhole, bypassing travelling dinstance while still maintaining the full kinetic force, speed and velocity. Our ships can even look away while doing it, because cool guys don't look at explosions."
+
+tech_computer_lightmatter: "Omni-Matrix Analyzer"
+tech_computer_lightmatter_desc: "The Omni-Matrix Combat Analyzer is the most advanced bio-synthetic combat computer adaptation ever developed. The system effectively increases the amount of operating crews by two-fold or more without actually taking up space of the ship."
+
+tech_lightmatter_analyzer_ai: "Omni-Matrix Anti-Life Equation Database"
+tech_lightmatter_analyzer_ai_desc: "This database contains all the informations regarding all weakpoints, flaws and exploitable mechanics of all progenitor-era designs in full detail that can be uploaded to all ship's weapon systems."
+
+building_light_foundry: "Light Foundry"
+building_light_foundry_desc: "OPAF."
