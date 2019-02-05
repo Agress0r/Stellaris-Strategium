@@ -3,7 +3,7 @@
  col_ae_capital_utopian:0 "Утопическая столица"
  col_ae_capital_utopian_desc:0 "Утопическая столица вознесённой империи."
  col_ae_colony_utopian:0 "Утопический мир"
- col_ae_colony_utopian:0 "Утопический мир вознесённой империи."
+ col_ae_colony_utopian_desc:0 "Утопический мир вознесённой империи."
 
  district_utopian_city:0 "Утопический городской район"
  district_utopian_city_desc:0 "Районы утопического города построены и спроектированы до совершенства. Они самодостаточны и не требуют обслуживания."
