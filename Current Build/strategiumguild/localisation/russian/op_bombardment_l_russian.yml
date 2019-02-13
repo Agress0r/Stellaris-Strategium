@@ -1,0 +1,7 @@
+﻿l_russian:
+ 
+bombardment_annihilation:0 "Аннигиляция"
+ bombardment_annihilation_desc:2 "$Уничтожительная_Бомбардировка$ Бомбардировка направлена ​​на то,чтобы очистить планету,бомбардировка является смесью тактического превосходства и грубой силы..\n- §RUnmatched§! damage to §YArmies§!\n- §RUnmatched§! damage to §YTiles§!\n- §RUnmatched§! damage to §YPops§!\n- Will bombard undefended planets"
+ 
+bombardment_rapture:0 "Похищение"
+ bombardment_rapture_desc:2 "Убивать и калечить - значит растрачивать потенциал. Намного лучше сбежать с жителями и взять их в лучшее место.\n- §ELight§! damage to §YArmy§!\n- §ELight§! damage to §YTiles§!\n- §YModerate§! damage to §YPops§!\n- Will §Yabduct§! Pops when possible instead of killing them"
