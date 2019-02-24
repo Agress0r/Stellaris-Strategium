@@ -1,74 +1,80 @@
 ﻿l_russian:
 
-### ENGLISH LOCALIZATION
+### RUSSIAN LOCALIZATION
 
 
-edict_acot_mod_menu_edict: "§YZOFE ACOT Configuration Menu§!"
-edict_acot_mod_menu_edict_desc: "Use your reality-bending power to dictate what ACOT stuffs should or should not be allowed in this little galaxy you have decided to tamper with.\n\nSide-effects include amnesia, hair-loss, fourth-dimensional burn, terrible terrible damage and meme infestation. Do not invoke this without class-35 singularity event."
+edict_acot_mod_menu_edict: "§YМеню конфигурации - ZOFE ACOT§!"
+edict_acot_mod_menu_edict_desc: "Используйте свою силу по изгибанию и разрыву реальности,чтобы диктовать,какие вещи ACOT должны или не должны быть разрешены в этой маленькой галактике,в которую вы решили вмешаться.\n\nПобочные эффекты включают в себя: амнезию,выпадение волос,ожоги четвертого измерения,ужасные и ужасающие повреждения структуры вселенной и заражение мемами. Не вызывайте это меню без особого события класса 35."
 
-acot_mod_options_title: "Ancient Cache of Technologies Tech Options Menu"
-acot_mod_options_desc: "This menu allows you to disable certain elements in ACOT you want to get rid of in case you dislike/have better stuffs that make stuffs here a joke or crappier, won't stop the FE from having though. Dark Matter-Tier are technologies any empires with Dark Matter Power can acquire. This is the tech FE have. Ascended-Tier are the improvements to the FE-Tier, and are what AFE will gradually acquire."
+edict_acot_execute_all_hedonist: "Казнить всех гедонистов."
+edict_acot_execute_all_hedonist_desc: "Эти бесполезные идиоты тянут наши империи до тех же дурацких уровней,что и падшие дураки. Мы должны устранить эту слабость. Если они не будут полезны,то они должны умереть. Не оставляйте им шансов,потому что если этим жалким насекомым,презренным мелким кляксам позволят проникнуть в наши империи,они превратят наши империи в руины."
 
-acot_mod_options.1.a: "Weapon Techs are §Genabled§!. §RDisable§!?"
-acot_mod_options.1.a.tooltip: "Disables all ACOT Dark Matter-Tier and Ascended-Tier weapon technologies. Already researched components will remain §Yavailable§!.\n\n§RWARNING§!: Certain weapons are gated behind Dark Energy Reactors and Thrusters. If those are disabled, they will also not be obtainable."
-acot_mod_options.1.b: "Weapon Techs are §Rdisabled§!. §GEnable§!?"
-acot_mod_options.1.b.tooltip: "Enables all ACOT Dark Matter-Tier and Ascended-Tier weapon technologies, They will become researchable provided that all other conditions are met."
+edict_acot_fight_hedonism: "Триумф через жертву"
+edict_acot_fight_hedonism_desc: "В великие,опасные времена,мы должны отбросить наши личные желания и вместе объединиться против врага,который угрожает нам всем. Время для тишины и покоя придет позже,но сейчас мы должны бороться за будущее. \N\nВсе наши жители должны помнить,как бороться,как оттягивать свою гибель,даже если этот кошмар не вечен."
 
-acot_mod_options.2.a: "Defensive Utilities components are §Genabled§!. §RDisable§!?"
-acot_mod_options.2.a.tooltip: "Disables all ACOT Dark Matter-Tier and Ascended-Tier Armor and Shield technologies. Already researched components will remain §Yavailable§!.\n\n§RWARNING§!: Shields are gated behind Dark Energy Reactors. If this is disabled, the shield will also not be obtainable."
-acot_mod_options.2.b: "Defensive Utilities are §Rdisabled§!. §GEnable§!?"
-acot_mod_options.2.b.tooltip: "Enables all ACOT Dark Matter-Tier and Ascended-Tier Armor and Shield technologies. They will become researchable provided that all other conditions are met."
+acot_mod_options_title: "Меню: Древний тайник технологий и опций по этим технологиям."
+acot_mod_options_desc: "Это меню позволяет вам отключить определенные элементы в ACOT,от которых вы хотите избавиться,в случае,если вам не нравятся/у вас есть более качественные технологии,которые делают технологии в этом моде сущей шуткой или глупостью,которая и внимания то не трубует,но это не помешает вам играть с FE. Уровень Тёмной Материи - это технологии,которые могут приобрести любые империи,обладающие мощью Тёмной Материи. Вознесённые-ряды - это улучшения ряда Угасших Империй,которые боты постепенно приобретают."
 
-acot_mod_options.3.a: "Aux components are §Genabled§!. §RDisable§!?"
-acot_mod_options.3.a.tooltip: "Disables all ACOT auxiliary technologies, this includes the weapon cores for each weapon type. Already researched components will remain §Yavailable§!."
-acot_mod_options.3.b: "Aux components are §Rdisabled§!. §GEnable§!?"
-acot_mod_options.3.b.tooltip: "Enables all ACOT auxiliary technologies, this includes the weapon cores for each weapon type."
+acot_mod_options.1.a: "Технология на оружие §GВкл§!. §RВыкл§!?"
+acot_mod_options.1.a.tooltip: "Отключает все технологии оружия этого мода. Уже исследованные технологии останутся при вас.. §YИмеется в наличии§!.\n\n§RПРЕДУПРЕЖДЕНИЕ§!: Определенное оружие будет скрыто за Реакторами и Двигателями Тёмной Энергии. Если они отключены,они также не будут доступны,так что,увы."
+acot_mod_options.1.b: "Оружие Техники §RВыкл§!. §GВкл§!?"
+acot_mod_options.1.b.tooltip: "Включает все технологии по оружию этого мода. Они станут доступными для исследования,если будут выполнены все остальные условия. Какие именно условия? Ну,для начала.."
 
-acot_mod_options.4.a: "Ship components are §Genabled§!. §RDisable§!?"
-acot_mod_options.4.a.tooltip: "Disables all ACOT ship technologies, which include reactors, jump-drives, thrusters and sensors. Already researched components will remain §Yavailable§!.\n\n§RWARNING§!: disabling this will make many other ACOT technologies unavailable for research."
-acot_mod_options.4.b: "Ship components are §Rdisabled§!. §GEnable§!?"
-acot_mod_options.4.b.tooltip: "Enables all ACOT ship technologies, which include reactors, jump-drives, thrusters and sensors."
+acot_mod_options.2.a: "Компоненты оборонительной утилиты §GВкл§!. §RВыкл§!?"
+acot_mod_options.2.a.tooltip: "Отключает все технологии этого мода. Уже исследованные компоненты останутся если те §Yимеются в наличии§!.\n\n§ПРЕДУПРЕЖДЕНИЕ§!: Щиты,как технология,закрыты за Реакторами Тёмной Энергии. Если это отключено,щит также не будет доступен. Вот вообще никакой."
+acot_mod_options.2.b: "Оборонные утилиты §RВкл§!. §GВыкл§!?"
+acot_mod_options.2.b.tooltip: "Включает все технологии этого мода. Они станут доступными для исследования при условии соблюдения всех других условий. Но каких именно.. Секрет."
 
-acot_mod_options.5.a: "Army Technologies are §Genabled§!. §RDisable§!?"
-acot_mod_options.5.a.tooltip: "Disables all ACOT army technologies. Existing armies will remain §Yactive§!, they will haunt your empire for all eternity and there is nothing you can possibly ever hope to accomplish to end this horrible fate."
-acot_mod_options.5.b: "Army Technologies are §Rdisabled§!. §GEnable§!?"
-acot_mod_options.5.b.tooltip: "Enables all  ACOT army technologies, allowing your empire to recruit/build/train/morph/conjure/summon/materialize AE-tier armies."
+acot_mod_options.3.a: "Вспомогательные компоненты §GВкл§!. §RВыкл§!?"
+acot_mod_options.3.a.tooltip: "Отключает все вспомогательные технологии ACOT,включая только основу оружия для каждого типа оружия. Уже исследованные компоненты останутся,если те §Yимеются в наличии§!."
+acot_mod_options.3.b: "Вспомогательные компоненты §RВыкл§!. §GВкл§!?"
+acot_mod_options.3.b.tooltip: "Включает все вспомогательные технологии ACOT,включая основу для каждого типа оружия."
 
-acot_mod_options.6.a: "Building Technologies are §Genabled§!. §RDisable§!?"
-acot_mod_options.6.a.tooltip: "Disables all ACOT building technologies. Already constructed buildings will remain §Yavailable§!, forcing your empire to question the reality of the galaxy, of why they can have buildings that the are not allowed to comprehend in this cycle of the galaxy, the existences of which are denied to them. Your people will soon realize the futility of existences."
-acot_mod_options.6.b: "Building Technologies are §Rdisabled§!. §GEnable§!?"
-acot_mod_options.6.b.tooltip: "Enables all ACOT building technologies. Congrats, you have decided to enable the techs this mod is probably most famous for...why did you disable it again? Must be Giga Fortress."
+acot_mod_options.4.a: "Компоненты кораблей §GВкл§!. §RВыкл§!?"
+acot_mod_options.4.a.tooltip: "Отключает все технологии ACOT для флотиии,которые включают реакторы,прыжковые двигатели,двигатели всякие и датчики слежения,типо сенсоров. Уже исследованные компоненты останутся,если те §Yимеются в наличии§!.\n\n§RПРЕДУПРЕЖДЕНИЕ§!: отключение этого сделает многие другие технологии ACOT недоступными для исследований. Используйте на свой страх и риск. Когда переводила,самой страшно было."
+acot_mod_options.4.b: "Компоненты кораблей §RВыкл§!. §GВкл§!?"
+acot_mod_options.4.b.tooltip: "Отключает все технологии ACOT для флотиии,которые включают реакторы,прыжковые двигатели,двигатели всякие и датчики слежения,типо сенсоров."
 
-acot_mod_options.7.a: "Punishment/Exterminatus Bombardments are §Genabled§!. §RDisable§!?"
-acot_mod_options.7.a.tooltip: "Disables the ability for both players and AIs to use Punishment and Exterminatus Bombardments. Useful in case you screw up horribly, and wish to cheat your way to victory by tearing through the fabrics of reality and prevents your enemy from turning your worlds into soup-can."
-acot_mod_options.7.b: "Punishment/Exterminatus Bombardments §Rdisabled§!. §GEnable§!?"
-acot_mod_options.7.b.tooltip: "Enables the ability for both players and AIs to use Punishment and Exterminatus Bombardments. Battlebrothers!!, Today the enemy is at our door. We know our duty and we will DO IT. We fight for our honor, as Ascended Empire, as Precursors and we fight in the name of the emprah. If we die this day we will die. BUT  §RNO§!, we shall not §RDIE§!. It is the enemy who will taste §RDEATH§! and §RDEFEAT§!. AS YOU KNOW...§REXTERMINATUS§!"
+acot_mod_options.5.a: "Технологии для армии §GВкл§!. §RВыкл§!?"
+acot_mod_options.5.a.tooltip: "Отключает все технологии ACOT для армии. Существующие армии останутся §Yактивными§!. Кстати,галактический картофель будет преследовать вашу империю всю вечность и нет ничего,на что вы могли бы надеяться,чтобы положить конец этой ужасной судьбе. Честно,автор мода любит позабавиться."
+acot_mod_options.5.b: "Технологии для армии §RВыкл§!. §GВкл§!?"
+acot_mod_options.5.b.tooltip: "Включает все технологии для армии ACOT,позволяя вашей империи набирать/строить/обучать/превращать/взывать/вызывать/материализовать и вообще,рожать армии уровня Угасших Империй. Только родился,пошёл на войну. Такие реалии в жестоком мире."
 
-acot_mod_options.8.a: "Ethics Technologies are §Genabled§!. §RDisable§!?"
-acot_mod_options.8.a.tooltip: "Disables all ACOT unique ethic-based technologies. Already researched technologies will grant bonuses even if you have specifically tell the game to not do so,  there is no hope for you. It is over, Anakin. I have the high ground."
-acot_mod_options.8.b: "Buildings are §Rdisabled§!. §GEnable§!?"
-acot_mod_options.8.b.tooltip: "Enables all ACOT unique ethic-based technologies. If you have already researched them, they will become buildable again. Time to waste all those influences spamming Giga Fortresses on every planets perhaps"
+acot_mod_options.6.a: "Строительные технологии §GВкл§!. §RВыкл§!?"
+acot_mod_options.6.a.tooltip: "Отключает все строительные технологии ACOT. Уже построенные здания останутся,если те §Yимееются в наличии§!. Всё это вынуждает жителей вашей империи подвергнуть сомнению реальность галактики. Просто,почему у кого-то могут быть здания,которые не могут построить существа нынешнего цикла галактического витка? Потому что им отказано в существовании этих знаний.. Ваши люди скоро поймут тленность бытия в этой ужасающей симуляции.."
+acot_mod_options.6.b: "Строительные технологии §RВыкл§!. §GВкл§!?"
+acot_mod_options.6.b.tooltip: "Включает все строительные технологии ACOT. Поздравляю,вы решили включить технологии,которыми этот мод,вероятно,наиболее известен.. Стоп. Почему вы снова отключили его? Тут.. Тут должна быть Гига Крепость! И.. И плюшевые танки! И солнечное мороженное..!"
 
-acot_mod_options.9: "Set AE AI's Resource Bonus"
-acot_mod_options.9.tooltip: "Sets how much should AE AI get some additional resources, choosing to not give them any resources will most likely cause them to be very weak and incapable of becoming a threat."
+acot_mod_options.7.a: "Геноцидальная/Истребительная Бомбардировка §GВкл§!. §RВыкл§!?"
+acot_mod_options.7.a.tooltip: "Отключает возможность использования игроками и ИИ геноцида и истребления. Это полезно,если вы ужасно облажались и хотите обмануть свой путь к победе,тем самым разрывая ткань реальности и не позволяя врагу превратить ваши миры в горячую банку с томатным супом."
+acot_mod_options.7.b: "Наказание / Уничтожение Бомбардировки §RВыкл§!. §GВкл§!?"
+acot_mod_options.7.b.tooltip: "Позволяет как игрокам,так и ИИ использовать Геноцид и бомбардировку - Истребление. Братья братья! Сегодня враг у наших дверей.. Мы знаем наш долг,мы знаем как его исполнить,и мы все сделаем это,беспрекословно. Мы боремся за нашу честь,как Вознесённая Империя,как наши Предшественники,и мы боремся во имя великой Эмпры! (я хз кто это,но походу классная чикса) Если мы умрем в этот день,то мы умрем навечно. Ничто более не сможет воскресить наши души,ничто более не сделает наши разумы едины Мы,как верноподданые своей империи,примем объятия пустоты и растворимся в ней. НО §RНЕТ§!,мы не будем §RУМИРАТЬ§!. Это враг,что гнушается нашей расы познает на себе настоящую §RСМЕРТЬ§! и ужасающее §RПОРАЖЕНИЕ§!. КАК ВАМ ИЗВЕСТНО.. ПРИШЛО ВРЕМЯ.. ДЛЯ - §RЭКСТЕРМИНАТУСА§!"
 
-acot_mod_options.exit: "I have to go, my people need me."
-acot_mod_options.exit.tooltip: "You will end this clearly unnatural, corrupted reality-bending power and return to your master plan, which probably involve doing something truly truly horrible to the Fallen Xenophobes. At least that's what you should do.\n\nDO IT ANAKIN.  I am Batman"
+acot_mod_options.8.a: "ТЕ САМЫЕ технологии §GВкл§!. §RВыкл§!?"
+acot_mod_options.8.a.tooltip: "Отключает все уникальные этические технологии ACOT (херня идея,отвечаю). Уже исследованные технологии будут давать бонусы,даже если вы специально указали игре не делать этого,ведь для вас нет надежды. Все кончено,Энакин. У меня более высокая позиция! (Отсылка на Звёздные Войны,хз какой эпизод,но там Обиван вроде Энакина около вулкана сбросил,а тот и жарится,как шашлычок. Хочу мясца.)"
+acot_mod_options.8.b: "ТЕ САМЫЕ технологии §RВыкл§!. §GВкл§!?"
+acot_mod_options.8.b.tooltip: "Включает все уникальные этические технологии от ACOT. Если вы уже исследовали их,они снова станут работоспособными. Время потратить все это влияние на Гига Крепости на каждой планете,возможно,даже на каждой станции.. Горнодобывающей станции.."
+
+acot_mod_options.9: "Установить бонус к ресурсам для ничтожного ИИ"
+acot_mod_options.9.tooltip: "Определяет,сколько ИИ получит в виде дополнительных ресурсов. Если не отдавать им ресурсы,скорее всего,они будут очень слабыми и не смогут стать угрозой.."
+
+acot_mod_options.exit: "Я должен идти,мои люди нуждаются во мне."
+acot_mod_options.exit.tooltip: "Вы покончили с этой явно неестественной,искаженной,хренью - способной изгибать реальность под свои замыслы.Наконец,вы вернетесь к своему генеральному плану,который,вероятно,включает в себя совершение чего-то действительно ужасного для падших ксенофобов. (ксенофилы яростно потирают лапки,уже обильно смоченные мылом и готовятся схватиться за солфетку) По крайней мере,это то,что вы должны сделать. Ради народа. Ради Империи. Ради себя.\n\nСДЕЛАЙ ЭТО ЭНАКИН. Ведь Я БЭТМЕН!"
 
 
-acot_mod_options.200: "AE AI Difficulty Settings"
+acot_mod_options.200: "Настройка Сложности ИИ"
 
-acot_mod_options.200.a: "Change AE AI's Bonus to to : §WNone§!"
-acot_mod_options.200.b: "Change AE AI's Bonus to to : §YBasic§!"
-acot_mod_options.200.c: "Change AE AI's Bonus to to : §GOPAF§!"
+acot_mod_options.200.a: "Изменить бонус ИИ на: §WНикакой§!"
+acot_mod_options.200.b: "Изменить бонус ИИ на: §YСреднячок§!"
+acot_mod_options.200.c: "Изменить бонус ИИ на: §Эта штука интегрирует тебя,как только обнаружит. Твои планеты будут гореть.§!"
 
-acot_mod_options.200.a.desc: "Use this option to change the AE AI's bonuses to resources, while the game updates the new variable monthy, it is still a good idea to perform this option again everytime an AI ascends just in case.\n\nCurrent AE AI's Bonus to: §RNone§!\n\nAE AIs will not have any bonuses, they will play fair, and most likely die or crumble through their own sheer stupidity and inability to be good. Good if you enjoy a game where only you alone get to be awesome."
-acot_mod_options.200.b.desc: "Use this option to change the AE AI's bonuses to resources, while the game updates the new variable monthy, it is still a good idea to perform this option again everytime an AI ascends just in case.\n\nCurrent AE AI's Bonus to: §GBasic§!\n\nAE AIs will receive a set income to their basic resources that should more or less allow them to function as a proper AE. Good if you at least expect AI to be quite a threat."
-acot_mod_options.200.c.desc: "Use this option to change the AE AI's bonuses to resources, while the game updates the new variable monthy, it is still a good idea to perform this option again everytime an AI ascends just in case.\n\nCurrent AE AI's Bonus to: §BOPAF§!\n\nAE AIs will receive double the income they produce ontop of twice the set income of the normal, in case you really want the AE AIs to actually be a threat to you at all. Perhaps this time the AI will actually kill you (But most likely won't)"
+acot_mod_options.200.a.desc: "Используйте эту опцию,чтобы изменить бонусы ИИ на ресурсы,в то время как игра обновляет новый переменный месяц,но все равно будет хорошей идеей делать это каждый раз,когда AI поднимается на всякий случай.\n\nТекущий ИИ бонус таков: §RДа никакой§!\n\nУ ИИ не будет никаких бонусов,они будут играть честно,и скорее всего,умрут. Или рухнут из-за своего руководства и неспособности быть хорошими. Хорошо,если вам нравится игра,в которой вы можете стать классным. Не то что в жизни,правда?"
+acot_mod_options.200.b.desc: "Используйте эту опцию,чтобы изменить бонусы ИИ на ресурсы,в то время как игра обновляет новый переменный месяц,но все равно будет хорошей идеей делать это каждый раз,когда AI поднимается на всякий случай.\n\nТекущий ИИ бонус таков: §GКое-что у него будет§!\n\nИИ получат установленный доход от своих основных ресурсов,который должен более или менее позволить им функционировать как чистый.. Ээ.. Картофель. Хорошо,если вы меньше всего ожидаете,что ИИ будет представлять серьезную угрозу,правда?."
+acot_mod_options.200.c.desc: "Используйте эту опцию,чтобы изменить бонусы ИИ на ресурсы,в то время как игра обновляет новый переменный месяц,но все равно будет хорошей идеей делать это каждый раз,когда AI поднимается на всякий случай.\n\nТекущий ИИ бонус таков: §BБегите,глупцы§!\n\nИИ получат удвоенный доход,который они генерируют,а может и вдвое больше установленного стандартного дохода,если вы действительно хотите,чтобы ИИ действительно представляли для вас угрозу. Возможно,на этот раз ИИ действительно убьет вас (но,скорее всего,не убьет)."
 
- easy_acot: "HEHE"
- easy_acot_desc: "Oh YEAH"
- hard_acot: "I HAVE THE POWARRRRRRRRRRRRRRRRRRRRRR"
- hard_acot_desc: "ARTHAS! STOP THIS ARTHAS BEFORE ITS TOO ARTHAS!"
+ easy_acot: "Хи-хи!"
+ easy_acot_desc: "О ДАААА!"
+ hard_acot: "У МЕНЯ ЕСТЬ СИЛААААААААААААААА!"
+ hard_acot_desc: "Артас! ОСТАНОВИТЕ ЭТОГО АРТАСА ДО ТОГО КАК.. АРТАСОВ СЛИШКОМ МНОГО,ВСЁ,Я СВАЛИВАЮ!"
 
- return_to_menu: "Return to Main Options"
+ return_to_menu: "Вернуться к основным параметрам"
