@@ -1,0 +1,7 @@
+﻿l_russian:
+ 
+ trait_asteroid_miners:0 "Астероидные шахтёры"
+ trait_asteroid_miners_desc:0 "§LНичто не находится вне досягаемости...§!\n"
+ 
+ trait_pc_asteroid_preference:0 "Предпочтительный тип: Астероид"
+ trait_pc_asteroid_preference_desc:0 "§LКлиматическое предпочтение определенное на генетическом уровне эонами эволюции или умелой манипуляцией.§!\n"

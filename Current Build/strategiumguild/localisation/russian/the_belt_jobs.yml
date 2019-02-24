@@ -1,0 +1,15 @@
+l_russian:
+ belt_maintanance_building:0 "Здание технического обслуживания"
+ belt_maintanance_building_desc:0 "В этом здании работают специалисты, которые будут ремонтировать системы жизнеобеспечения планет."
+ 
+ mod_job_maintanance_add:0 "Техническое обслуживание"
+ job_maintanance:0 "Техник"
+ job_maintanance_desc:0 "£job_maintanance£ $job_maintanance$ превращают £energy£§Y$energy$§! в £engineering£ §Y$engineering_research$§! и увеличивает §YПриспособленность§! на §G3§!%"
+ job_maintanance_effect_desc:0 "£job_maintanance£ $job_maintanance$ превращают £energy£§Y$energy$§! в £engineering£ §Y$engineering_research$§! и увеличивает §YПриспособленность§! на §G3§!%"
+ job_maintanance_plural:0 "Техники"
+ 
+ mod_job_maintanance_drone_add:0 "Техническое обслуживание"
+ job_maintanance_drone:0 "Дрон-техник"
+ job_maintanance_drone_desc:0 "£job_maintanance_drone£ $job_maintanance_drone$ превращают £energy£§Y$energy$§! в £engineering£ §Y$engineering_research$§! и увеличивает  §YПриспособленность§! на §G3§!%"
+ job_maintanance_drone_effect_desc:0 "£job_maintanance_drone£ $job_maintanance_drone$ превращают £energy£§Y$energy$§! в £engineering£ §Y$engineering_research$§! и увеличивает  §YПриспособленность§! на §G3§!%"
+ job_maintanance_drone_plural:0 "Дроны-техники"
