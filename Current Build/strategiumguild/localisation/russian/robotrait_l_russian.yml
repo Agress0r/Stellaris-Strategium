@@ -1,0 +1,5 @@
+﻿l_russian:
+trait_holy_machines:0 "Святые механизмы"
+trait_holy_machines_desc:0 "§YЭти машины почитаются как божества.§!"
+TRAIT_HOLY_MACHINES_EFFECT:4 "£amenities£ Блага для £job£ Правителей и Специалистов на рабочих местах: §G+20%§! £unity£ единства для £job£ работящих: §G+20%§!"
+ 

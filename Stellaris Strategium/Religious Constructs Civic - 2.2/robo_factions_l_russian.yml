@@ -1,0 +1,17 @@
+﻿l_russian:
+
+ROBOTRADITIONALIST_HOLY_ROBOTS:0 "Механическая жизнь"
+ ROBOTRADITIONALIST_HOLY_ROBOTS_DESC:1 "Запрет святых замыслов занять свое законное место в религии вызовет недовольство у [Root.GetName]."
+ ROBOTRADITIONALIST_NO_ROBOTS:0 "Органические хаски"
+
+ROBOTRADITIONALIST_FULL_ROBOT_RIGHTS:0 "Синтетические права"
+ ROBOTRADITIONALIST_FULL_ROBOT_RIGHTS_DESC:0 "Неспособность принятия святых, разумных машин сильно огорчает божеств, что выливается в недовольство [Root.GetName]." 
+
+ROBOTRADITIONALIST_NO_FULL_ROBOT_RIGHTS:0 "Нет синтетический прав"
+ 
+ROBOTRADITIONALIST_FLESH_IS_WEAK:0 "Плоть слаба"
+ 
+ROBOTRADITIONALIST_FLESH_IS_WEAK_DESC:0 "Становясь ближе к божествам, мы, путем усиления наших естественных тел с помощью кибернетических имплантатов, очень обрадуем народ [Root.GetName]."
+ 
+ROBOTRADITIONALIST_FLESH_ISNT_STRONG:0 "Плоть не так сильна, как многие думают"
+ 
