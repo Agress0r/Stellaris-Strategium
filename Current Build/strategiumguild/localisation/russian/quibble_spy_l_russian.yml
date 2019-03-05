@@ -75,6 +75,7 @@
  #THE SPY MENU
   
  edict_quibble_spy_menu_edict:0 "Открыть меню шпионажа"
+ edict_quibble_spy_menu_edict_desc:0 "Открывает меню шпионажа"
   
   
  quibble_spy_menu.2.name:0 "Совет по международным отношениям, безопасности и пропаганде."
@@ -870,4 +871,13 @@
  leader_trait_paranoid:0 "Параноик"
  leader_trait_paranoid_desc:1 "Этот лидер не желает сотрудничать с другими, но усиливает защиту от иностранной разведки."
  
+ quibble.4.name:0 "Вторая цель"
+ quibble.4.desc:0 "Кто будет нашей второй целью?"
  
+ 
+ anti_propaganda_funding_pc_ai:0 "Финансирование контрразведки."
+ anti_propaganda_funding_pc_ai_desc:0 "Отображает уровень финансирования контрразведки для каждой империи."
+ 
+ quibble_longterm.6011.a:0 "Отозвать ячейку"
+ quibble_longterm.6011.b:0 "Повторить операцию"
+ quibble_longterm.6011.c:0 "Переназначить ячейку"
