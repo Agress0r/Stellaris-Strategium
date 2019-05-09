@@ -1,0 +1,129 @@
+﻿l_russian:
+#########################
+#   Hive Minds civics   #
+#########################
+ 
+ # Growing Pods
+ wiirlak_ac_civic_growing_pods:0 "Растительные коконы"
+ wiirlak_ac_civic_growing_pods_desc:0 "Улей использует растущие коконы, чтобы ускорить рост населения, особенно при колонизации новых миров. Эти капсулы используют большое количество энергии и биомассы для быстрого созревания дронов."
+ wiirlak_ac_civic_tooltip_growing_pods_effects:0 "Скорость роста: §G+30%§!\nСкорость развития колонии: §G+50%§!\n\nВыработка энергии империей: §R-5%§!\nВыработка пищи империей: §R-5%§!"
+ 
+ # Mutagen
+ wiirlak_ac_civic_mutagen:0 "Мутаген"
+ wiirlak_ac_civic_mutagen_desc:0 "Наши ученые работают над генами, чтобы лучше их понять, ведь в нас теплиться надежда, что мы сможем овладеть ими. Очевидно, мы должны использовать часть нашей популяции дронов в качестве подопытных."
+ wiirlak_ac_civic_tooltip_mutagen_effects:0 "Старт с §YТехнологией генного манипулирования§!\nОчки модификации населения: §G+1§!\nСпециальный проект по изменению расы: §G-33%§!\nСкорость прироста: §R-5%§!"
+ 
+    # Event - Mutagen initializer
+    wiirlak_ac_mutagen_event_title:0 "Мутагенез"
+    wiirlak_ac_mutagen_event_desc:0 "Мы сделали это!\nМы можем создавать и контролировать наши мутагены, это может помочь нам развиваться, когда нам потребуется лучшая физиология для адаптации к нашим растущим потребностям!"
+    wiirlak_ac_mutagen_event_a:0 "Подтверждаю"
+ 
+ # Insatiable
+ wiirlak_ac_civic_insatiable:0 "Ненасытный"
+ wiirlak_ac_civic_insatiable_desc:0 "Мы едим целый день, но голод никогда не исчезает.\nМы ищем еду по всей планете, но этого не достаточно, нам нужно больше, нам нужно рисковать самими звездами и питаться нашими врагами."
+ wiirlak_ac_civic_tooltip_insatiable_effects:0 "Урон армии: §G+100%§!\nУрон морали армии: §G+300%§!\nНачальный опыт армии: §G+50§!\nПроизводство еды в империи: §R-5%§!"
+ 
+ # Soothing Pheromone
+ wiirlak_ac_civic_soothing_pheromone:0 "Успокаивающий феромон"
+ wiirlak_ac_civic_soothing_pheromone_desc:0 "Мы давно эволюционировали, чтобы испускать феромоны, которые успокаивают не только наше собственное население, но и любых других живых существ, это облегчает не только завоевание доверия... но и контроль над чужими умами."
+ wiirlak_ac_civic_tooltip_soothing_pheromone_effects:0 "Прирост доверия: §G+10%§!\nПривлекательность торговых сделок: §G+25§!\nПрирост доверия у подчинёных: §G+25§!\nПринятие подчинения: §G+25§!\nСчастье рабов: §G+15%§!"
+ 
+ # Anthropophagic Farming
+ wiirlak_ac_civic_anthropophagic_farming:0 "Антропофагическое сельское хозяйство"
+ wiirlak_ac_civic_anthropophagic_farming_desc:0 "Поскольку мы были близки к тому, чтобы полностью уничтожить всю фауну/флору на нашей планете, мы решили сократить наше население, находя новый источник пищи: антропофаговое сельское хозяйство.\n\n§RЭто добавить районы после колонизации.§!"
+ wiirlak_ac_civic_tooltip_anthropophagic_farming_effects:0 "Максимум сельскохозяйственных районов: §G+2§!\nФермерская продукция: §G+1§!\n1 Фермер за 40 £pops поселений\nСкорость прироста: §R-5%§!"
+ 
+ # Livestock Species
+ wiirlak_ac_civic_livestock_species:0 "Животноводство"
+ wiirlak_ac_civic_livestock_species_desc:0 "Мы выросли на той же планете, что и другой питательный вид, который мы держим в качестве домашнего скота."
+ wiirlak_ac_civic_tooltip_livestock_species_effects:0 "Старт с 6 £pops поселениями другого вида. Обладают следующими чертами : \n - §YРаболепные§! (счастье & ресурсы от рабочих мест: §G+10%§!)\n - §YВкусные§! (Пища от скота: §G+2§!)\n - §YОбщинники§! (Использование жилья поселениями: §G-10%§!)"
+ 
+    # Event - Livestock Species initializer
+    wiirlak_ac_livestock_species_event_title:0 "Животноводство"
+    wiirlak_ac_livestock_species_event_desc:0 "§RВнимание:!§!\n\nИгра автоматически устанавливает вторичные виды как нежелательные и запускается их §Rгеноцид§!.\nВы должны перейти к правам видов и установить §Yгражданство§! на §Yрабство§!."
+    wiirlak_ac_livestock_species_event_a:0 "Подтверждаю."
+
+ 
+#########################
+#     Machine Empire    #
+#########################
+ 
+ # Boosted Batteries
+ wiirlak_ac_civic_boosted_batteries:0 "Аккумуляторы повышенной мощности"
+ wiirlak_ac_civic_boosted_batteries_desc:0 "Новый вид батарей, которые могут генерировать энергию, если уже имеется некоторый запас!"
+ wiirlak_ac_civic_tooltip_boosted_batteries_effects:0 "Производство энергии рабочими: §G+15%§!"
+ 
+ # Worker-Bot
+ wiirlak_ac_civic_worker_bot:0 "Рабочий-бот"
+ wiirlak_ac_civic_worker_bot_desc:0 "Этот вариант машины создан, чтобы быть более эффективным при выполнении неквалифицированных задач, но он менее эффективен при производстве энергии."
+ wiirlak_ac_civic_tooltip_worker_bot_effects:0 "Производительность рабочих: §G+3%§!\nПроизводство энергии рабочими: §R-10%§!"
+ 
+ # Compressible
+ wiirlak_ac_civic_compressible:0 "Миниатюрные"
+ wiirlak_ac_civic_compressible_desc:0 "Наши модели всегда изготавливаются с возможностью эффективного складирования или перемещения."
+ wiirlak_ac_civic_tooltip_compressible_effects:0 "Стоимость переселения: §G-50%§!\nИспользование жилья поселениями: §G-10%§!"
+ 
+ # High-energy Production Protocols
+ wiirlak_ac_civic_high_energy_prod:0 "Протоколы высокоэнергетического производства"
+ wiirlak_ac_civic_high_energy_prod_desc:0 "Мы создаем место для энергорайона и сокращаем энергию, выделяемую на другие районы.\n\n§RЭто добавить районы после колонизации.\nСодержание работает, но оно не отображается правильно в районах - вы можете проверить всплывающую подсказку об империи энергии.§!"
+ wiirlak_ac_civic_tooltip_high_energy_prod_effects:0 "Максимум энергорайонов: §G+2§!\nПотребление энергии районами: §G-50%§!"
+ 
+ # Self-modifying
+ wiirlak_ac_civic_self_modifying:0 "Самомодифицирующийся"
+ wiirlak_ac_civic_self_modifying_desc:0 "Мы осознаем необходимость развиваться и адаптироваться к нашей среде и потребностям - вот почему мы создали программу и фабрики, чтобы иметь возможность легко и в больших масштабах изменять наше население."
+ wiirlak_ac_civic_tooltip_self_modifying_effects:0 "Старт с §YТехнологией машинного шаблона§!\nОчки модификации роботов: §G+1§!\nСпециальный проект по модификации расы: §G-50%§!"
+
+     # Event - Self-modifying initializer
+     wiirlak_ac_self_modifying_event_title:0 "Самомодифицирующийся"
+     wiirlak_ac_self_modifying_event_desc:0 "Наша программа перепрофилирования блоков на наших заводах готова, мы можем начать, когда это будет необходимо."
+     wiirlak_ac_self_modifying_event_a:0 "Подтверждаю."
+
+ 
+#########################
+#    Corporate civics   #
+#########################
+ 
+ # Ship Founderies
+ wiirlak_ac_civic_ship_fonderies:0 "Судовые основы"
+ wiirlak_ac_civic_ship_fonderies_desc:0 "Старые корабли и литейные заводы были модернизированы для массового производства компонентов флота, что позволит быстрее строить новые корабли при одновременном снижении затрат."
+ wiirlak_ac_civic_tooltip_ship_fonderies_effects:0 "Скорость строительства кораблей: §G+25%§!\nСтоимость постройки кораблей: §G-5%§!"
+ 
+ # Terrain Exploitation
+ wiirlak_ac_civic_terrain_exploitation:0 "Эксплуатация местности"
+ wiirlak_ac_civic_terrain_exploitation_desc:0 "Потеря потенциальной плодородной почвы, чтобы освободить место для генераторов и горных машин."
+ wiirlak_ac_civic_tooltip_terrain_exploitation_effects:0 "Производство энергии рабочими: §G+5%§!\nПроизводство минералов рабочими: §G+5%§!\nПроизводство пищи рабочими: §R-10%§!"
+ 
+ # Private Investors
+ wiirlak_ac_civic_private_investors:0 "Частные инвесторы"
+ wiirlak_ac_civic_private_investors_desc:0 "Частные инвесторы помогают нам в создании звездных баз."
+ wiirlak_ac_civic_tooltip_private_investors_effects:0 "Затрачиваемое влияние на постройку звёздной базы: §G-10%§!\nЕмкость звездной базы: §G+2§!"
+ 
+ # R&D
+ wiirlak_ac_civic_r_d:0 "НИОКР"
+ wiirlak_ac_civic_r_d_desc:0 "Инвестируя много средств в НИОКР, мы всегда сможем быть впереди конкурентов!"
+ wiirlak_ac_civic_tooltip_r_d_effects:0 "Скорость исследований: §G+5%§!\nАльтернативные исследования: §G+1§!"
+ 
+ # Robots Factories
+ wiirlak_ac_civic_robots_factories:0 "Фабрики роботов"
+ wiirlak_ac_civic_robots_factories_desc:0 "Строительство заводов робототехники для увеличения нашей рабочей силы это конечно хорошо, но всё это облагает нас налогом на производство энергии."
+ wiirlak_ac_civic_tooltip_robots_factories_effects:0 "Скорость сборки роботов: §G+50%§!\n1 Роботист за 25 £pops поселений\nПроизводство энергии Империей: §R-10%§!\nСтарт с §Yтехнологией активного экзоскелета§!\nСтарт с §Yтехнологией рабочих роботов§!"
+ 
+     # Event - Robots Factories initializer
+     wiirlak_ac_robots_factories_event_title:0 "Фабрики роботов"
+     wiirlak_ac_robots_factories_event_desc:0 "Заводы роботов только что подключились, они полностью работоспособны и должны немедленно начать работать!"
+     wiirlak_ac_robots_factories_event_a:0 "Подтверждаю."
+ 
+ # Scientific Administration
+ wiirlak_ac_civic_scientific_administration:0 "Научная администрация"
+ wiirlak_ac_civic_scientific_administration_desc:0 "Научный отдел занимает значительное место в структуре мегакорпорации."
+ wiirlak_ac_civic_tooltip_scientific_administration_effects:0 "Исследователи производят: §G+1 единства§!\n1 Научный директор за 40 £pops поселений"
+ 
+ # Right to Freedom
+ wiirlak_ac_civic_right_freedom:0 "Право на свободу"
+ wiirlak_ac_civic_right_freedom_desc:0 "Мы запретили официальное рабство, чтобы сделать рабочих счастливее, давая тому работать ещё тяжелее. Будем надеяться, что они никогда не осознают, что являются рабами системы."
+ wiirlak_ac_civic_tooltip_right_freedom_effects:0 "Производительность рабочих: §G+2%§!\nПроизводительность рабов: §R-1000%§!\nСчастье граждан: §G+5%§!"
+ 
+ # Brainwashed Customers
+ wiirlak_ac_civic_brainwashed_customers:0 "Тупоголовые клиентам"
+ wiirlak_ac_civic_brainwashed_customers_desc:0 "Мы везде используем подсознательные послания, чтобы заставить людей поверить в нашу администрацию и просто быть счастливыми. Мы также используем эту технику в меньших масштабах, для наших коммерческих партнеров, чтобы нам было проще установить филиалы на их планетах."
+ wiirlak_ac_civic_tooltip_brainwashed_customers_effects:0 "Привлекательность руководящих этик: §G+50%§!\nСчастье поселений: §G+15%§!\nСтоимость влияния на филиал: §G-33%§!"

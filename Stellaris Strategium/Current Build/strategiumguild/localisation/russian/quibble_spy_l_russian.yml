@@ -1,0 +1,883 @@
+﻿l_russian:
+
+ #GOOD AND BAD RELATION EVENT STUFF
+ quibble_neighbors.2.a:0 "Цель - §Y[target_1.GetName]§!."
+ quibble_neighbors.2.b:0 "Цель - §Y[target_2.GetName]§!."
+ quibble_neighbors.2.c:0 "Цель - §Y[target_3.GetName]§!."
+ quibble_neighbors.2.d:0 "Цель - §Y[target_4.GetName]§!."
+ quibble_neighbors.2.e:0 "Цель - §Y[target_5.GetName]§!."
+ quibble_neighbors.2.f:0 "Цель - §Y[target_6.GetName]§!."
+ quibble_neighbors.2.g:0 "Цель - §Y[target_7.GetName]§!."
+ quibble_neighbors.2.h:0 "Цель - §Y[target_8.GetName]§!."
+ quibble_neighbors.2.i:0 "Цель - §Y[target_9.GetName]§!."
+ quibble_neighbors.2.j:0 "Цель - §Y[target_10.GetName]§!."
+ quibble_neighbors.2.k:0 "Цель - §Y[target_11.GetName]§!."
+ quibble_neighbors.2.l:0 "Цель - §Y[target_12.GetName]§!."
+ quibble_neighbors.2.m:0 "Цель - §Y[target_13.GetName]§!."
+ quibble_neighbors.2.n:0 "Цель - §Y[target_14.GetName]§!."
+ quibble_neighbors.2.o:0 "Выйти."
+ 
+ quibble_neighbors.4.a:0 "Цель - §Y[second_target_1.GetName]§!."
+ quibble_neighbors.4.b:0 "Цель - §Y[second_target_2.GetName]§!."
+ quibble_neighbors.4.c:0 "Цель - §Y[second_target_3.GetName]§!."
+ quibble_neighbors.4.d:0 "Цель - §Y[second_target_4.GetName]§!." 
+ quibble_neighbors.4.e:0 "Цель - §Y[second_target_5.GetName]§!." 
+ quibble_neighbors.4.f:0 "Цель - §Y[second_target_6.GetName]§!." 
+ quibble_neighbors.4.g:0 "Цель - §Y[second_target_7.GetName]§!." 
+ quibble_neighbors.4.h:0 "Цель - §Y[second_target_8.GetName]§!." 
+ quibble_neighbors.4.i:0 "Цель - §Y[second_target_9.GetName]§!." 
+ quibble_neighbors.4.j:0 "Цель - §Y[second_target_10.GetName]§!." 
+ quibble_neighbors.4.k:0 "Цель - §Y[second_target_11.GetName]§!." 
+ quibble_neighbors.4.l:0 "Цель - §Y[second_target_12.GetName]§!." 
+ quibble_neighbors.4.m:0 "Цель - §Y[second_target_13.GetName]§!." 
+ quibble_neighbors.4.n:0 "Цель - §Y[second_target_14.GetName]§!." 
+ quibble_neighbors.4.o:0 "Выйти." 
+ 
+ opinion_quibble_good_medium:0 "Второстепенное дипломатическое сотрудничество"
+ opinion_quibble_good_high:0 "Основное дипломатическое сотрудничество"
+ opinion_quibble_bad_medium:0 "Незначительный дипломатический инцидент"
+ opinion_quibble_bad_high:0 "Крупный дипломатический инцидент"
+ 
+ quibble_spy.2.a.a:0 "Вернуться в главное меню"
+ quibble_spy.4.a.a:0 "Вернуться к выбору главной цели"
+
+ 
+ 
+ #POLICIES
+ 
+
+ policy_anti_propaganda_funding:0 "Финансирование контрразведки"
+ policy_anti_propaganda_funding_desc:0 "Уровень ресурсов, который мы выделяем на финансирование контрразведки. Более высокий уровень обеспечивает повышенную защиту от враждебных операций и повышает вероятность того, что мы раскроем преступника."
+ 
+ low_anti_propaganda_funding:0 "Стандартное финансирование"
+ low_anti_propaganda_funding_desc:0 "Стандартное финансирование"
+ low_anti_propaganda_funding_name:0 "Стандартное финансирование"
+ 
+ low_med_anti_propaganda_funding:0 "Повышенное финансирование"
+ low_med_anti_propaganda_funding_desc:0 "Стандартное финансирование"
+ low_med_anti_propaganda_funding_name:0 "Повышенное финансирование"
+ 
+ medium_anti_propaganda_funding:0 "Расширенное финансирование"
+ medium_anti_propaganda_funding_desc:0 "Стандартное финансирование"
+ medium_anti_propaganda_funding_name:0 "Расширенное финансирование"
+ 
+ high_anti_propaganda_funding:0 "Максимальное финансирование"
+ high_anti_propaganda_funding_desc:0 "Стандартное финансирование"
+ high_anti_propaganda_funding_name:0 "Максимальное финансирование"
+ 
+ 
+ policy_anti_propaganda_funding_pc:0 "Финансирование контрразведки"
+ policy_anti_propaganda_funding_pc_desc:0 "Наше полицейское государство обеспечивает нам более высокий уровень внутренней безопасности, чем у большинства империй. Увеличение финансирования обеспечит повышенную защиту от враждебных операций и большую вероятность того, что мы раскроем преступника."
+ 
+ policy_propaganda_funding_sc:0 "Финансирование разведки"
+ policy_propaganda_funding_sc_desc:0 "Опыт работы с советом теней дает нам более высокий уровень разведки, чем у большинства империй. Увеличение финансирования позволяет нам проводить операции на более высоких уровнях оперативного надзора, увеличивая их шансы на успех."
+
+ #THE SPY MENU
+  
+ edict_quibble_spy_menu_edict:0 "Открыть меню шпионажа"
+ edict_quibble_spy_menu_edict_desc:0 "Открывает меню шпионажа"
+  
+  
+ quibble_spy_menu.2.name:0 "Совет по международным отношениям, безопасности и пропаганде."
+ quibble_spy_menu.2.desc:0 "Наш совет безопасности и спецслужбы собрались, готовые наблюдать за новой операцией.\n\nОтсюда мы можем финансировать краткосрочные, эффективные операции, чтобы саботировать или улучшать отношения между двумя империями. Мы также можем попытаться проникнуть на вражескую звёздную базу и саботировать её работу.\n\nМы также можем управлять нашими разведывательными ячейками, отправляя их на специализированные долгосрочные операции. Мы можем получить возможность управлять большим количеством разведывательных ячеек с помощью дальнейших исследований.\n\nНезависимо от того, что мы выбирем, потребуются инвестиции £influence влияния и времени, так же наши шансы на успех зависят от сложности цели и их §Yконтрразведки§!."
+ 
+ quibble_spy_menu.2.a:0 "Саботаж международных отношений"
+ quibble_spy_menu.2.b:0 "Улучшить международные отношения"
+ quibble_spy_menu.2.d:0 "Промышленный шпионаж"
+ quibble_spy_menu.2.f:0 "Саботаж звёздной базы"
+ quibble_spy_menu.2.c:0 "Выход"
+ 
+ quibble_spy_menu.3.name:0 "Совет по международным отношениям, безопасности и пропаганде."
+ quibble_spy_menu.3.desc:0 "Мы уже проводим §Yдействующую операцию§!. Мы отслеживаем ситуацию и вскоре получим отчёт от наших агентов на местах."
+ 
+ quibble_spy_menu.3.a:0 "Понятно."
+
+ 
+ 
+ #BAD RELATIONS EXPLAIN SELECT LEVEL
+ quibble.5.name:0 "Оперативный надзор"
+ quibble.5.desc:0 "Мы готовы провести нашу операцию, но сначала мы должны выбрать уровень надзора, с которым мы будем работать. Более высокие уровни потребуют больше человеческих сил и ресурсов, необходимых для преодоления наших целей контрразведывательных усилий.\n\nОбратите внимание, что каждый уровень имеет разную стоимость влияния."
+
+ 
+ #GOOD RELATIONS EXPLAIN SELECT LEVEL
+ quibble_spy_good_relations.5.name:0 "Оперативный надзор"
+ quibble_spy_good_relations.5.desc:0 "Мы готовы провести нашу кампанию по улучшению отношений между §Y[firstsabotagetarget2.GetName]§! и §Y[secondsabotagetarget2.GetName]§!.\n\nОбратите внимание, что каждый уровень имеет разную стоимость влияния."
+
+ 
+
+  #BAD RELATIONS FAILURE
+ quibble.6.name:0 "§YПровал§!"
+ quibble.6.desc:0 "Мы не смогли оказать сколько-нибудь заметного влияния на §Y[firstsabotagetarget.GetName]§! или на §Y[secondsabotagetarget.GetName]§!. Что еще хуже, наши действия не могли остаться незамеченными."
+ quibble_spy.6.a:0 "Неприемлемо."
+
+ #BAD RELATIONS PARTIAL SUCCESS
+ quibble.7.name:0 "§Y[firstsabotagetarget.GetName]§! - §Y[secondsabotagetarget.GetName]§!"
+ quibble.7.desc:0 "Наши оперативники сообщают, что наша секретная кампания имела §Yчастичный успех§!.\n\nБыл ряд небольших дипломатических инцидентов между §Y[firstsabotagetarget.GetName]§! и §Y[secondsabotagetarget.GetName]§!, которые напрягли отношения между двумя державами.\n\nВсе наши активы были аккуратно извлечены, не оставляя §Yдоказательств§! нашего участия."
+ quibble_spy.7.a:0 "Хорошо"
+ 
+ #BAD RELATIONS FULL SUCCESS
+ quibble.8.name:0 "§Y[firstsabotagetarget.GetName]§! - §Y[secondsabotagetarget.GetName]§!"
+ quibble.8.desc:0 "Наши оперативники докладывают об §Yуспешном§! завершении операции.\n\nКлючевые фигуры в §Y[firstsabotagetarget.GetName]§! и в §Y[secondsabotagetarget.GetName]§! стали враждебно настроены друг к другу, после некоторых сфабрикованных дипломатических инцидентов.\n\nОбе силы вцепились друг другу в глотки.\n\nВсе наши активы были аккуратно извлечены, не оставляя §Yдоказательств§! нашего участия."
+
+ quibble_spy.8.a:0 "Превосходно"
+ 
+ #GOOD RELATIONS FAILURE
+ quibble_spy_good_relations.6.name:0 "§YПровал§!"
+ quibble_spy_good_relations.6.desc:0 "Нам не удалось добиться сколько-нибудь заметного воздействия на §Y[firstsabotagetarget2.GetName]§! и §Y[secondsabotagetarget2.GetName]§!. Что еще хуже, наши действия, возможно, не остались незамеченными."
+ quibble_spy_good_relations.6.a:0 "Неприемлемо"
+ 
+ #GOOD RELATIONS PARTIAL SUCCESS
+ quibble_spy_good_relations.7.name:0 "§YЧастичный успех§!"
+ quibble_spy_good_relations.7.desc:0 "Нам частично удалось улучшить отношения между §Y[firstsabotagetarget2.GetName]§! и §Y[secondsabotagetarget2.GetName]§!."
+ quibble_spy_good_relations.7.a:0 "Хорошо"
+ 
+ #GOOD RELATIONS FULL SUCCESS
+ quibble_spy_good_relations.8.name:0 "§YSuccess§!"
+ quibble_spy_good_relations.8.desc:0 "Мы успешно улучшили отношения между §Y[firstsabotagetarget2.GetName]§! и §Y[secondsabotagetarget2.GetName]§!."
+ quibble_spy_good_relations.8.a:0 "Превосходно"
+ 
+ 
+ #MAP MODE STUFF
+ anti_spy_map_mode:0 "Финансирование контрразведки"
+ anti_spy_map_mode_desc:0 "Отображает уровень финансирования контрразведки для каждой империи."
+ 
+ ANTI_LOW:0 "Стандартное финансирование"
+ ANTI_LOW_MID:0 "Повышенное финансирование"
+ ANTI_MID:0 "Расширенное финансирование"
+ ANTI_HIGH:0 "Максимальное финансирование"
+ ANTI_SUP:0 "Высочайшее финансирование"
+ 
+ 
+ #DIPLOMACY STUFF
+ 
+ #SABOTAGE AGENT DETECTED, FIRST EMPIRE
+ spy_diplomacy.1.name:0 "§YОперация обнаружена!§!"
+ spy_diplomacy.1.desc:0 "Это недопустимо, мы не потерпим вашего незаконного вмешательства в наши дела! Пусть это будет предупреждением для  §Y[root.GetName]§!, мы не будем стоять в стороне, пока нами манипулируют. "
+ spy_diplomacy.1.a:0 "Мы отрицаем какое-либо участие в этом грязном деле."
+ spy_diplomacy.1.b:0 "Наши извинения, возможно, мы сможем все возместить?"
+ 
+ #SABOTAGE AGENT DETECTED, SECOND EMPIRE
+ spy_diplomacy.2.name:0 "§YОперация обнаружена!§!"
+ spy_diplomacy.2.desc:0 "Это недопустимо, мы не потерпим вашего незаконного вмешательства в наши дела! Пусть это будет предупреждением для §Y[root.GetName]§!, мы не будем стоять в стороне, пока нами манипулируют. "
+ spy_diplomacy.2.a:0 "Мы отрицаем какое-либо участие в этом грязном деле."
+ spy_diplomacy.2.b:0 "Наши извинения, возможно, мы сможем все возместить?"
+ 
+ spy_diplomacy.2.c:0 "Смиритесь с этим."
+ 
+ spy_diplomacy.1.c:0 "Мы делаем то, что нам угодно."
+ 
+  #####BOOST RELATIONS FAIL
+ 
+ #FIRST COUNTRY AGENTS DETECTED
+ 
+ #BOOST AGENT DETECTED, FIRST EMPIRE
+ spy_diplomacy.3.name:0 "§YОперация обнаружена!§!"
+ spy_diplomacy.3.desc:0 "Хотя мы ценим, что §Y[root.GetName]§! пытались улучшить наши международные отношения, но в будущем мы бы хотели заниматься этим самостоятельно. Мы не одобряем манипулирование."
+ spy_diplomacy.3.a:0 "Понятно."
+ 
+ #BOOST AGENT DETECTED, SECOND EMPIRE
+ spy_diplomacy.4.name:0 "§YОперация обнаружена!§!"
+ spy_diplomacy.4.desc:0 "Хотя мы ценим, что §Y[root.GetName]§! пытались улучшить наши международные отношения, но в будущем мы бы хотели заниматься этим самостоятельно. Мы не одобряем манипулирование."
+ spy_diplomacy.4.a:0 "Понятно."
+ 
+ opinion_quibble_discovered_low:0 "Раскрытая операция"
+ opinion_quibble_discovered_high:0 "Раскрытая операция и оскорбление"
+ 
+ spy_diplomacy.3.b:0 "Смиритесь с этим."
+ spy_diplomacy.4.b:0 "Мы делаем то, что нам угодно."
+ 
+ 
+ #SNITCH TO PLAYER STUFF, player = first target
+ quibble_spy_sab.51.name:0 "§YЗадержаны иностранные оперативники§!"
+ agents_found51.desc:0 "Иностранные оперативники, принадлежащие §Y[snitch_home.GetName]§! были задержаны нашими силами контрразведки.\n\nПервоначальные расследования показывают, что они пытались §Yсаботировать§! наши дипломатические отношения с §Y[secondsabotagetarget.GetName]§!.\n\nКак мы будем реагировать на эту ситуацию?"
+ 
+ quibble_spy_sab.51.a:0 "Проинформируйте §Y[secondsabotagetarget.GetName]§!"
+ quibble_spy_sab.51.b:0 "Забудьте об этом."
+ quibble_spy_sab.51.c:0 "Они могут иметь полезную информацию. Допросить их."
+ 
+ opinion_quibble_snitch:0 "Раскрытая операция"
+ 
+
+ #SNITCH TO PLAYER STUFF, player = second target
+ quibble_spy_sab.61.name:0 "§YЗадержаны иностранные оперативники§!"
+ agents_found61.desc:0 "Иностранные оперативники, принадлежащие §Y[snitch_home.GetName]§! были задержаны нашими силами контрразведки.\n\nПервоначальные расследования показывают, что они пытались §Yсаботировать§! наши дипломатические отношения с §Y[firstsabotagetarget.GetName]§!.\n\nКак мы будем реагировать на эту ситуацию?"
+ 
+ 
+ quibble_spy_sab.61.a:0 "Проинформируйте §Y[firstsabotagetarget.GetName]§!"
+ quibble_spy_sab.61.b:0 "Забудьте об этомr."
+ quibble_spy_sab.61.c:0 "Они могут иметь полезную информацию. Допросить их."
+ 
+ #GOOD RELATIONS AGENTS DISCOVERED
+ 
+ ################################################################
+ 
+ #TECH STEAL STUFF
+ 
+ #MAIN TECH BRANCH
+"
+ 
+ quibble_spy_tech.2.a.a:0 "Вернуться в меню шпионажа"
+ 
+ #choose research type
+ quibble_spy_tech.3.name:0 "Цель исследования"
+ quibble_spy_tech.3.desc:0 "На какую отрасль их исследований нам следует ориентироваться?"
+ 
+ quibble_spy_tech.3.a:0 "Нацелиться на §YИнженерные исследования§!"
+ quibble_spy_tech.3.b:0 "Нацелиться на §YФизические исследования§!"
+ quibble_spy_tech.3.c:0 "Нацелиться на §YСоциальные исследования§!"
+ 
+ #CHOOSE TECH STEAL INVESTMENT
+ 
+ 
+ quibble_spy_tech.5.name:0 "Оперативный надзор"
+ quibble_spy_tech.5.desc:0 "Мы готовы проникнуть на территорию §Y[tech_firstsabotagetarget.GetName]§!, где наши оперативники попытаются пробраться в их самые безопасные архивы, лаборатории и установки.\n\nОбратите внимание, что с каждым уровнем связана разная стоимость £influence влияния."
+ 
+ quibble_spy_tech.20.name:0 "Оперативный надзор"
+ quibble_spy_tech.20.desc:0 "Мы готовы проникнуть на территорию §Y[tech_firstsabotagetarget.GetName]§!, где наши оперативники попытаются пробраться в их самые безопасные архивы, лаборатории и установки.\n\nОбратите внимание, что с каждым уровнем связана разная стоимость £influence влияния."
+
+ 
+ quibble_spy_tech.21.name:0 "Оперативный надзор"
+ quibble_spy_tech.21.desc:0 "Мы готовы проникнуть на территорию §Y[tech_firstsabotagetarget.GetName]§!, где наши оперативники попытаются пробраться в их самые безопасные архивы, лаборатории и установки.\n\nОбратите внимание, что с каждым уровнем связана разная стоимость £influence влияния."
+
+
+ #JUST FAIL
+ quibble_spy_tech.6.name:0 "§YПровал операции§!"
+ quibble_spy_tech.6.desc:0 "Будь то случайность или результат действий контрразведки, но нам не удалось проникнуть на территорию §Y[tech_firstsabotagetarget.GetName]§!."
+ 
+ quibble_spy_tech.6.a:0 "Досадно."
+ 
+ 
+ #GET TECH AI NOTCIES # PHYSICS
+ quibble_spy_tech.33.name:0 "§YОперация обнаружена!§!"
+ quibble_spy_tech.33.desc:0 "Серьезное осложнение возникло во время нашей операции по промышленному шпионажу на территории §Y[tech_firstsabotagetarget.GetName]§!. В то время как наши оперативники сообщили об успешном поиске перспективных исследований, похоже, что силы контрразведки §Y[tech_firstsabotagetarget.GetName]§! узнали о нашей деятельности, и в настоящее время приближаются к месту проведения операции.\n\nЕщё есть время извлечь наших оставшихся агентов и базу данных исследований, которую они раздобыли, но это серьезно разозлит §Y[tech_firstsabotagetarget.GetName]§!. В качестве альтернативы, мы могли бы дезавуировать всех, кто участвовал в этой операции, в попытке успокоить §Y[tech_firstsabotagetarget.GetName]§!."
+ 
+ quibble_spy_tech.33.a:0 "Мы не можем рисковать разозлить §Y[tech_firstsabotagetarget.GetName]§!."
+ quibble_spy_tech.33.b:0 "Извлеките всех агентов и обеспечьте безопасность исследований."
+ 
+  #GET TECH AI NOTCIES #SOCIETY
+ quibble_spy_tech.31.name:0 "§YОперация обнаружена!§!"
+ quibble_spy_tech.31.desc:0 "Серьезное осложнение возникло во время нашей операции по промышленному шпионажу на территории §Y[tech_firstsabotagetarget.GetName]§!. В то время как наши оперативники сообщили об успешном поиске перспективных исследований, похоже, что силы контрразведки §Y[tech_firstsabotagetarget.GetName]§! узнали о нашей деятельности, и в настоящее время приближаются к месту проведения операции.\n\nЕщё есть время извлечь наших оставшихся агентов и базу данных исследований, которую они раздобыли, но это серьезно разозлит §Y[tech_firstsabotagetarget.GetName]§!. В качестве альтернативы, мы могли бы дезавуировать всех, кто участвовал в этой операции, в попытке успокоить §Y[tech_firstsabotagetarget.GetName]§!."
+ 
+ quibble_spy_tech.31.a:0 "Мы не можем рисковать разозлить §Y[tech_firstsabotagetarget.GetName]§!."
+ quibble_spy_tech.31.b:0 "Извлеките всех агентов и обеспечьте безопасность исследований."
+ 
+  #GET TECH AI NOTCIES #ENGINEERING
+ quibble_spy_tech.32.name:0 "§YОперация обнаружена!§!"
+ quibble_spy_tech.32.desc:0 "Серьезное осложнение возникло во время нашей операции по промышленному шпионажу на территории §Y[tech_firstsabotagetarget.GetName]§!. В то время как наши оперативники сообщили об успешном поиске перспективных исследований, похоже, что силы контрразведки §Y[tech_firstsabotagetarget.GetName]§! узнали о нашей деятельности, и в настоящее время приближаются к месту проведения операции.\n\nЕщё есть время извлечь наших оставшихся агентов и базу данных исследований, которую они раздобыли, но это серьезно разозлит §Y[tech_firstsabotagetarget.GetName]§!. В качестве альтернативы, мы могли бы дезавуировать всех, кто участвовал в этой операции, в попытке успокоить §Y[tech_firstsabotagetarget.GetName]§!."
+ 
+ quibble_spy_tech.32.a:0 "Мы не можем рисковать разозлить §Y[tech_firstsabotagetarget.GetName]§!."
+ quibble_spy_tech.32.b:0 "Извлеките всех агентов и обеспечьте безопасность исследований."
+ 
+ #AI APOLOGIES
+ quibble_spy_tech.8.name:0 "§YВозвращенные исследования.§!"
+ quibble_spy_tech.8.desc:0 "Хотя мы не очень-то благосклонно относимся к вашим оперативникам, которые пытались укрась наши архивы данных, мы понимаем, что они могли действовать без официального разрешения. Давайте покончим с этим делом и убедимся, что такое не повторится в будущем."
+ 
+ quibble_spy_tech.8.a:0 "Несомненно."
+ 
+ #AI TOOK RESEARCH
+ quibble_spy_tech.9.name:0 "§YУкраденные исследования.§!"
+ quibble_spy_tech.9.desc:0 "Мы не будем любезно относиться к вашим сотрудникам, грабящим наши базы данных, и не будем любезно относиться к вашему отказу вернуть эту информацию. Запомните наши слова §Y[snitch_home.GetName]§!, мы не собираемся прошать вам этот агрессивный ход."
+ 
+ quibble_spy_tech.9.a:0 "Какой позор."
+ quibble_spy_tech.9.b:0 "Извините."
+ 
+ 
+ #ENGENEERING RESEARCH
+ 
+ #BOOST ENG
+ quibble_spy_tech_eng.10.name:0 "§YЧастичный успех§!"
+ quibble_spy_tech_eng.10.desc:0 "В то время как наша промышленная шпионская операция на территории §Y[tech_firstsabotagetarget.GetName]§! преуспела в извлечении кэша исследований, мы не смогли получить ничего действительно существенного.\n\nВсе наши активы были чисто извлечены, не оставляя никаких доказательств нашей причастности."
+ 
+ quibble_spy_tech_eng.10.a:0 "Не так уж и плохо."
+ 
+ #RESEARCH GOT ENG
+ quibble_spy_tech_eng.30.name:0 "§YУспех!§!"
+ quibble_spy_tech_eng.30.desc:0 "Нашей промышленной шпионской операции на территории §Y[tech_firstsabotagetarget.GetName]§! удалось получить значительный кэш исследований.\n\nВсе наши активы были чисто извлечены, не оставляя никаких доказательств нашей причастности."
+ 
+ quibble_spy_tech_eng.30.a:0 "Превосходно."
+ 
+ #BOOST PHYS
+ quibble_spy_tech_phys.10.name:0 "§YЧастичный успех§!"
+ quibble_spy_tech_phys.10.desc:0 "В то время как наша промышленная шпионская операция на территории §Y[tech_firstsabotagetarget.GetName]§! преуспела в извлечении кэша исследований, мы не смогли получить ничего действительно существенного.\n\nВсе наши активы были чисто извлечены, не оставляя никаких доказательств нашей причастности."
+ 
+ quibble_spy_tech_phys.10.a:0 "Не так уж и плохо."
+ 
+ 
+ #RESEARCH GOT PHYS
+ quibble_spy_tech_phys.30.name:0 "§YУспех!§!"
+ quibble_spy_tech_phys.30.desc:0 "Нашей промышленной шпионской операции на территории §Y[tech_firstsabotagetarget.GetName]§! удалось получить значительный кэш исследований.\n\nВсе наши активы были чисто извлечены, не оставляя никаких доказательств нашей причастности."
+ 
+ quibble_spy_tech_phys.30.a:0 "Превосходно."
+ 
+ #BOOST SOC
+ quibble_spy_tech_soc.10.name:0 "§YЧастичный успех§!"
+ quibble_spy_tech_soc.10.desc:0 "В то время как наша промышленная шпионская операция на территории §Y[tech_firstsabotagetarget.GetName]§! преуспела в извлечении кэша исследований, мы не смогли получить ничего действительно существенного.\n\nВсе наши активы были чисто извлечены, не оставляя никаких доказательств нашей причастности."
+ 
+ quibble_spy_tech_soc.10.a:0 "Не так уж и плохо."
+ 
+ #RESEARCH GOT SOC
+ quibble_spy_tech_soc.30.name:0 "§YУспех!§!"
+ quibble_spy_tech_soc.30.desc:0 "Нашей промышленной шпионской операции на территории §Y[tech_firstsabotagetarget.GetName]§! удалось получить значительный кэш исследований.\n\nВсе наши активы были чисто извлечены, не оставляя никаких доказательств нашей причастности."
+ 
+ quibble_spy_tech_soc.30.a:0 "Превосходно."
+ 
+
+
+ #TECH OPINION MODS
+ 
+ opinion_quibble_tech_high:0 "Промышленный саботаж"
+ 
+ ##PLAYER DISCOVERS TECH STEAL
+ 
+ 
+  #first country = player #TELL PLAYER SOMEONE SABOTAGED THEIR RELATIONS #med incident
+	
+ quibble_spy_sab.7.name:0 "Дипломатический инцидент - §Y[secondsabotagetarget.GetName]§!"
+ quibble_spy_sab.7.desc:0 "Недавняя череда неожиданных дипломатических инцидентов несколько испортила наши отношения с §Y[secondsabotagetarget.GetName]§!. Если к этому приложила руку третья сторона, мы не сможем найти доказательств."
+ 
+ quibble_spy_sab.7.a:0 "Досадно."
+ 
+ #second country = player
+ quibble_spy_sab.8.name:0 "Дипломатический инцидент - §Y[firstsabotagetarget.GetName]§!"
+ quibble_spy_sab.8.desc:0 "Недавняя череда неожиданных дипломатических инцидентов несколько испортила наши отношения с §Y[firstsabotagetarget.GetName]§!. Если к этому приложила руку третья сторона, мы не сможем найти доказательств."
+ 
+ quibble_spy_sab.8.a:0 "Досадно."
+ 
+ #first country = player #TELL PLAYER SOMEONE SABOTAGED THEIR RELATIONS #high incident
+  
+ quibble_spy_sab.9.name:0 "Дипломатический инцидент - §Y[secondsabotagetarget.GetName]§!"
+ quibble_spy_sab.9.desc:0 "Произошла неожиданная серия серьезных дипломатических инцидентов с §Y[secondsabotagetarget.GetName]§!, которые ухудшили наши отношения. Если к этому приложила руку третья сторона, мы не сможем найти доказательств."
+ 
+ quibble_spy_sab.9.a:0 "Досадно."
+ 
+ #second country = player
+ quibble_spy_sab.10.name:0 "Дипломатический инцидент - §Y[firstsabotagetarget.GetName]§!"
+ quibble_spy_sab.10.desc:0 "Произошла неожиданная серия серьезных дипломатических инцидентов с §Y[firstsabotagetarget.GetName]§!, которые ухудшили наши отношения. Если к этому приложила руку третья сторона, мы не сможем найти доказательств."
+ 
+ quibble_spy_sab.10.a:0 "Досадно."
+ 
+ ######################### NEW AI STUFF
+ 
+ ##PLAYER INTERCEPT TECH STEAL
+ 
+ quibble_spy_ai_tech.2.name:0 "§YИностранная операция перехвачена§!"
+ quibble_spy_ai_tech.2.desc:0 "Наше контрразведывательное агентство пресекло попытку §Y[snitch_home.GetName]§! проникнуть в наши научно-исследовательские институты и промышленные предприятия. Хотя их оперативники сбежали, мы убедились, что они ничего не унесли с собой."
+ 
+ quibble_spy_ai_tech.2.a:0 "Хорошая работа."
+ 
+ 
+ ################PLAYER ASKED TO JOIN AI WAR
+ 
+ quibble_spy_ai_warhelp.5.name:0 "§YЗапрос поддержки§!"
+ quibble_spy_ai_warhelp.5.desc:0 "Приветствуем вас, [ai_warhelper.GetLeaderName], мы ищем союзников в нашей справедливой войне против §Y[ai_atwarwith.GetName]§!. Те, кто отважится присоединиться к нам, заслужат нашу искреннюю благодарность."
+ 
+ quibble_spy_ai_warhelp.5.a:0 "Конечно, вместе мы победим."
+ quibble_spy_ai_warhelp.5.b:0 "Извините, но мы не будем вмешиваться."
+ quibble_spy_ai_warhelp.5.c:0 "Мы не будем учавствовать, но постараемся поддержать вас."
+ 
+ ######ALERT POLAYER COUNTRY JOINED WAR
+ 
+ quibble_spy_ai_warhelp.6.name:0 "§YОбъединились против нас§!"
+ quibble_spy_ai_warhelp.6.desc:0 "§Y[ai_warhelper.GetName]§! присоединились к §Y[snitch_home.GetName]§! в продолжающемся конфликте с нами."
+ 
+ quibble_spy_ai_warhelp.6:0 "Досадно."
+ 
+ opinion_quibble_joinedwar_against:0 "Объединились против нас"
+ 
+ opinion_quibble_joinedwar_with_low:0 "Присоединился к нам в войне"
+ opinion_quibble_joinedwar_with_high:0 "Присоединился к нам в войне"
+ 
+ QUIBBLE_BUTTON_FONT_TEXT:1 "Шпионаж"
+ 
+ 
+ ##############################################
+
+ quibble_spy_station.1.name:0 "§YСаботаж звёздной базы - целевая империя§!"
+ quibble_spy_station.1.desc:0 "Наши оперативники попытаются проникнуть на иностранную станцию, контрабандой ввезя как можно больше оружия и припасов, вербуя отчаявшихся и бесправных жителей и местные группировки.\n\nВ случае успеха они резко ослабят целевую станцию на несколько месяцев. (уменьшает урон от оружия на станции примерно на 4 месяца)\n\nЭто сложная и длительная операция. На чью звёздную базу мы нацелимся? Цель должна граничить с нами (Режим карты - соседи)."
+
+ quibble_neighbors.6.a:0 "§Y[station_target_1.GetName]§!"
+ quibble_neighbors.6.b:0 "§Y[station_target_2.GetName]§!"
+ quibble_neighbors.6.c:0 "§Y[station_target_3.GetName]§!"
+ quibble_neighbors.6.d:0 "§Y[station_target_4.GetName]§!"
+ quibble_neighbors.6.e:0 "§Y[station_target_5.GetName]§!"
+ quibble_neighbors.6.f:0 "§Y[station_target_6.GetName]§!"
+ quibble_neighbors.6.g:0 "§Y[station_target_7.GetName]§!"
+ quibble_neighbors.6.h:0 "§Y[station_target_8.GetName]§!"
+ quibble_neighbors.6.i:0 "§Y[station_target_9.GetName]§!"
+ quibble_neighbors.6.j:0 "§Y[station_target_10.GetName]§!"
+ quibble_neighbors.6.l:0 "§Y[station_target_11.GetName]§!"
+ quibble_neighbors.6.l:0 "§Y[station_target_12.GetName]§!"
+ quibble_neighbors.6.m:0 "§Y[station_target_13.GetName]§!"
+ quibble_neighbors.6.n:0 "§Y[station_target_14.GetName]§!"
+ quibble_neighbors.6.o:0 "Выход"
+
+ quibble_spy_station.3.name:0 "§YНацелиться на звёздную базу§!"
+ quibble_spy_station.3.desc:0 "Мы можем нацелиться на любую §Yзвёздную базу§!, которую мы имеем под пристальным наблюдением §Y(Высокий уровень разведки)§!. Возможно, нам придется построить прослушивающие посты в соседних системах."
+
+
+
+ quibble_spy_station.4.name:0 "§YОперативный надзор§!"
+ quibble_spy_station.4.desc:0 "Наши оперативники готовы проникнуть на звёздную базу §Y[sab_station.GetName]§!, где они будут проводить операции по контрабанде с целью накопления оружия и припасов, а также вербовки среди местных группировок на станциях.\n\nКогда они будут готовы, они начнут штурм командных центров станций, чтобы вывести жизненно важные системы из строя.\n\nОбратите внимание, что с каждым уровнем связана разная стоимость £influence влияния."
+
+ quibble_spy_station.4.a:0 "Начать операцию - §Y(Стандартная)§!"
+ quibble_spy_station.4.b:0 "Начать операцию - §Y(Расширенная)§!"
+ quibble_spy_station.4.c:0 "Начать операцию - §Y(Максимальная)§!"
+ quibble_spy_station.4.f:0 "Начать операцию - §Y(Повышенная)§!"
+
+ quibble_spy_station.4.d:0 "Вернуться в меню выбора империй"
+
+ quibble_spy_station.4.e:0 "Вернуться в меню шпионажа."
+
+
+ quibble_sabotage_low:0 "Саботированная звездная база"
+ quibble_sabotage_high:0 "Саботированная звездная база"
+
+
+ quibble_spy_station.702.name:0 "§YОперация обнаружена§!"
+ quibble_spy_station.702.desc:0 "Одна из наших контрабандных поставок оружия на звёздную базу §Y[sab_station.GetName]§! была перехвачена службой безопасности станции, и они задержали ряд наших оперативников и контактов. §Y[stationsabotagetarget.GetName]§! стало известно о нашей причастности."
+ quibble_spy_station.702.a:0 "Неприемлемо."
+ 
+ quibble_spy_station.7021.name:0 "§YОперация обнаружена§!"
+ quibble_spy_station.7021.desc:0 "Мы не будем признавать вашу злонамеренную деятельность на нашей звёздной базе §Y[sab_station.GetName]§!, мы предупреждаем вас не вмешиваться в наши дела."
+ 
+ quibble_spy_station.7021.a:0 "Мы не несем ответственности за этот инцидент."
+ quibble_spy_station.7021.b:0 "Смиритесь с этим."
+ 
+ quibble_spy_station.703.name:0 "§YПровал саботажа звёздной базы.§!"
+ quibble_spy_station.703.desc:0 "Мы не смогли успешно проникнуть на звёздную базу §Y[sab_station.GetName]§!. Хотя некоторые грузы и агенты были задержаны службой безопасности станции, мы избавились от любых доказательств, относящихся к нашей причастности."
+ 
+ quibble_spy_station.703.b:0 "Досадно."
+ 
+ 
+ quibble_spy_station.704.name:0 "§YНеобходимы дополнительные средства§!"
+ quibble_spy_station.704.desc:0 "Наши оперативники успешно проникли на звёздную базу §Y[sab_station.GetName]§!.\n\nОднако им удалось добиться лишь ограниченного успеха в контрабанде оружия и доставке грузов, без чего они не смогут проводить свою операцию. Они запрашивают дополнительные ресурсы. "
+ 
+ quibble_spy_station.704.a:0 "Мы не можем позволить себе эти дополнительные расходы, отменить операцию."
+ quibble_spy_station.704.b:0 "Очень хорошо, проследите, чтобы они получили дополнительные средства."
+ 
+ quibble_spy_station.601.name:0 "§YПодготовка к операции завершена§!"
+ quibble_spy_station.601.desc:0 "Наши агенты успешно проникли на звёздную базу §Y[sab_station.GetName]§!, они завербовали местных жителей и контролировали массовую контрабандную операцию по ввозу оружия и предметов снабжения.\n\nТем не менее, было несколько неудач, мы можем начать операцию сейчас или продолжать финансировать наших оперативников в попытке увеличить уровень сбоев, которые они вызовут на звёздной базе."
+ 
+ quibble_spy_station.601.a:0 "Отменить атаку, ситуация изменилась."
+ quibble_spy_station.601.b:0 "Начать атаку."
+ quibble_spy_station.601.d:0 "Подождите, давайте попробуем улучшить наши шансы."
+ quibble_spy_station.601.c:0 "Подождите, мы не готовы сделать этот шаг. (1 Месяц)"
+ 
+ quibble_spy_station.602.name:0 "§YПодготовка к операции завершена."
+ quibble_spy_station.602.desc:0 "Наши агенты успешно проникли на звёздную базу §Y[sab_station.GetName]§!, они завербовали местных жителей и контролировали массовую контрабандную операцию по ввозу оружия и предметов снабжения.\n\nОни готовы начать атаку, значительно ослабив станцию на несколько месяцев.."
+ 
+ quibble_spy_station.602.a:0 "Отменить атаку, ситуация изменилась."
+ quibble_spy_station.602.b:0 "Начать атаку."
+ quibble_spy_station.602.c:0 "Подождите, мы не готовы сделать этот шаг. (1 Месяц)"
+ 
+ quibble_spy_station.621.name:0 "§YСражение началось§!"
+ quibble_spy_station.621.desc:0 "Наши силы пробиваются через коридоры и атриумы звёздной базы §Y[sab_station.GetName]§!, ликвидируя сотрудников службы безопасности и осаждая командные центры. Несмотря на то, что наши силы недостаточно оснащены, они должны быть в состоянии сохранить безопасность станций, частично оставляя станцию уязвимой.\n\nВ течение примерно 4 месяцев урон от оружия на станциях будет снижен. (сила флота может обновиться не сразу)"
+ 
+ quibble_spy_station.621.a:0 "Превосходно."
+ 
+ quibble_spy_station.721.name:0 "§YСражение началось§!"
+ quibble_spy_station.721.desc:0 "Наши силы пробиваются через коридоры и атриумы звёздной базы §Y[sab_station.GetName]§!, ликвидируя сотрудников службы безопасности и осаждая командные центрыs. Силы безопасности полностью отвлекаются на нашу атаку, оставляя станцию уязвимой.\n\nВ течение примерно 4 месяцев урон от оружия на станциях будет снижен. (сила флота может обновиться не сразу)"
+ 
+ quibble_spy_station.721.a:0 "Превосходно."
+ 
+ quibble_spy_station.821.name:0 "§YСражение окончилось§!"
+ quibble_spy_station.821.desc:0 "Битва, которая бушевала на звёздной базе §Y[sab_station.GetName]§!, наконец подошла к концу. Охрана станции восстановила контроль, все наши оперативники либо мертвы, либо извлечены."
+ quibble_spy_station.821.a:0 "Понятно."
+ 
+ ##################### SABOTAGE COMPLICATION EVENT 1 ########################
+ 
+ spy_diplomacy.1000.name:0 "§YКритическая возможность.§!"
+ spy_diplomacy.1000.desc:0 "Наши агенты, работающие на территории §Y[firstsabotagetarget.GetName]§! и §Y[secondsabotagetarget.GetName]§! обнаружили критическую ситуацию, которую мы могли бы потенциально использовать в наших интересах. Есть радикальная, националистическая фракция внутри §Y[secondsabotagetarget.GetName]§!, которая при надлежащем поощрении и оснащении может быть использована для насильственного начала войны между двумя целями.\n\nЕсли мы решим воспользоваться этой возможностью, мы должны быть готовы к увеличению затрат и опасности обнаружения."
+ spy_diplomacy.1000.a:0 "Удовлетворить запрос, воспользоваться этой возможностью."
+ spy_diplomacy.1000.b:0 "Отклонить запрос. "
+ 
+ spy_diplomacy.1100.name:0 "§YФинансирование операции.§!"
+ spy_diplomacy.1100.desc:0 "Наши агенты вступили в контакт с радикальной, националистической группировкой. Они полны страстного желания принять насильственные действия против §Y[firstsabotagetarget.GetName]§! за их мнимые обиды. Наши оперативники планируют помочь проникнуть членам этой группировки в столицу §Y[firstsabotagetarget.GetName]§!, §Y[firstsabotagetarget.Capital.GetName]§!.\n\nМы обеспечим, чтобы они были хорошо вооружены, и поможем им в планировании серии насильственных демонстраций в ключевых местах. Благодаря тщательному управлению информацией мы можем закрепить операцию на §Y[secondsabotagetarget.GetName]§!.\n\nЧем больше дополнительных ресурсов мы посвящаем операции, тем больше у нас шансов на успех и на скрытие нашего участия"
+ 
+ spy_diplomacy.1100.a:0 "Максимальное финансирование, убедитесь, что у них есть все, что им нужно."
+ spy_diplomacy.1100.b:0 "Расширенное финансирование, поддержите их, но не превышайте лимит средств."
+ spy_diplomacy.1100.c:0 "Прикажите нашим агентам действовать с ресурсами, которые у них уже есть."
+ 
+ 
+ spy_diplomacy.1200.name:0 "§YНеобходимы дополнительные средства.§!"
+ spy_diplomacy.1200.desc:0 "Наши агенты, работающие на территории §Y[firstsabotagetarget.GetName]§! и §Y[secondsabotagetarget.GetName]§! добились неплохих успехов, но операции приостановилась из-за действий контрразведки. Для продолжения им потребуются дополнительные средства."
+ 
+ spy_diplomacy.1200.a:0 "Дайте им то, что нужно."
+ spy_diplomacy.1200.b:0 "Отменить операцию."
+ 
+ 
+ spy_diplomacy.1300.name:0 "§YПолный успех!§!"
+ spy_diplomacy.1300.desc:0 "Уже проникают через огромное количество новостных организаций и официальных каналов, сообщения о насильственных террористических актах на территории §Y[firstsabotagetarget.GetName]§!, оперативниками, работающими на §Y[secondsabotagetarget.GetName]§!. Война разразилась между двумя империями, как только §Y[firstsabotagetarget.GetName]§! решили отомстить за преступления, совершенные против них."
+ 
+ spy_diplomacy.1300.a:0 "Превосходно."
+ 
+ 
+ spy_diplomacy.1400.name:0 "§YКритическая неудача!§!"
+ spy_diplomacy.1400.desc:0 "Ужасные сообщения от наших оперативников дошли до нас за несколько минут до официального объявления войны. Атаки увенчались успехом, взрывы и перестрелки вспыхнули на улицах §Y[firstsabotagetarget.Capital.GetName]§!, но во всей этой неразберихе несколько наших оперативников были задержаны или убиты..\n\nМы все еще пытаемся собрать воедино то, что произошло, но пока ясно одно - между §Y[firstsabotagetarget.GetName]§! и §Y[secondsabotagetarget.GetName]§! разразилась война, и нас тоже втянули в конфликт."
+ 
+ spy_diplomacy.1400.a:0 "Неприемлимо!"
+ 
+ quibble_spy_sab.511.name:0 "§YНикакой полезной информации.§!"
+ quibble_spy_sab.511.desc:0 "Агенты, которых мы захватили, не дали никакой полезной информации, и наши оперативники по допросу считают, что им больше нечего узнать."
+ quibble_spy_sab.511.a:0 "Досадно."
+ 
+ quibble_spy_sab.522.name:0 "§YТайник Сплавов.§!"
+ quibble_spy_sab.522.desc:0 "Агенты, которых мы захватили, обнаружили местонахождение склада, скрытого на нашей территории. Предназначенный для финансирования их операций, он сейчас захвачен нашими силами."
+ quibble_spy_sab.522.a:0 "Превосходно."
+ 
+ quibble_spy_sab.5331.name:0 "§YТайник с Данными Исследований.§!"
+ quibble_spy_sab.5331.desc:0 "Агенты, которых мы захватили, разгласили коды доступа к скрытому хранилищу данных, в котором находится множество исследовательских данных, накопленных ими в ходе предыдущей операции."
+ quibble_spy_sab.5331.a:0 "Превосходно."
+ 
+ quibble_spy_sab.5332.name:0 "§YТайник с Данными Исследований.§!"
+ quibble_spy_sab.5332.desc:0 "Агенты, которых мы захватили, разгласили коды доступа к скрытому хранилищу данных, в котором находится множество исследовательских данных, накопленных ими в ходе предыдущей операции."
+ quibble_spy_sab.5332.a:0 "Превосходно."
+ 
+ quibble_spy_sab.5333.name:0 "§YТайник с Данными Исследований.§!"
+ quibble_spy_sab.5333.desc:0 "Агенты, которых мы захватили, разгласили коды доступа к скрытому хранилищу данных, в котором находится множество исследовательских данных, накопленных ими в ходе предыдущей операции."
+ quibble_spy_sab.5333.a:0 "Превосходно."
+ 
+ quibble_sabotage_high:0 "Продолжающаяся битва (большая)"
+ quibble_sabotage_low:0 "Продолжающаяся битва (небольшая)"
+ 
+ 
+ quibble_low:0 "Всегда терпит неудачу против максимального финансирования\n\nНизкий шанс успеха против улучшенного финансирования\n\nНизкий шанс успеха против всего остального."
+ quibble_low_med:0 "Всегда преуспевает против стандартного финансирования"
+ quibble_medium:0 "Хороший шанс на успех против стандартного финансирования\n\nСредний шанс успеха против улучшенного финансирования\n\\n Слабый шанс успеха против расширенного финансирования\n\nОчень низкий шанс успеха против максимального финансирования"
+ quibble_high:0 "Всегда преуспевает против стандартного финансирования"
+ quibble_max:0 "Всегда пожалуйста"
+ 
+ quibble_funding.a:0 "Начать операцию - §Y(Стандартный)§!"
+ quibble_funding.b:0 "Начать операцию - §Y(Улучшенный)§!"
+ quibble_funding.c:0 "Начать операцию - §Y(Расширенный)§!"
+ quibble_funding.d:0 "Начать операцию - §Y(Максимальный)§!"
+ quibble_funding.e:0 "Вернуться к выбору цели"
+ quibble_funding.f:0 "Выход"
+
+ ####################
+ ##
+ # LONGTERM TECH STUFF
+ ##
+ ####################
+ quibble_longterm.601.name:0 "Первая ячейка. Неудача."
+ quibble_longterm.601.desc:0 "Будь то случайно или в результате действий контрразведки, нам не удалось проникнуть на территорию §Y[tech_firstsabotagetarget.GetName]§!."
+ 
+ quibble_longterm.602.name:0 "Первая ячейка. Успех."
+ quibble_longterm.602.desc:0 "Наша промышленная шпионская операция на территории §Y[longterm_cellone.GetName]§! удалось получить значительный тайник данных исследований.\n\nВсе наши активы были аккуратно извлечены, не оставляя никаких доказательств нашей причастности."
+ quibble_longterm.602.a:0 "Превосходно"
+ 
+ ####################
+ ##
+ # GENERAL CELL MANAGMENT STUFF
+ ##
+ ####################
+ 
+ ongoing_operation:0 "Невозможно изменить до завершения текущей операции."
+ quibble_spy_menu.8.name:0 "Выберите цель"
+ quibble_spy_menu.8.desc:0 "\n\n Куда мы пошлем нашу разведывательную ячейку?"
+ celltwo_tooltip:0 "Необходимо сначала назначить первую ячейку"
+ cellthree_tooltip:0 "Необходимо сначала назначить вторую ячейку"
+ cellfour_tooltip:0 "Необходимо сначала назначить третью ячейку"
+ quibble_spy_menu.8.e:0 "Отозвать."
+ longterm_cellone_not:0 "Сначала назначьте первую ячейку"
+ longterm_cellone_is:0 ""
+ exists_celltwo:0 "§GВторая ячейка§! не доступна"
+ exists_cellthree:0 "§SТретья ячейка§! не доступна"
+ exists_cellfour:0 "§YЧетвертая ячейка§! не доступна"
+ 
+ quibble_spy_menu.2.e:0 "Управление разведывательными ячейками"
+ 
+ 
+ not_exists_celltwo:0 "§GВторая ячейка§! не назначена"
+ not_exists_cellthree:0 "§SТретья ячейка§! не назначена"
+ not_exists_cellfour:0 "§YЧетвертая ячейка§! не назначена"
+ longterm_cellone:0 "Первая ячейка назначена на [longterm_cellone.GetName]"
+ none:0 "Первая ячейка свободна"
+ 
+ quibble_spy_menu.5.desc:0 "\n\n [Root.get_cell_state_one] §Y[longterm_cellone.GetName]§! [Root.op_type_cell_one] [root.cellone_finance]\n\n\n\n [Root.get_cell_state_two] §Y[longterm_celltwo.GetName]§! [Root.op_type_cell_two] [root.celltwo_finance]\n\n\n\n [Root.get_cell_state_three] §Y[longterm_cellthree.GetName]§! [Root.op_type_cell_three] [root.cellthree_finance]\n\n\n\n [Root.get_cell_state_four] §Y[longterm_cellfour.GetName]§! [Root.op_type_cell_four] [root.cellfour_finance]"
+ 
+ 
+ quibble_spy_menu.5.name:0 "Управление разведывательными ячейками"
+ quibble_spy_menu.5.a:0 "§BНазначить первую ячейку§" #CELL ONE
+ quibble_spy_menu.5.b:0 "§BПереназначить первую ячейку§"
+ quibble_spy_menu.5.c:0 "§BУправление первой ячейкой§"
+ 
+ quibble_spy_menu.5.d:0 "§GНазначить вторую ячейку§" #CELL TWO
+ quibble_spy_menu.5.e:0 "§GПереназначить вторую ячейку§"
+ quibble_spy_menu.5.f:0 "§GУправление второй ячейкой§"
+ 
+ quibble_spy_menu.5.g:0 "§SНазначить третью ячейку§" #CELL THREE
+ quibble_spy_menu.5.h:0 "§SПереназначить третью ячейку§"
+ quibble_spy_menu.5.i:0 "§SУправление третьей ячейкой§"
+ 
+ quibble_spy_menu.5.j:0 "§YНазначить четвертую ячейку§" #CELL FOUR
+ quibble_spy_menu.5.k:0 "§YПереназначить четвертую ячейку§"
+ quibble_spy_menu.5.l:0 "§YУправление четвёртой ячейкой§"
+ quibble_spy_menu.5.p:0 "Вернуться в меню Шпионажа"
+ 
+ 
+ quibble_longterm.1.name:0 "выберите страну"
+ quibble_spy_menu.8.a:0 "[2target_1.GetName]"
+ quibble_spy_menu.8.b:0 "[2target_2.GetName]"
+ quibble_spy_menu.8.c:0 "[2target_3.GetName]"
+ quibble_spy_menu.8.d:0 "[2target_4.GetName]"
+ quibble_spy_menu.8.f:0 "[2target_5.GetName]"
+ quibble_spy_menu.8.g:0 "[2target_6.GetName]"
+ quibble_spy_menu.8.h:0 "[2target_7.GetName]"
+ quibble_spy_menu.8.i:0 "[2target_8.GetName]"
+ quibble_spy_menu.8.j:0 "[2target_9.GetName]"
+ quibble_spy_menu.8.k:0 "[2target_10.GetName]"
+ quibble_spy_menu.8.l:0 "Вернуться."
+ 
+ ######################
+ 
+ quibble_low_cellone_finance:0 "Стандартное финансирование"
+ quibble_low_med_cellone_finance:0 "Увеличенное финансирование"
+ quibble_medium_cellone_finance:0 "Расширенное финансирование"
+ quibble_high_cellone_finance:0 "Максимальное финансирование"
+ 
+ quibble_low_celltwo_finance:0 "Стандартное финансирование"
+ quibble_low_med_celltwo_finance:0 "Увеличенное финансирование"
+ quibble_medium_celltwo_finance:0 "Расширенное финансирование"
+ quibble_high_celltwo_finance:0 "Максимальное финансирование"
+ 
+ quibble_low_cellthree_finance:0 "Стандартное финансирование"
+ quibble_low_med_cellthree_finance:0 "Увеличенное финансирование"
+ quibble_medium_cellthree_finance:0 "Расширенное финансирование"
+ quibble_high_cellthree_finance:0 "Максимальное финансирование"
+ 
+ quibble_low_cellfour_finance:0 "Стандартное финансирование"
+ quibble_low_med_cellfour_finance:0 "Увеличенное финансирование"
+ quibble_medium_cellfour_finance:0 "Расширенное финансирование"
+ quibble_high_cellfour_finance:0 "Максимальное финансирование"
+ 
+ ####################
+ ##
+ # CELL ONE MANAGEMENT
+ ##
+ ####################
+ quibble_spy_menu.11.name:0 "Управление §Bпервой ячейкой§!"
+ 
+ quibble_spy_menu.11.f:0 "Выберите операцию"
+ quibble_spy_menu.11.h:0 "Выберите уровень финансирования"
+ quibble_spy_menu.11.b:0 "Вернуться"
+ 
+ menu.11.cellone_op_industrial:0 "\n\nПроведение промышленной шпионской операции, [root.cellone_finance]"
+ menu.11.cellone_op_none:0 "\n\nНет текущей операции, [root.cellone_finance]"
+ 
+ #CELL ONE FOCUS
+ quibble_spy_menu.1111.name:0 "Операции §Bпервой ячейки§!."
+ 
+ menu.1111.cellone_op_industrial:0 "\n\nПроведение промышленной шпионской операции, [root.cellone_finance].\n\nВремя продолжительности - 2 года."
+ menu.1111.cellone_op_none:0 "\n\nНет текущей операции, [root.cellone_finance].\n\nВыбранная операция закрепит за собой эту ячейку в течение примерно двух лет, хотя мы сможем изменить их уровень финансирования в течение этого периода, мы не сможем переназначить их, пока операция не будет завершена."
+  
+ quibble_spy_menu.1111.f:0 "Совершить промышленную шпионскую операцию"
+ quibble_spy_menu.1111.b:0 "Вернуться"
+ 
+ # CELL ONE FINANCE
+ quibble_spy_menu.111.name:0 "Финансирование §Bпервой ячейки§!"
+ 
+ quibble_spy_menu.111.a:0 "Стандартное финансирование"
+ quibble_spy_menu.111.b:0 "Увеличенное Финасирование"
+ quibble_spy_menu.111.c:0 "Расширенное Финасирование"
+ quibble_spy_menu.111.d:0 "Максимальное финансирование"
+ quibble_spy_menu.111.e:0 "Вернуться"
+ quibble_spy_menu.111.f:0 "Нет финансирования"
+ 
+ #CELL ONE SCRIPTED LOC STUFF
+ exists_cellone:0 "§BПервая ячейка§! не доступна"
+ not_exists_cellone:0 "§BПервая ячейка§! не назначена"
+ 
+ longterm_cellone_industrial:0 " - Проведение промышленной шпионской операции - "
+ longterm_cellone_none:0 " - Нет текущих приказов - "
+ 
+ cellone_finance_none:0 "Нет финасирования."
+ cellone_finance_low:0 "Стандартное финансирование."
+ cellone_finance_low_med:0 "Улучшенное финансирование."
+ cellone_finance_medium:0 "Расширенное финансирование."
+ cellone_finance_high:0 "Максимальное финансирование."
+ 
+ ####################
+ ##
+ # CELL TWO MANAGEMENT
+ ##
+ ####################
+ quibble_spy_menu.12.name:0 "Управление §Hвторой ячейкой§!"
+ 
+ quibble_spy_menu.12.f:0 "Выберите операцию"
+ quibble_spy_menu.12.h:0 "Выберите уровень финансирования"
+ quibble_spy_menu.12.b:0 "Вернуться"
+ 
+ menu.12.celltwo_op_industrial:0 "\n\n Проведение промышленной шпионской операции, [root.celltwo_finance]"
+ menu.12.celltwo_op_none:0 "\n\n Нет текущей операции, [root.celltwo_finance]"
+ 
+ #CELL TWO FOCUS
+ quibble_spy_menu.1222.name:0 "Операции §Hвторой ячейки§!."
+ 
+ menu.1222.celltwo_op_industrial:0 "\n\n Проведение промышленной шпионской операции, [root.celltwo_finance]\n\nВремя продолжительности - 2 года"
+ menu.122.celltwo_op_industrial:0 "\n\n Проведение промышленной шпионской операции, [root.celltwo_finance]"
+ menu.1222.celltwo_op_none:0 "\n\n Нет текущей операции, [root.celltwo_finance]\n\nВыбранная операция закрепит за собой эту ячейку в течение примерно двух лет, хотя мы сможем изменить их уровень финансирования в течение этого периода, мы не сможем переназначить их, пока операция не будет завершена."
+ menu.122.celltwo_op_none:0 "\n\n Нет текущей операции, [root.celltwo_finance]"
+  
+ quibble_spy_menu.1222.f:0 "Совершить промышленную шпионскую операцию"
+ quibble_spy_menu.1222.b:0 "Вернуться"
+ 
+ # CELL TWO FINANCE
+ quibble_spy_menu.122.name:0 "Финансирование §Hвторой ячейки§!"
+
+ 
+ #CELL TWO SCRIPTED LOC STUFF
+ exists_celltwo:0 "§HВторая ячейка§! не доступна"
+ not_exists_celltwo:0 "§HВторая ячейка§! не назначена"
+ 
+ longterm_celltwo_industrial:0 " - Проведение Промышленной Шпионской Операции - "
+ longterm_celltwo_none:0 " - Нет текущих приказов - "
+ 
+ celltwo_finance_none:0 "Нет финасирования."
+ celltwo_finance_low:0 "Стандартное финансирование."
+ celltwo_finance_low_med:0 "Улучшенное финансирование."
+ celltwo_finance_medium:0 "Расширенное финансирование."
+ celltwo_finance_high:0 "Максимальное финансирование."
+ 
+ ####################
+ ##
+ # CELL THREE MANAGEMENT
+ ##
+ ####################
+ quibble_spy_menu.13.name:0 "Управление §Pтретьей ячейки§!"
+ 
+ quibble_spy_menu.13.f:0 "Выберите операцию"
+ quibble_spy_menu.13.h:0 "Выберите уровень финансирования"
+ quibble_spy_menu.13.b:0 "Вернуться"
+ 
+ menu.13.cellthree_op_industrial:0 "\n\n Проведение промышленной шпионской операции, [root.cellthree_finance]"
+ menu.13.cellthree_op_none:0 "\n\n Нет текущей операции, [root.cellthree_finance]"
+ 
+ #CELL THREE FOCUS
+ quibble_spy_menu.1333.name:0 "Операции §Pтретьей ячейки§!."
+ 
+ menu.1333.cellthree_op_industrial:0 "\n\n Проведение промышленной шпионской операции, [root.cellthree_finance]\n\nВремя продолжительности - 2 года"
+ menu.133.cellthree_op_industrial:0 "\n\n Проведение промышленной шпионской операции, [root.cellthree_finance]"
+ menu.1333.cellthree_op_none:0 "\n\n Нет текущей операции, [root.cellthree_finance]\n\nВыбранная операция закрепит за собой эту ячейку в течение примерно двух лет, хотя мы сможем изменить их уровень финансирования в течение этого периода, мы не сможем переназначить их, пока операция не будет завершена."
+ menu.133.cellthree_op_none:0 "\n\n Нет текущей операции, [root.cellthree_finance]"
+  
+ quibble_spy_menu.1333.f:0 "Совершить промышленную шпионскую операцию"
+ quibble_spy_menu.1333.b:0 "Вернуться"
+ 
+ # CELL THREE FINANCE
+ quibble_spy_menu.133.name:0 "Финансирование §Pтретьей ячейки§!"
+
+ 
+ #CELL THREE SCRIPTED LOC STUFF
+ exists_cellthree:0 "§PТретья ячейка§! не доступна"
+ not_exists_cellthree:0 "§PТретья ячейка§! не назначена"
+ 
+ longterm_cellthree_industrial:0 " - Проведение промышленной шпионской операции - "
+ longterm_cellthree_none:0 " - Нет текущих приказов - "
+ 
+ cellthree_finance_none:0 "Нет финасирования."
+ cellthree_finance_low:0 "Стандартное финансирование."
+ cellthree_finance_low_med:0 "Улучшенное финансирование."
+ cellthree_finance_medium:0 "Расширенное финансирование."
+ cellthree_finance_high:0 "Максимальное финансирование."
+
+ ####################
+ ##
+ # CELL FOUR MANAGEMENT
+ ##
+ ####################
+ quibble_spy_menu.14.name:0 "Управление §Sчетвёртой ячейкой§!"
+ 
+ quibble_spy_menu.14.f:0 "Выберите операцию"
+ quibble_spy_menu.14.h:0 "Выберите уровень финансирования"
+ quibble_spy_menu.14.b:0 "Вернуться"
+ 
+ menu.14.cellfour_op_industrial:0 "\n\n Проведение промышленной шпионской операции, [root.cellfour_finance]"
+ menu.14.cellfour_op_none:0 "\n\n Нет текущей операции, [root.cellfour_finance]"
+ 
+ #CELL FOUR FOCUS
+ quibble_spy_menu.1444.name:0 "Операции §Sчетвёртой ячейки§!."
+ 
+ menu.1444.cellfour_op_industrial:0 "\n\n Проведение промышленной шпионской операции, [root.cellfour_finance]\n\nВремя продолжительности - 2 года"
+ menu.144.cellfour_op_industrial:0 "\n\n Проведение промышленной шпионской операции, [root.cellfour_finance]"
+ menu.1444.cellfour_op_none:0 "\n\n Нет текущей операции, [root.cellfour_finance]\n\nВыбранная операция закрепит за собой эту ячейку в течение примерно двух лет, хотя мы сможем изменить их уровень финансирования в течение этого периода, мы не сможем переназначить их, пока операция не будет завершена."
+ menu.144.cellfour_op_none:0 "\n\n Нет текущей операции, [root.cellfour_finance]"
+  
+ quibble_spy_menu.1444.f:0 "Совершить промышленную шпионскую операцию"
+ quibble_spy_menu.1444.b:0 "Вернуться"
+ 
+ # CELL FOUR FINANCE
+ quibble_spy_menu.144.name:0 "Финансирование §Sчетвёртой ячейки§!"
+
+ 
+ #CELL FOUR SCRIPTED LOC STUFF
+ exists_cellfour:0 "§SЧетвёртая ячейка§! не доступна"
+ not_exists_cellfour:0 "§SЧетвёртая ячейка§! не назначена"
+ 
+ longterm_cellfour_industrial:0 " - Проведение промышленной шпионской операции - "
+ longterm_cellfour_none:0 " - Нет текущих приказов - "
+ 
+ cellfour_finance_none:0 "Нет финасирования."
+ cellfour_finance_low:0 "Стандартное финансирование."
+ cellfour_finance_low_med:0 "Улучшенное финансирование."
+ cellfour_finance_medium:0 "Расширенное финансирование."
+ cellfour_finance_high:0 "Максимальное финансирование."
+ 
+ ###############################################
+ 
+ quibble_longterm.6011.name:0 "Первая ячейка готова"
+ quibble_longterm.6011.desc:0 "Первая ячейка вернулась и была тщательно допрошена. Теперь мы можем начать новую операцию. "
+ 
+ quibble_longterm.6012.name:0 "Вторая ячейка готова"
+ quibble_longterm.6012.desc:0 "Вторая ячейка вернулась и была тщательно допрошена. Теперь мы можем начать новую операцию. "
+ 
+ quibble_longterm.6013.name:0 "Третья ячейка готова"
+ quibble_longterm.6013.desc:0 "Третья ячейка вернулась и была тщательно допрошена.Теперь мы можем начать новую операцию. "
+ 
+ quibble_longterm.6014.name:0 "Четвертая ячейка готова"
+ quibble_longterm.6014.desc:0 "Четвертая ячейка вернулась и была тщательно допрошена. Теперь мы можем начать новую операцию. "
+
+ ############################################################
+ 
+ quibble_longterm.7001.name:0 "Частичный успех"
+ quibble_longterm.7001.desc:0 "В то время как нашей промышленной шпионской операции на территории §Y[tech_firstsabotagetarget.GetName]§! удалось получить тайник с данными исследований, наша разведывательная ячейка не смогла получить ничего действительно существенного.\n\nВсе наши активы были аккуратно извлечены, не оставляя никаких доказательств нашей причастности."
+ 
+ quibble_spy_menu.5.q:0 "Выход"
+ quibble_neighbors.4.o:0 "Выход"
+ 
+ 
+ tech_quibble_cell_2:0 "Улучшенный сбор информации"
+ tech_quibble_cell_3:0 "Расширенный сбор информации"
+ tech_quibble_cell_4:0 "Максимальный сбор информации"
+ 
+ ################################################################
+ ##
+ # CONSOLIDATED NEIGHBORS - VARIABLE TARGET DESC
+ ##
+ ################################################################
+ 
+ #SABOTAGE
+ quibble_neighbors.2:0 "Первая цель"
+ quibble_neighbors.2.desc.a:0 "Наше §Yфинансирование разведки§! уже было использовано в создании скрытых установок и внедрении агентов в любые потенциальные цели.\n\nТеперь эти активы готовы начать серию широкомасштабных пиар-кампаний и пропагандистских кампаний, чтобы значительно ухудшить дипломатические отношения между двумя империями.\n\nВ случае обнаружения мы попытаемся закрыть все задействованные активы, но нет никакой гарантии, что наша деятельность останется нераскрытой.\n\nНаша первая цель может быть выбрана из любой соседней с нами империи, нашей второй целью может быть любая соседняя с первой империей. (режим карты - соседи)"
+  #BOOST
+ quibble_neighbors.2.desc.b:0 "Наше §Yфинансирование шпионажа§! уже было использовано в создании скрытых установок и внедрении агентов в любые потенциальные цели.\n\nТеперь наши активы готовы начать серию масштабных пиар-кампаний и кампаний белой пропаганды. Если повезет, мы успешно §Yулучшим§! дипломатическое сотрудничество между двумя империями.\n\nНаша первая цель может быть выбрана из любой соседней с нами империи, нашей второй целью может быть любая соседняя с первой империей. (режим карты - соседи)"
+  #STATION
+ quibble_neighbors.2.desc.c:0 "Наши оперативники попытаются проникнуть на иностранную станцию, контрабандой ввозя как можно больше оружия и припасов, вербуя отчаявшихся и бесправных жителей и местные группировки.\n\nВ случае успеха они резко ослабят целевую станцию на несколько месяцев. (уменьшает урон от оружия на станции примерно на 4 месяца)\n\nЭто сложная и длительная операция. На чью звёздную Базу мы нацелимся? Цель должна граничить с нами (режим карты - соседи)."
+ 
+ ##############################################################################
+ # LEADER TRAITS
+ ##############################################################################
+ 
+ leader_trait_paranoid:0 "Параноик"
+ leader_trait_paranoid_desc:1 "Этот лидер не желает сотрудничать с другими, но усиливает защиту от иностранной разведки."
+ 
+ quibble.4.name:0 "Вторая цель"
+ quibble.4.desc:0 "Кто будет нашей второй целью?"
+ 
+ 
+ anti_propaganda_funding_pc_ai:0 "Финансирование контрразведки."
+ anti_propaganda_funding_pc_ai_desc:0 "Отображает уровень финансирования контрразведки для каждой империи."
+ 
+ quibble_longterm.6011.a:0 "Отозвать ячейку"
+ quibble_longterm.6011.b:0 "Повторить операцию"
+ quibble_longterm.6011.c:0 "Переназначить ячейку"

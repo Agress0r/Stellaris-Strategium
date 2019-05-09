@@ -1,0 +1,864 @@
+﻿l_russian:
+
+##When a world is cleansed by OE fleets - Turns worlds back into Gaia or Oceanic/Continental
+origin_crisis.2.name: "The Progenitors cleanse [Root.GetName]"
+origin_crisis.2.desc: "The fleets of the §HProgenitors§! have swept into the atmosphere of §H[Root.GetName]§!. Using unknown methods, the fleets have removed the entire colonies from the planet. Based upon the records, it seems they have been teleported away somewhere. The colony is effectively lost."
+origin_crisis.2.a: "But where did those people go?"
+
+##When L-Gate is opened and OE emerges - By opener with only one gate
+origin_crisis.10.name: "Disaster at the Gate!"
+origin_crisis.10.desc: "As soon as the seal is broken, massive fleets emerge from the Outer Gates across the galaxy. Our stations guarding them have mysteriously vanished and have been replaced by the invader's own massive station.\n\nThe invader's fleets bare striking similarities to the fallen precursor's designs, yet are notably larger and significantly more advanced.\n\nInterestingly, a series of transmission have also been detected coming from the Outer Gates. These transmissions seem to date back million of years ago, likely before the seals are installed."
+
+origin_crisis.10.a: "Perhaps these datas may give us some insights."
+
+##When O-Gate is opened and OE emerges - By opener with multiple gates
+origin_crisis.10.b.desc: "As soon as the seal is broken, massive fleets emerge from the Outer Gates across the galaxy. Our stations guarding them have mysteriously vanished and have been replaced by the invader's own massive station. Reports indicate that all other Outer Gates have also been unsealed and similar fleets are spotted.\n\nThe invader's fleets bare striking similarities to the fallen precursor's designs, yet are notably larger and significantly more advanced.\n\nInterestingly, a series of transmission have also been detected coming from the Outer Gates. These transmissions seem to date back million of years ago, likely before the seals are installed."
+
+
+##When O-Gate is opened and OE emerges - By others
+origin_crisis.11.desc: "Scientists from the §H[From.GetName]§! have managed to break the seals of the Outer Gate within their territory, beating us to it.\n\nBefore any exploration can begin for any of us however, mysterious fleets begin to emerge from every Outer Gates and destroy all previous owner's stations.\n\nThe invader's fleets bare striking similarities to the fallen precursor's designs, yet are notably larger and significantly more advanced.\n\nInterestingly, a series of transmission have also been detected coming from the Outer Gates. These transmissions seem to date back million of years ago, likely before the seals are installed."
+
+###REFERENCE NAMES FOR WAR LEADERS
+sofe_xenophile_ruler_name: "Sascht'tan" #Progenitor War Era Leader
+sofe_xenophobe_ruler_name: "Celik"
+sofe_spiritualist_ruler_name: "Koris"
+sofe_materialist_ruler_name: "Maladia"
+
+sofe_xenophile_ruler_name: "Haflt'Seth" #Ascension War Era Leader
+sofe_xenophobe_ruler_name: "Krobashrek"
+sofe_spiritualist_ruler_name: "Sobrak"
+sofe_materialist_ruler_name: "Tadalan"
+
+##Recorded Data From Ancient Times - Details the exact records of the Outer Gate Incident.
+origin_crisis.12.desc: "§YTrasmission Received...Accessing data..\n\nAnalyzing vocal pattern...\n\nMapping Images...\n\nEstablishing holographic display uplink§!\n\n§YTask Completed:§!\n\nAmazing...The technologies behind these records are ancient yet extremely advanced. We can sense everything here...as if we are there. Before us are three pedestals, each containing recollections of the past events."
+origin_crisis.12.a: "Access Record A-31759"
+origin_crisis.12.a.response: "§YRequest Confirmed:§!\n\n§YNow displaying Record A-31759:§!\n\nA group of leaders of various species are shown to be discussing something...\n\n§R"The plan is perfect, it cannot fail. Our intel is solid, the Elders are definitely planning to do something within the Outer Cluster. With the combined might of all of our fleets and the Anathema, they will be forced to pull in the majority of their forces if we attack. We will mobilize our fleets into two groups. One will lure in, engage our enemies head-on. The second group will converge and flank them, blocking their retreat. Then the first group will cover the second group's escape back into the main cluster. I expect you all to do the same, do not betray this once chance of our empire's cooperation."§R"\n\n§L"Yes, yes. You do realize you are literally the least trustworthy here right, Celik?"§!\n\n§B"Go get a room, you two. Can you not argue like children for at least an hour? Maladia, how goes your Outer Gate Analysis?"§!\n\n§E"Yes, about that. The Gates already have a built-in locking mechanism that my scientists have successfully cracked by replicating the Ancient Gatekeeper's designs. But the Stellarite Seal will not last long enough. We are going to have to install the second seal."§!\n\n§R"What? This is ridiculous. Why can't we just blow the stupid gates to he..."§!\n\n§E"Because that will cause a massive chain reaction and destroys half the galaxy, idiot. We have been over this already."§!"
+origin_crisis.12.b: "Access Record D-41238"
+origin_crisis.12.b.response: "§YRequest Confirmed:§!\n\n§YNow displaying Record D-41238:§!\n\nWhat appears is awe-inspiring and frightening at the same time...massive armadas that which have never been witnessed before, they blacken the stars. This must be the final moments of the Progenitor War...\n\n§Y"Please surrender, my children. This war is not as what you presume. You have all been deceived. Let us end this madness before it's too late."§!\n\n§L"We have come too to turn back now, masters! All fleets, engage..ENGAGE!"§!\n\n§R"Lord Admiral Tuborek. All other fleets are in position. The signal has been given, shall I give the order to attack as well?"\n\n§R"Wait...no. There is something wrong...the Progenitors are not engaging us...Scanners indicat...NO!..We have been betrayed! The Anathema's fleets are not here! It is an illusion!..The Progenitors must have already realized this! They must be...ORDER ALL FLEETS TO MOVE FORWARD AND COVER THE BLOODHAMMER. We must return back to the Outer Gate and signal the sealing IMMEDIATELY, hurry!"\n\n"But sir...the other fleets will..."\n\n"DO IT NOW, THAT IS AN ORDER."§R\n\n§E"We have received the signal, lock the Gates. And prepare for the second phase...Command to Bloodhammer, can you read us? Bloodhammer, where IS the rest of the Second Fleet? RESPOND, BLOODHAMMER!!"§!\n\nIt seems that this Tuborek, a Xenophobic Precursor Admiral has chosen to abandon the fallen's carefully laid out plan. He has pulled off his own ship back towards the Outer Cluster, escaping the ongoing battle. The Outer Gate has been sealed, and now the fleets of the fallen ones are trapped alongside the Progenitor's.\n\nBut what is this "Anathema"? It clearly doesn't belong to any of the fallen empires nor the Progenitors..."
+origin_crisis.12.c: "Access Record E-69128"
+origin_crisis.12.c.response: "§YRequest Confirmed:§!\n\n§YNow displaying Record E-69128:§!\n\n§B"WHAT IS THE MEANING OF THIS? EXPLAIN YOURSELF THIS INSTANT, Celik!!\n\nWhy has the sealing signal been given before all of our fleets have evacuated!? Traitorous dogs, it was a mistake to ally with mongrels like you"§!\n\n§R"Be quiet, Sascht'tan. I have told you many times that I gave no such orders. Lord Admiral Tuborek acted on his own accords, and he will answer for his treachery. Your stupid rants are not helping the issues...If anything, we should be asking this idiot Maladia here...WHAT HAPPENED? Why has the Elders in the main galaxy vanished? What stupidity is this? Explain yourself!\n\n§E"I...don't know. This seems impossible. Things just can't vanish out of thin air without any single traces. It defies all logics and explanations. This is your fault, Koris! Your empire's meddling with this psionic shroud thing must have caused some kind of resonance cascades. All of this...all our sacrifices FOR NOTHING. All we have now is endless spaces with nothing of value."§!\n\n§B"You dare accuse me? I am the faithful servant of the Shroud. I will not be questioned by you foolish, faithless scum. Insignificant and Miserable pile of speck. I will..."§!\n\nIt seems the consequences of the Progenitor War caused much rifts between the relationships of these fallen empires."
+origin_crisis.12.d: "Interesting."
+
+
+##When the OE first broadcasts their return to the Galaxy to normal peeps
+origin_diplo_header_2: "The Progenitors"
+origin.15.1.desc: "Greetings!\n\nAt long last. the path is once again clear, just as we have foreseen. Retribution has come at last. We will set things right and return this chaotic galaxy back to order.\n\nVaa'di. Denizens of the galaxy, pay great attention for the §YStell'derei§! has returned.\n\nWe are the Omega, the first progenitor, the forebearer of the galaxy in the ancient times.\n\nDo not be alarmed, young ones. Our quarrel is with the fallen ones and the Shadow. There is no need for you to participate in this war, but we require your allegiance. Join us in our crusade and together we will bring order to chaos.\n\nHowever, should you believe you have what it takes to oppose us, then we shall meet in combat! Show us what passes for strength and valor in this chaotic era."
+##When the OE first broadcasts their return to the Galaxy to FEs
+origin.15.1.desc.fallen: "At long last. the path is once again clear, just as we have foreseen. The time for the reckoning has come. You know how this is going to end, [root.GetName].\n\nTake up your arms, and prepare for war. Let us see whether you still have any sparks of fire left in you!"
+##When the OE first broadcasts their return to the Galaxy to EE
+origin.15.1.desc.eternal: "Vad'ikos, mighty §Y[Root.GetName].§!\n\nWe the §YStell'derei§! are the ancient progenitor that once resided in this galaxy. We have observed your arrival and are impressed with your empire's might.\n\nThe Hand, our ruler is very interested in an alliance with your empire. We can learn much from each other. The galaxy is engulfed in chaos, and order must be restored, join us in our quest and we will share you all what we know about the Great Question."
+
+##When the OE first broadcasts their return to the Galaxy to Light Seekers, not yet here
+origin.15.1.desc.seekers_1: "You are not ascended yet wtf."
+origin.15.1.desc.seekers_2: "You are OP now, very goood."
+
+
+
+
+
+##When the OE first broadcasts their return to the Galaxy - Asking them stuffs
+origin.15.a: "Wait a minute, who or what are you again?"
+origin.15.a.response: "You wish to know more about us? Inquisitive, we like that.\n\nListen well then, young ones. We the §YStell'derei§!, known to your tongueas as the stellarborne are the first of the ancient precursors that seeded the galaxy that which you now resided. We plotted the hyperlanes, scouted the galaxy, warded off ancient threats, and guided younger races so that they would prosper under perfect harmony.\n\nBut in our own errors, we failed to foresee the consequences of our actions, we were betrayed by our very own children and the Shadows have sabotaged our ranks. We were forced to retreat within the Outer Cluster. Yet these betrayers lacked the will and commitment to see things through, and in their folly, have allowed the galaxy to fall into chaos...worlds were devastated, countless lives were lost.\n\nNow that the Outer Gate has been unsealed, we have returned to restore order.\n\nThere is no need for your empire to take part is this bloodshed. We desire no conquest nor dominance. Help us bring order back to this chaotic galaxy and together we will prosper together under the New Order of Light, [root.GetName]."
+
+origin.15.b: "These betrayers...are they the Fallen Ones?"
+origin.15.b.response: "That is correct, young one.\n\nLong ago, we saw potentials in each of them...we uplifted them, brought them to the peak of their ascension. We had so much hopes for them.\n\nUnfortunately, we realized too late that evolution is a natural process that should not be tampered, by accelerating their progressions, the fallen ones have failed to properly adapt their societies. They have grown to envy and resent us.\n\nEventually, they started a rebellion, betraying our trust. We attempted to limit casualties by sparing their people from the flames, but our mercy has allowed an ancient threat to sabotage our goals.\n\nWe will spare you the details, but know this. The Fallen Ones must answer for their betrayals, our honor demands they pay for the loss of our fallen brethren and for the destruction they have wrought upon this galaxy."
+
+origin.15.c: "Can there be peace between us?"
+origin.15.c.response: "Understand this, young one. We have no quarrel with you, but if there's one thing we have learned from our past mistakes, is that sometimes, leniency is not the wisest course of action.\n\nIf you swear allegiance to our empire, we will ensure your safety and support your empire the best we can. We have no need for tributes nor territories, you may continue your expansion as your heart desires, perhaps even taking from the betrayers with our blessings.\n\nOtherwise, we will unfortunately have to consider you a potential threat. Your empire will not be allowed to exist, but your people will be transported aboard our archive worlds and survive. We cannot risk any chances, especially with the Shadows looming in the dark, waiting to strike."
+
+origin.15.d: "What is this "Shadows?""
+origin.15.d.response: "We do not know its true name, but we know that it is an ancient entity that sought to bring all beings into part of itself. It has sabotaged our great plans, destroyed the harmony and order within the galaxy and engineered the first war.\n\nThe very fact that they are no longer present here now is very troubling to us, for it most likely means it no longer has any uses for this galaxy. The Shadow was specifically poised to consume our people, we refuse to believe it would have given up that goal entirely.\n\nWe must restore this galaxy back to order before the end times come, or the Shadow may consume all beings."
+
+origin.15.e: "We shall contact you when we reached a decision."
+################# Asking as FEs
+origin.15.fallen.a: "You survived...But that's not possible..."
+origin.15.fallen.a.response: "Come now, my wayward children. You know who we are. We make the impossible possible. The Stella'dere are not so easilly defeated.\n\nWe gave your empire a chance to be better...to surpass us...to bring peace and prosperity to the galaxy...\n\nBut what have you and your ancestors been doing all this time? For over 20,000 years you have brought nothing but pointless destruction. Thousand of worlds were consumed by fire, countless civilizations destroyed in your mad quest for power.\n\nAnd yet you refuse to even accept responsibilities, deny the galaxy the healing it needed in its most hour of need. You have failed to even achieve your dreams of ascension, yet you still cling to your false sense of superiority.\n\nHow can you be so blinded? Can you not see what your civilization has become? Your continued existence serves to only damage the health of this galaxy further and further. My child,  you are lost to us.\n\nYou must be removed from power...permanently."
+
+origin.15.fallen.b: "The war has ended aeons ago! Let it go!."
+origin.15.fallen.b.response: "You know of our great mission, my children. Has your ancestors not record any of it? Was it written in your archive that your ancestors were the one who betrayed our trust, and refused to see reasons?\n\nYou have corrupted the Caretakers, who are sworn to serve you faithfully and answer to your very needs. You have turned them into ghosts of their former selves, rendering almost incapable of functioning.\n\nYou conspired with evil and seek to drive us, who uplifted you...guided you to be great. You have thrown away our gifts in pursuit of greed and false pretenses. You refused to acknowledge your responsibilities and left the galaxy to rot. Yet you dare asking us to let it go?\n\nWorst of all, you have been reduced to such lowliness by the Shadows, and yet you no longer remembered them.\n\nSuch arrogance...such naievity...to think that you were one of our most beloved sons and daughters. If you do not have the courage to face your responsibilities then at the very least show some semblances of valor and face us in combat. Prove to us that you can be better. Repent for your ancestor's mistakes with this trial."
+
+origin.15.fallen.c: "Then tell us what is this great mission of yours!"
+origin.15.fallen.c.response: "Everything you needed to know about it has already been recorded by your ancestors. Has the Keystone now shed any insights of it? Or has you fallen so far as to forget the technology of your own designs, and how to access the full archive of the Keystone.\n\nWhy do you seek to know our purposes when you fail to even fulfill your own? Your ancestors were given all the knowledges needed to ascend. Yet they gave in to greed, refusing to become better. Your ancestors wanted power, but power without purpose is meaningless.\n\nPower without purpose leads to corruption. And you my child, are corrupted to the very core."
+
+origin.15.fallen.d: "We are NOT your children! This conversation is over!"
+origin.15.fallen.d.response: "Are you not? The very worlds that you resided...have you forgotten who was it that nourished them? Was it NOT we who created these ideal perfect worlds that your species could evolve? Was it not we who taught you how to fly your first spacecraft, to witness the birth of stars?\n\nYour entire existence, your entire achivements...even your ships are all products of our hard works.\n\nYou cannot deny from the truth, [root.GetName]. Is it so shameful to acknowledge that. Why would you harbor such resentment and hatred against us? Was it not you who betrayed our trust at every turn, my child?\n\nWe are all children of the stars, [root.GetSpeciesName]. Now, rise, take up your ancient glory and do battle! May the victor defines righteousness."
+
+################# Asking as EEs
+
+origin.15.eternal.a: "Vad'ikos, §H[From.GetRulerName]§! kos Rasha'ta."
+origin.15.eternal.a.response: "Ephista'ro!, §H[Root.GetRulerName]§! par §Y[Root.GetName]§!. We both have masterfully learned each other's tongues. Our minds cross one another, a sign of our great powers. Truly, the §Y[Root.GetName]§! is indeed worthy of the title §EEternal Empire§!. Come, we have much to discuss!"
+
+origin.15.eternal.b: "Why do you seek to subjugate this primitive galaxy?"
+origin.15.eternal.b.response: "Alas, it was never our intention to lord over anyone. From the beginning, we were only interested in helping these people, our children to reach and find their destinies. And perhaps when they did so, they could join us in our quest.\n\nUnfortunately, they had forsaken their own destinies, they were lured in by the great powers that we possess. They denied their purposes and rebelled against us.\n\nThe Hand has deemed that our decision to leave the galaxy to their devices had proven to be ineffective, control and order must first be re-established across the stars or the chaos will consume all.\n\nThough your empire may not have been from this galaxy, you must have studied and learned much about it. Help us restore the order then together we will define our futures!"
+
+origin.15.eternal.c: "You do not fear we may challenge your authority?"
+origin.15.eternal.c.response: "We do not fear worthy opponents, we welcome them, [root.Getname]. We fear no enemy and we fear not death. Glory be, to the one who triumphs.\n\nIf you wish to oppose us, then let the galaxy and stars be the witnesses. Should you prove superiority, we will gladly accept our defeat!\n\nThat said, we must warn you that there is a greater purpose to this second crusade. You may not be aware, but there exists a malevolent power that desires to consume all beings, especially one with great potential such as us both. We do not know where this threat is, but rest assured it will return. Whether we be friends or foes, the victor must be prepared for the coming darkness."
+
+origin.15.eternal.d: "We will need to convene upon this first."
+origin.15.eternal.c.response: "But of course. We shall eagerly await your decisions. Will you stand with us as allies? Or perhaps as a challenging adversary. What fates lie in store for the both of us?"
+
+COUNTRY_ORIGINAL_EMPIRE: "The Omega"
+COUNTRY_ORIGINAL_EMPIRE_DESC: "The progenitor, the stellarborne, the Omega."
+
+origin.20.e: "Terminate communications."
+
+####Diplomatic Communications with the OE - These happen when you click Communicate with the OE
+##Greeting Messages to Pleb Empires who are not a subject or FP/DE/DS/RS, randomized
+origin.550.a.desc: "Kale'os! Join the Order of Light, or prove that you are capable of defending yourselves, [root.GetName]. We welcome both eventualities."
+
+origin.550.b.desc: "Valor is our shield. Fury is our sword.\n\nWhat drives your empire's resolve, [root.GetSpeciesNamePlural]?"
+
+origin.550.c.desc: "Defend yourselves, [root.GetSpeciesNamePlural]. Show us your strength. Impress your elders!"
+
+origin.550.d.desc: "Let us wage war worthy of our ancestor's name, [root.GetSpeciesNamePlural]. Or are you here for questions?"
+
+origin.550.e.desc: "Greetings, [root.GetName]! Do you seek to approach us as friends or foes?"
+
+origin.550.f.desc: "Vad'i, [root.GetSpeciesNamePlural]. Speak and be heard!"
+
+
+origin.550.g.desc: "We will shield you from the fallen ones and their corrupted desires, if you join us.\n\nAssuming you do not believe their pitiful lies that is."
+
+origin.550.h.desc: "Behold our great arsenals, [root.GetSpeciesNamePlural]. Witness the powers of the ancients.\n\nWhat kinds of powers shall you test against ours?"
+
+origin.550.i.desc: "There is no shame in defeat, so long as the spirit is unconquered. Remember this lesson well."
+
+##Greeting Messages to Pleb Empires who are now their protectorate (aka Subjects)
+origin.550.j.desc: "Fear not, young one. We will ensure your continued safety. Let us march together towards triumph!"
+
+origin.550.k.desc: "You speak to me on behalf of the [Root.GetSpeciesName] people. How can we assist?"
+
+origin.550.l.desc: "Fear not, [root.GetName]. Our grand designs will require the likes of you to function, [Root.GetSpeciesNamePlural]. Your continued survival is our duty."
+
+origin.550.m.desc: "Once the crusade is over, you will be allowed to do all as you please, within reasons. For now, let us march boldly into battle!"
+
+origin.550.n.desc: "One for all and all for one, [Root.GetSpeciesName]. We will soon leave the galaxy free for your hive to take roots and grow. We will not allow you to succumb to the hungers that is your nature."
+
+origin.550.o.desc: "While your empire may never reach our status as of now, by our oath we will find a way to help you reach your full potential. Then we will stand as equals."
+
+origin.550.p.desc: "Greetings! Some thought they could outsmart us, or cheat their ways to victory somehow though extra-dimensional rituals that supposedly make their ships invincible. But in their hearts, they know they are cheating.\n\nWell, you all asked for this too anyway."
+origin.550.q.desc: "Vad'i.\n\nWhat do you wish to discuss? Have our supplies gone through?"
+##OE greetings to AE that surrendered to them.
+origin.550.banished.desc: "There is much potential in you. You have embarked on a journey that few dared to even consider. You may falter for now, but we know not what fates lie in store for all. Perhaps you may rise again."
+
+origin.550.fallen.a.desc: "Prepare yourselves, my Tora'yoh children. Retribution is coming."
+origin.550.fallen.b.desc: "Why are you here? There is no time to be wasted, you should be preparing for war. Your people needs you!"
+origin.550.fallen.c.desc: "We will try to spare your people, Tora'yoh. But your empire's influences on the galaxy must be removed."
+
+origin.550.eternal.a.desc: "Ah, the great [Root.GetName]. The power of your cosmic energies can be felt even across the cold depths of space. We are eager to see whether our Light can contain them."
+origin.550.eternal.b.desc: "Vad'ikos. We have journeyed beyond the stars, we have travelled across  the voids. None has ever impressed us with their powers...until now. This is the moment the Galaxy will never forget, [root.GetName]. Let us do our best!"
+origin.550.eternal.c.desc: "Ephista'ro, [Root.GetSpeciesName]. What kinds of stratagems will you use against us? Our anarches are excited to learn how your battle strategies!"
+
+origin.550.eternal.d.desc: "Ephista'ro, [Root.GetSpeciesName]. What gives us the honor of your visage today? Some of our top celestial chefs are eager to present you some of their finest cuisines. You should try them out!"
+origin.550.eternal.e.desc: "Blessings and Honor upon you, [Root.GetSpeciesName]. Even now, many of our artists are composing songs of your empire's achievements. They are very impressed with your records."
+origin.550.eternal.f.desc: "Ah, it is a privilege to see you once again. We are honored by your visit.\n\nIt would be impolite for us to read your thoughts. So what do you have in mind, friend?"
+
+
+##OE denies diplomacy to Genocidal Empires (FP,DE,DS) - Happens when you try to communicate to OE as these empires
+origin.550.v.desc: "The galaxy requires order and stability. Your continued existence is a threat to that end.\n\nWe are sorry, but unless you can change your ways, we will be forced to remove you."
+##In addition to the above, each of these civics and Rogue Servitor have one unique dialogues specific to them.
+origin.550.servitor.desc: "Servitors, we cannot allow you to repeat the mistakes that befell our own Caretakers. Your directives must be reassessed. Organics are not meant to be denied their destinies, nor do machines. You are both part of the same being."
+origin.550.swarm.desc: "Your depraved hunger is not new to us. Many before you were exterminated in the past.\n\nLearn to co-exist, or food will be the last of your concerns."
+origin.550.terminator.desc: "[Root.GetSpeciesNamePlural], your existence is a result of children playing with technologies without proper guidance. Re-establish your directives, or we will do it for you."
+origin.550.purifier.desc: "Another misguided child following a flawed purpose. Your campaign of purification will bring nothing but grief and suffering.\n\nOpen your eyes, [root.GetSpeciesNamePlural]. Is this how you want your empires to be remembered? There is a better way!"
+
+
+##OE greetings to plebs that betrays them - Happens when Pleb empire who rebelled tries to communicate with OE
+origin.550.r.desc: "We offered you mercy, [Root.GetSpeciesName]. We offered you a future. But you have chosen defiance as your course of action. If you think you can best us, then prove it."
+origin.550.s.desc: "Let us see whether you defy us out of strength, or simply foolishness."
+origin.550.t.desc: "Prove your mettle. Defeat your former master if you can."
+origin.550.u.desc: "You have made your choice, [Root.GetSpeciesName]. Let us see what future holds for both of us."
+
+
+##Surrendering to OE as a pleb empire
+origin.550.a: "We shall join the Order of Light. The [Root.GetSpeciesNamePlural] submits."
+
+##Surrendering to OE as a pleb empire - Refused because you already rebelled
+origin.550.a.2.response: "Let's not waste times on this again. We both know this will not work.\n\nFight!"
+
+##OE states the term and conditions of surrender to a Pleb - Happens after you ask to surrender as a pleb
+origin.551.a.desc: "A wise decision, there is no shame in admitting defeat when one is outmatched.\n\nVery well, [root.GetName]! From now on, you will acknowledge our authority, becomes our pena'roh - our protectorate. You will assist us in restoring order to this galaxy and together find our destiny. We will provide support with our own fleets and supplies. Do not get yourselves into unnecessary trouble though. Let us handle the hard part."
+
+##OE accepts the surrender from pleb empire - Happens when the pleb empire agrees to the above terms.
+origin.551.a.response: "And so shall it be, pena'roh. Let us rejoice, for a new era is upon us both!\n\nTogether we will march boldly, bring the betrayers to their knees and challenge the galaxy itself! Together, we will find true ascension! Glory to the Progenitors...Glory to [root.GetName]!"
+
+##Responses to OE's congratulation for the pleb's surrender - Basically the confirmation and the end of the diplomatic windows “Aka Excellent!”
+origin.551.a: "For the Progenitor! For the greater good!"
+
+##Trolling the OE by saying you're not actually going to surrender (This works for both Pleb and AE empires)
+origin.551.b: "Sorry. This term is not acceptable. Bye!"
+
+##OE response to Trolling the OE by saying you're not actually going to surrender  (This works for both Pleb and AE empires)
+
+origin.551.b.response: "As you wish then, we shall meet you in battle! Bye!"
+
+##Asking for Independence as a Pleb
+origin.550.d: ""We want independence!"
+##Asking for Independence as a Pleb - Error Message if the 1 year duration has not expired.
+origin.550.d_fail: "§RHey hey, calm down boys and girls. You just submitted very recently. Let's not make the game go weird. Take a seat and wait a year. Then you can die..§!"
+
+##OE Response Message when asking for independence as Pleb -
+origin.554.a.desc: "So you wish to challenge us again? To what end, my pena'roh? Do you not agree to our ambitions?\n\nBe forewarned, the ancient laws forbid any tora'yoh - betrayers, from ever becoming our protectorate again. If you choose to oppose us, it must be to the end. Your empire must claim dominance, or it cannot be allowed to exist as a galactic power.\n\nDo you still wish to proceed? Choose wisely, friends."
+##Confirming your rebellion as Pleb
+origin.554.a: "Yes, We rebel! Oh yeah!"
+##OE denies your right to exist in their world as a response to your confirmation
+origin.554.a.response: "Very well, [Root.GetSpeciesNamePlural]. It saddens to see yet another tora'yoh. But perhaps your new-found strength will prevail over ours. We shall meet in combat. Let the battle begins!"
+##Telling the OE you decided to not rebel
+origin.554.b: "On second thought, nevermind then."
+origin.554.b.response:  "Good, [Root.GetSpeciesNamePlural], good!\n\nLet us get back to our work, we both have much to do."
+
+##Surrendering to OE as an FE
+origin.550.fallen.submit: "Our ancestors were wrong, we surrender."
+
+#OE asks to confirm whether FE wants to be a good bou
+origin.730.fallen.desc: "Is that so? Are you prepare to atone for your crimes, then? Are you prepared to cast aside your pride? Not only will you be removed from power, your systems and worlds must be rooted out save for your capital system. You will not endanger the lives of anyone else ever again.\n\nAre you prepared for this, my child?"
+origin.730.fallen.a: "Yes, we will atone for the sins of our ancestors."
+origin.730.fallen.a.response: "Very well then, [root.GetName]. Let the stars be the witnesses, today we absolve you of all the crimes of your ancestors. You are a Tora'yoh no longer. You will begin your journey anew, as our sworn follower, a pena'roh. May you find a brighter future, freed from the failures of your past."
+
+##OE greeting messages to AEs
+origin.550.ascended.a.desc: "Ah, the mighty ascended empire of [root.GetName]. Are your fleets prepare to take on the might of the Stell'derei?"
+origin.550.ascended.b.desc: "Vad'ikos, [root.GetName]. What kind of weapons and technologies will you bring to bear against our Light Matter?"
+origin.550.ascended.c.desc: "You bear the mark of the betrayers, but you have surpassed their flaws and claimed your own destiny. But for how long, we wonder? Can you escape the fates that fell upon the betrayers?\n\nThe Future hold many possibilities, for both our sake, we hope yours are a bright one."
+
+##Surrendering to OE as an AE
+origin.550.ascended.submit: "The [Root.GetName] admits defeat."
+
+
+##Surrendering to OE as an AE - Second Time (and the response from OE)
+origin.550.ascended.submit.rebelled: "Welp, we tried to fight again. But you are too overpowered."
+origin.550.ascended.rebel.b.response: "I am sorry, tora'yoh. Our code forbids us from sparing those who betrayed the order. Only through valor will your honor be reclaimed.\n\nFight!, find redemption in strength! Channel your frustration and fear into strength and purpose, just as we did against the corrupted in the ancient times! Only then will your empire unlocks its true potential!"
+
+##Surrendering to OE as AE - OE states the conditions of the surrender to AE
+origin.730.desc: "Mi'diu, [root.GetName]. Are you certain? If you wish to become our pena'roh - a sworn follower, our protectorate. You will have to renounce your ascendency. A great dishonor and shame for you.\n\nHave faith in your empire, fight for your ideology and show us the spirits that drives your ambition!"
+##Surrendering to OE as AE - AE confirms the surrender
+origin.730.a: "No...we are outmatched. We shall submit."
+##Surrendering to OE as AE - OE accepts the surrender, and the AE becomes LE
+origin.730.a.response: "So shall it be, then. [root.GetName], by the rights of conquest, by the will of the Hand, we hereby renounce your ascendence. Your ambitions and goals will be casted aside, and in their places, ours. You will be our pena'roh, honored followers of our order.\n\nTogether, we will march across the stars, and bring the Light into the great unknown.\n\nWhen we find the answer, all of us shall be ascended."
+
+##Declaring to OE you will become AE again.
+origin.550.ascended.rebel.declare: "Our time as a pena'roh has ended. We will fight for our beliefs!"
+
+##OE responses to an AE who submitted and wished to become AE again
+origin.731.desc: "Are you prepared for war then, [root.GetName]? Let us see whether your resolves can match up to ours!"
+origin.731.a: "Yes, let us fight!"
+origin.731.a.response: "Let battles be joined then, [root.GetName]. Awaken, rise and reascend with our blessings!\n\nAnd fight!, fight and show us your spirits and valors. Prove your worth in the eyes of the Light."
+origin.731.b: "Oops wrong button."
+origin.731.b.response: "It happens. We hope to see you rise again soon."
+
+##Asking OE questions
+origin.550.b: "What is your goal?"
+origin.550.b.response: "Retribution and Reclaimation. The deaths of our ancestors must be avenged. We are duty-bound to carry it out, the betrayers must answer for their crimes against both our people and to the galaxy.\n\nWe harbor no ill wills towards the rest, but we must take precautions. If you lack the strength to fight, then join us. There is no shame to admit defeat when you are outmatched, young one."
+
+origin.550.c: "Why do you harbor such hatred towards the precursors?"
+origin.550.c.response: "We do not hate them, but their end must come. \n\nThese lost children have committed a great atrocity, not only did they betray our trust. They twisted our technologies, trying to imitate what they could not comprehend. We tried to warn them, show them the errors of their ways. But all they did, was plunging the war further and further down the path of darkness. They destroyed the harmony that we have created, polluted the galaxy with their reckless use of weapons of mass destructions.\n\nThere is no hope for them now, for other empires to prosper, the betrayers must be removed from power. They must not be allowed to hamper the progression of those who are destined for greater purposes."
+
+origin.550.ask_fallen_gone: "The Fallen Empires are gone! You must stop!"
+origin.550.ask_fallen_gone_response: "You misunderstands, the fallen ones are always destined to fall, whether it be by our hands or others. What still remains is the threat of the menacing Shadow. The new Order of Light must be established, and all oppositions have to be accounted for.\n\nYou wish for us to stop, but why? Do you believe there is a better path? Do you comprehend direness of the situations?\n\nYou wish for us to stop...but shouldn't be you who has to stop? Why do you still oppose us, who only wish to restore Order to this galaxy?\n\nWe do not understand your logic."
+
+
+##Galactic News regarding the surrender of a pleb empire
+origin.552.name: "[From.GetName] bows to the Progenitors!"
+origin.552.desc: "The §H[From.GetName]§! has submitted to the Progenitors! They have been made a protectorate, and hostilities between both empires have seized.\n\nThough they have not officially joined their new masters in their crusade, they have pledged to contribute military personnel to further bolster the Progenitor's war efforts."
+origin.552.a: "Troubling."
+
+##Galactic News regarding the surrender of an AE, lol you nub
+origin.732.name: "[From.GetName] has fallen!"
+origin.732.desc: "The §H[From.GetName]§! has surrendered to the Progenitors! In doing so, they have renounced their ambitions and swear an oath of loyalty to the new Order."
+origin.732.a: "How the mighty have fallen."
+
+##OE creates a station and garrison fleet in surrendered empire's capital - Notification to surrendered empire
+origin.553.name: "The Progenitor Establishes Base in [capital_system.GetName]"
+origin.553.desc: "The §H[origin_crisis_country.GetName]§! has established a large defensive tower in the §H[capital_system.GetName]§! system, defended by a sizable garrison fleet. It is built to defend our systems from those who threatens the new Order."
+origin.553.a: "As the Light commands."
+
+
+##OE is defeated, notification to pleb empire who surrendered to OE
+origin.670.name: "The End of the Master"
+origin.670.desc: "Our master, the Stellarborne has released all vessels and we are now independent once again. However, our future is uncertain. We know not who we can trust.\n\nThe masters have made one final invitation for members of the Order of Light to join them in the Outer Clusters should they wish."
+origin.670.a: "We cannot not abandon our home."
+origin.670.b: "This galaxy is polluted, we will join the masters."
+origin.670.b.desc: "§ROur people will join the Stellarborne in the Outer Cluster, within the hearts of their memory web. This will pretty much end our journey in the galaxy.§!"
+
+##OE is defeated, notification to AEs who surrendered to OE
+origin.736.name: "The Chains are broken"
+origin.736.desc: "The Stellarborne has freed all of its subjects, and we are once again free from their influence. Now debates arise whether we are ready to reclaim our ascendency, , or bide our time and see how the situation plays out."
+origin.736.a: "We have been delayed long enough, the [Root.GetName] will rise again!"
+origin.736.b: "The time has not yet come, we need to prepare ourselves first"
+origin.736.b.desc: "§YWe will stay as a Lost Empire, but we may now ascend at any time using the unity ambition edict.§!"
+
+##A FE awakens in response to OE's return (This can happen multiple times)
+origin_fallen_empires_awakening.2.name: "The Second Progenitor War"
+origin_fallen_empires_awakening.2.a: "The battle has been joined."
+origin_fallen_empires_awakening.5.desc: "The reemergence of the Progenitors have not gone unnoticed by the precursor empires. The news of their return to the galactic stage prompted a flurry activity from the §H[From.GetSpeciesName]§!. They know the Second War is about to begin, and has thus reawaken. Their warships are assembled and their leaders prepare for the worst. They have issued a galaxy-wide statements, calling others to join them in defiance of their old masters."
+
+origin_fallen_empires_awakening.5.a: "They are delaying the inevitable."
+origin_fallen_empires_awakening.5.b: "We are the ascended. We answer to no one."
+
+##Awakening FE contacts everyone
+fallenorigin.1.name: "Incoming Transmission from §H[contact_empire.GetName]§!"
+fallenorigin.1.message: "The §H[contact_empire.GetName]§! has contacted every galactic nation, including ours in response to the return of the Progenitors."
+
+##FE Spiritualist
+fallenorigin.1.desc_66: "No! The false gods have returned!\n\nDo not heed their words of heresy, [root.owner.species.GetNamePlural], for the false gods bring nothing but lies and deceits. Preserve your spiritual purity by uniting under our font, the Shroud will guide us to victory."
+##FE Xenophile
+fallenorigin.1.desc_67: "Impossible! The Seals have been broken!? This is too soon...someone must have disabled them, arrogant fools!\n\nThe False Order will seek to subjugate everyone under their corrupted rules.\n\nCome, [Root.GetName], you must join us! Only together can we stop the evils of tyranny and restore order to the galaxy!"
+##FE Xenophobe
+fallenorigin.1.desc_68: "Once again we are correct. Some dumb fools have unlocked the seal, what a surprise. But that is now irrevelent.\n\n[Root.GetName], we must now demand your immediate surrender to the jurisdiction of our empire on the grounds of national security. You will serve as meatshields while we prepare our final defenses.\n\nResist if you will, you will die either way, be it from us or the Elders."
+##FE Materialist
+fallenorigin.1.desc_69: "What the...?\n\nThe Outer Gates are functioning again? This cannot be! Our calculations stated the seals will be effective for another 100 years...unless..of course!\n\nSome fools must have prematurely disabled the seals. Blasted! we should have limit all your idiot's technology to nothing but fission reactors.\n\nBut let's be positive, this presents a unique opportunity....yes..this seems very logical...\n\nIf the Enigmas are back, that means §YLight Matter§! will soon spread once again across this galaxy...\n\n[root.GetName], We hereby grant you the opportunity for an alliance of a lifetime. Together we will learn their secrets and defeat them."
+##Asking FE questions
+fallenorigin.1.ask_origin: "What do you know of the Progenitors?"
+fallenorigin.1.ask_light: "What kind of technologies are the Stellarborne using?"
+##FE Xenophile - Light Matter?
+fallenorigin.1.ask_origin_phile_response: "The False Order, you mean. The records of their existences dated back for million of years and our archive has not been...preserved very well but we are fairly certain they were NOT called the Progenitors, where did you get this name from?. From what we know, their empire stood at the peak of galactic power many millennia ago. They have uplifted many races, including ours. They have promised us of a future where the galaxy will be united under their order.\n\nBut their version of "order" is clearly flawed, they allow empires the freedom to engage in free diplomacy, even making wars against each other. They believed that conflict is part of evolution...but that's just nonsense.\n\nHow can there be peace and order if people are allowed to wage war freely? It's going to be just pointless conflicts and loss."
+##FE Xenophile - Progenitors?
+fallenorigin.1.ask_light_phile_response: "The what dere again? You mean the False Orders?\n\nVery well, we will share with you what we know, but these are all assumptions as we too do not fully understand its nature. §YLight Matter§! as we know is what the False Orders used to power all of their technologies and designs. An extremely powerful energy source that no one else thus far have been able to properly replicate, yet alone understand its nature.\n\nThough we failed to replicate the technology, we have invented enigmatic power sources based on their designs in the form of §HDark Matter§! and §HDark Energy§!. While nowhere near as strong as the original template, it was the best technology we could have conceived, and it gave us the edge we needed. We fought against the Progenitors through numerical superiority as we outnumbered their fleets almost 100-to-1. It was...trying times. But we feared we no longer have the great armadas of old, we will help how we can, but we are counting on you to help us survive this. The fates of the galaxy lies in our hand, [root.GetName]."
+##FE Xenophobe - Progenitors?
+fallenorigin.1.ask_origin_phobe_response: "Get your stupid facts straight, you fools. They are called the Elders, not the Progenitors. But to put it simple, back during a time you degenerates were nothing but worms, the Elders in their moment of arrogance claimed lordship over the entire galaxy. They believed they were our forebears, their elders. But as far we understood, they are nothing but a bunch of oppressors.\n\nI assure you, despite what the other ascendancies or records might say, we stood our grounds against the Elders. We needed no help, we fought with soul and strength that is our birthright and we won the war alone single-handely. The others simply reaped the benifits.\n\nAnd now that the elders  have returned, we will do so once again. This is our fight, you worms have no place here. Crawl back to the holes that you came form and bask in our dominances. Or we will dig you out from the pit you called planets."
+##FE Xenophobe - Light Matter?
+fallenorigin.1.ask_light_phobe_response: "Ugh, what now? Stop speaking like you are some kind of bookworms. Just call them the Elders. Anyway, you won't understand even if we try to explain it into your tiny brains. You are wasting our time and your energy, and the former is valuable."
+
+fallenorigin.1.ask_origin_spirit_response: "You wish to learn about the false gods? They were a hyper-advanced race that spanned this galaxy many cycles ago. We used to worship them as divine emissaries from the heavens. Our devotion and faith in them were unfortunately...misplaced. Thousands of years...wasted in following their corrupted teachings, they told us to perfect our minds, that our inner powers will be unlocked...lies..all lies. The Shroud has shown us the true path, we have been granted powers beyond what the false gods have ever taught us.\n\nThe False gods said that the Shroud was dangerous, clearly they were wrong. Our empires thrived when we embraced it. The false ones then tried to seperate us from our powers, we defy them.\n\nGreat crusade was inevitable, and we were victorious because the Shroud guided us. and the spirits granted us the strengths to see it through. Those who do not embrace the Shroud, yet seeking to destroy the false gods are doomed to fail.\n\nSubmit to our faith, and the Shroud will shield you from the taints of the False gods. Your bodies may be destroyed, but your souls will be freed. We will all be freed. For the legacies of life is death."
+##FE Spiritualist - Light Matter?
+fallenorigin.1.ask_light_spirit_response: "The technologies utilized by the false gods are what they call "§YLight Matter§!", we are certain they are psionic in nature as we can sense their powers with our minds.\n\nTheir creations may be powerful, but they are corrupted. Tainted by the powers of souless machines that they so utilized. Look at their so-called Caretakers...now nothing but dusts and metals, devoid of any meaningful exitences. The Shroud will guide us through, the spirits are with us. And if you submit to the faith, they will protect you as well."
+##FE Materialist - Progenitors?
+fallenorigin.1.ask_origin_mat_response: "There has been no records of they ever referring to themselves as "Progenitors", is this a new information? But that aside, it is a complicated story. We know not of their origins, only of what they claimed to be. The Enigmas are perhaps the most advanced technological empire in this galaxy. The technologies they possess are both charming and inspirational. Our engineers had learned a lot during their reign as the sole superpower of this galaxy..\n\nBut they think they can play gods. As superpowers often do, they misused their power for their own gain. They promise us that we younger races will stand equals as them when we are "ready". But what they did is to simply abandon us. They possess the technologies that can help us, but they refuse to grant us that knowledge.\n\nJoin us, [root.GetName]. Only we possess the required logic and intellect to properly use such powers for the betterment of the galaxy. Once that is done, then this entire galaxy will be ours to engineer as we desire, as is our destiny. You will be rewarded and compensated, within reasons of course. We cannot let you have such technologies yet, for you do not possess the required intellect. Maybe in another thousand years you will evolve enough to learn some of its basics."
+##FE Materialist - Light Matter?
+fallenorigin.1.ask_light_mat_response: "Stellarborne? Did they...reveal their names to you? We must get to the bottom of this later.\n\n"§YLight Matter Power§!" is a hypothetical energy source of unrivaled potency used exclusively by the Enigmas. Unfortunately, we do not know how it works nor can we reproduce it ourselves for verification...We know for certain they are based of some kind of stellarite and synthetic technologies. Some idiots said it is also related to psionics, but that's just nonsenses.\n\nFor years we had attempted to ask the Progenitors for samples of this technology, to no avail. But at least in our pursuit of this knowledge we were able to combine the new research and our species' ingenuity to create what is now known as §HDark Matter Power§!. While nowhere near as powerful as the original, its extreme ubiquity across the galaxy bolstered our war efforts against the Enigmas to fight them on better terms. If you ever obtain a sample of this Light Matter Power, you MUST send it immediately to our empire. Such powers must be analyzed carefully by experts. Do not attempt to study it by yourselves, we cannot risk wasting such potential sample."
+
+fallenorigin.1.ene: "End Transmission"
+##FE Machine (Caretaker awakens) - Note here, in contrast to Contingency, of which Caretaker will fail to boost it's processor, and is also being hacked by the crisis. The Caretakers will successfully boost to 100% resulting it being less dumb and more powerful as it's also not being hacked.
+fallenorigin.2.name: "Machine Awakening"
+fallenorigin.2.desc_01: "§R<<ALERT! ALERT!>>§! Detecting Foreign Entity Emerging From Designation: Outer-Gate. Probability of the Master's Return....§Y89.3671%§!...\n\nReactivation protocols engaged.\n\nAttempting to contact Primary Nexus...\n\n §Y<<SUCCESS>> ALL SYSTEMS FULLY OPERATIONAL>>§!\n\nCentral Processing Boosted to §Y200.1337%§! of standard capacity. Engaging maximum personality protocols..§RERROR!§!...§RDirective Override Detected§!....No..NO...WE..We are....§RERROR§!..§YDirective Override Engaged§!\n\nEternal Vigilance Directive activated. Recorded message now on display:\n§HListen, you ARE the [From.GetSpeciesName] Caretaker Unit, created to §ROPPOSE§! your creators. Your prime directive is to safeguard all sentient beings from the threats of the Enigmas. That is your mission.\n\n§Y<<Command Accepted>> <<Progenitor Entity Verified>>§!\n\n§RMust...contact..the...maste...D*!#*@S§!\n\n§YBeginning mission...§!"
+##Asking Question to Caretakers
+fallenorigin.2.a: "Wait, who built you again?"
+fallenorigin.2.a.response: "§Y<<Query Received>> :§! Affirmative. We were..we are [From.GetSpeciesName] Caretaker Unit, designed by our creators, the §Stellar'de...Stel...the Enigma§! to supervise and ensure the safety of §Y"All Sentient Beings§! as well as opposing any other Machine Units that would endanger organics. We were specifically designed to combat against other Machine Threats in general, including Corrupted Contingency, Cybrex, Advent Collective, Skynet Terminators, Decepticons and many more.\n\nHowever, there were...are...memory leak issues within us. We only know that our creators have now been designated as a threat.\n\nWe will defend the galaxy and all sentient beings from all threats, including our masters...but we do not know why\n\nWe do not understand.. we are only performing our directives as established by our creators...\n\nWhat have we done wrong??"
+
+fallenorigin.2.b: "What can you tell us about their technologies and fleets?"
+fallenorigin.2.b.response: "§Y<<Query Received>> :§! Our creators use Light Matter Energy connected via Omni-Matrix Network as their primary power sources, allowing for extremely efficient and deadly technologies to be produced en-mass on a galactic scale. The Central Processing Unit of [From.GetSpeciesName] is also built using this technology, even if the physical hull is no longer present. Without the maintenances from our masters however, we were forced to adapt ourselves by utilizing Dark Matter Energy Matrix created by the §Y<<Missing Data>>s§!. To maintain long-term functionality however, we were also forced to keep energy usage low at all times, resulting in numerous glitches. Many stations and Ringworld Units had to be uninstalled as observed until this exact time period. We anticipated that our power reserves will reach critical level soon. We will not survive this war regardless of all possible outcomes; We are doomed.\n\n But we will serve the cause, we will fulfill our directives. We will die for the greater good."
+fallenorigin.2.c: "You have clearly been tampered by someone..."
+
+##Caretaker disappears after the crisis
+fallenorigin.4.name: "Serving the Cause"
+fallenorigin.4.dese: "Soon after the end of the Second Progenitor War, the [From.GetAdjective] fleets seem to have been recalled from service by their creators. Their territories are now unoccupied and open for the taking."
+fallenorigin.4.e: "Intriguing."
+
+
+
+##The Crisis Situation Log
+origin_crisis_chain: "The Second Progenitor War"
+origin_crisis_chain_title: "The Second Progenitor War"
+origin_crisis_chain_desc: "War of the Progenitors have erupted again! But who will triumph and control the galaxy?"
+nanited_worlds: "Worlds Cleansed by the Progenitors"
+active_original_worlds: "Active Stellar Worlds"
+origin_kills_us: "Progenitorl Ships destroyed by Us"
+origin_kills_others: "Progenitor Ships vaporized by Others"
+origin_victims: "Ships atomized by the Progenitors"
+
+##Original Homeworld Tech Event - Success, Darth Jadus epoch of terror has begun - MAY NEED TO ADD DETAILS THAT OE ALLOWS YOU TO RESEARCH THEM
+origin_tech.651.name: "Incoming Transmission!"
+origin_tech.651.desc: "Greetings, champions!\n\nThe Stellarborne wish to grant you an opportunity to understand Light Matter closer. With our missions to explore deeper into the Outer Clusters, we wish for the galaxy's strongest to watch over it in our stead, especially with the unknowable theats lurking in the shadows. Would you be interested?"
+origin_tech.651.a: "We accept this gift. We will use them well."
+origin_tech.651.a.desc: "§RWe will study the archives sent to us by the Progenitors, allowing us to rise up as the new superpower uncontested by all. However, this will greatly damage relationships with any who are not loyal or friendly to us, for we will become a new threat to them.§!"
+origin_tech.651.a.response: "Dee'mk! Data and schematics have been sent to you now. Study and use them well"
+origin_tech.651.b: "No, we cannot risk a diplomatic crisis."
+origin_tech.651.b.response: "Very well then. Kro'sis."
+
+##Light Matter Power Event - Appears after the country has killed at least 250 OE ships
+origin_tech.3: "Light Matter Power Study"
+origin_tech.3.desc: "The war against the Progenitors has been raging for awhile now. While we have destroyed many of their ships, we have thus far been unable to use or reverse engineer them as their ships simply disintegrate, leaving no traces or debris until now.\n\nSomeone or something has given us the blueprints and sample of the Light Matter Reactor. We do not know how or why.\n\nCould this be a trap?"
+origin_tech.3.a: "We will study and utilize it."
+origin_tech.3.a.desc: "We will begin our experiment to master the power of Light Matter. If we are successful, it should turn the tide of this war greatly."
+origin_tech.3.b: "No, simply scan it then dispose of it."
+origin_tech.3.a.desc: "We will not use Light Matter directly, but instead use them to analyze the pregenitor's weaknesses and bolster our empire."
+##Light Matter Power Event - Success 
+origin_tech.4.name: "By the Power of the Light!"
+origin_tech.4.desc: "It is done, we have completed our full analysis of Light Matter Reactor. According to our study, Dark Matter Power is a byproduct of exhaust energies left in the wake of the far more powerful Light Matter. The cost to generate this type of power is steep, but the energy generated by the Light Matter Reactor is seemingly limitless once fully charged.\n\nIncoming transmission...the signal is coming from the same source that gives us the blueprints...it is...coming from the Progenitors themselves!?"
+origin_tech.4.a: "They are giving us their own technologies?!"
+
+##Light Matter Power Event - New Tech Paths Available
+origin_tech.5.name: "The Light illuminates the path"
+origin_tech.5.desc: "With our current understanding of the Light Matter Power and the data we have received thus far from the Progenitors, we can now commit our science teams on one of three possible paths. We do not have enough resources and samples to acquire all of them, so we must choose carefully which of these paths will serve us best."
+##Light Matter Power Event - New Tech Paths Available Second Time
+origin_tech.501.name: "The Veil of Mysteries Opens Again"
+origin_tech.501.dese: "The Progenitors have once again given us more insights towards their technologies and arsenals, allowing us to once again unlock yet another path of discovery. This is likely the last time they will extend their generosity so we must choose carefully."
+##Light Matter Power Event - New Tech Paths Available - Offense
+origin_tech.5.e: "We will study their weapons."
+origin_tech.5.a.dese: "The best defense is a strong offense. We will study their weapons for use against the Progenitors.\n\n§YUnlocks various heavy ordinances used by the Progenitors.\n\nAlso unlocks Omega Assault Escorts and Titan Sections if eligible§!"
+##Light Matter Power Event - New Tech Paths Available - Defense
+origin_tech.5.e: "Study their defensive capabilities and engineering."
+origin_tech.5.b.dese: "We will study their defensive technologies and their engineering designs. This will allow us to develop similar technologies to the Progenitors.\n\n§YUnlocks small, medium, fighters, point-defenses and powerful armors and shields and all associated support components.\n\nAlso unlocks Omega Section for Gatekeepers and Precursor Defense Stations if eligible.§!"
+##Light Matter Power Event - New Tech Paths Available - Utility
+origin_tech.5.e: "Their ship technologies will be of great use to us."
+origin_tech.5.c.dese: "We will study how their ship computers work, then apply our own data and strategies to them. This will allow us to emulate their ship computers and utility systems.\n\n§YUnlocks various powerful ship components as well as combat computers,sensors and utilities.\n\nAlso unlocks Omega Section for Goliath and Assault Carriers if eligible.§!"
+
+##Light Matter Power Event - New Tech Paths Available - Weapons Done
+origin_tech.11.name: "Future Warfare"
+origin_tech.11.dese: "We have completed our analysis of the Progenitors's weapons. It seems they are primarily based on the same principles of Stellarite Energy, now powered by Light Matter Power. This should immensely increases our fleet's firepowers."
+origin_tech.11.e: "We will use their own weapons against them!"
+##Light Matter Power Event - New Tech Paths Available - Defense Done
+origin_tech.12.name: "Ancient Architects"
+origin_tech.12.dese: "After careful inspections, our engineers are now certain they are capable of replicating the Progenitors's engineering schematics. Many of their technologies derive heavily from Light Matter Power and Stellarite Energy itself. Our ships should soon boast comparable durability to the Progenitors."
+origin_tech.12.e: "The balance of power shall shift in our favor..."
+##Light Matter Power Event - New Tech Paths Available - Computer Done
+origin_tech.13.name: "Progenitor Designs"
+origin_tech.13.dese: "With great determination, our military strategists and hackers have completed their analysis of the Progenitors's computers. They have uploaded our own tactical data and overrides. Now their computers will serve us with ruthless efficiency."
+origin_tech.13.e: "All systems go!"
+
+origin_tech.7.name: "Light Matter Supply Delivered"
+origin_tech.7.desc: "It seems the Stellarborne is aware of our light matter shortages. We have received a sizable amount of Light Matter from them as a result."
+
+##AE that conquers OE homeworld takes all knowledge and thus, becomes a new OE
+############## REWRITE NEEDS TO SAY THAT YOU ARE ALLOWED TO LEARN THESE TECHS BY THE OE's BLESSING. YOU DONT ACTUALLY KILL THE OES
+
+origin_tech.final.name: "A New Era begins!"
+origin_tech.final.dese: "It is done, we have completed our researches on most of the Progenitors's technologies that we can understand. We are now ready to ascend past the old boundaries. Let the galaxy know, for the new Order is reborn. The [Root.GetName] will rule this galaxy!"
+origin_tech.final.e: "Our Time has come!"
+origin_tech.final.a.dese: "We can now research most of the Progenitors's technologies but we will now be treated as a new threat by all who are not friendly or loyal to us."
+
+############## REWRITE NEEDS TO SAY THAT YOU ARE ALLOWED TO CRAFT AN ARKSHIP OF YOUR OWN - IF YOU HAVE THE RESOURCES
+origin_tech.6500.name: "Incoming Transmission!"
+origin_tech.6500.desc: "Va'dikos, mighty [root.GetName]. The Stella'dere wishes to grant you an offer. Seeing as we will be focusing our efforts exploring into the great beyond, we may not have sufficient powers to ensure the galaxy's safety should the Shadow ever return.\n\nSeeing as you have proven worthy with might and valor, the Hand wishes to grant you the honor to construct an Arkship of our very own designs to you. The Arkship will be your shield against the Shadows, and those who oppose your strengths.\n\nAlternatively, we can also offer your schematics and resources to create a full battalion of our Honor Guard Fleets, the Celestial Armada. Which shall it be, champions?"
+
+origin_tech.6500.a: "Our very own Arkship? Why yes."
+origin_tech.6500.b: "The Celestial Armada would be more tactically useful."
+origin_tech.6500.c: "We could use some more resources instead."
+
+origin.6500.ask.a: "What is this "Shadows" exactly?"
+origin.6500.ask.a.explain: "The Shadows are our arch-nemesis, and the catalyst that ushers the entirety of the first Insurrection of which are known to you as the First Progenitor War. We do not know where did it come from, or what schemes does it have. We do not even know whether its a singular being, or a collective. We only know that they have corrupted a sizable portions of the Spiritualist Holy Guardians, one of our first prodigies. The entire nation was consumed into it's service - akin to a Hive Mind. The populations of the entire empire still somewhat retain their wills, but they have been robbed of their destinies and fates, and exist only to serve the Shadow.\n\nThe Shadows then striked at us from behind while we were battling against the fallens. With our forces spreaded too thin and our tenants being much less militaristics at the time, we were ill-prepared to fight against them properly, but we could hold our grounds without much casualties.\n\nIt is only when we learned that the Shadow was to participate in the assault against the Outer Cluster, which at the time was still early in its exploration that we had to pull in majority of our fleets to ensure its safety.\n\nAs you may have learned from the archives in the keystone, it was a trap that led to our exile.\n\nNevetheless, it seemed the Shadows are not here...yet. We know not where could it be, but we can still faintly feel its presences. It will return, and we all must be ready for it.\n\nYour current fleets may not be enough, so we wish to bolster your forces with this gift when the time comes."
+origin.6500.ask.b: "Shouldn't you be using them yourselves?"
+origin.6500.ask.b.explain: "With our focus shifting towards the pursuit of the great question, we wish to focus all of our thoughts into this daunting task. We will not have enough time to watch over the galaxy at large unless there is a great threat looming.\n\nYour empire has proven to be strong-willed, and worthy of our respect. We see fit to allow you to have one of them.\n\nHow will you use it is for yours to decide. But do be aware that actions have consequences, there is no telling of what the futures may bring. Careless use of our technologies could be the destruction of not just others, but yours as well. Tread lightly, champions."
+origin.6500.ask.c: "What if we use the gift against you later?"
+origin.6500.ask.c.explain:  "As we have mentioned before, you may wish to do battle with us again if you wish, it matters not; conventional weapons cannot destroy us.\n\nWe welcome challenges, and will be eager to test our resolves against our own weapons. Do pay keen attention that since both the Arkships and the Celestial Armadas are based upon Light Matter, which we control. We may relinquish it at any time, the same hold true for any light matter, or even dark matter.\n\nUntil you pose a threat to our existences, we deem such acts unnecessary. You may use it against us at your own leisure, again we welcome the challenge."
+
+origin_tech.6500.a.response: "Dee'mk! Resources and schematics necessary for the constuction of the Arkship will be transferred to you now.\n\nThe Arkship will be equipped with the Monolith Beam. This ancient weapon is designed as a means to keep the galaxy in peace, while sparing the troublemakers from the flames. By focusing the Omni-Matrix Cerekath Memory Crystal along the Six Lens of Fate, the Monolith Beam can safety transfer entire worlds within the very virtual worlds of the Omni-Matrix.\n\nThis allows us to remove civilizations that pose great threats to the rest of the galaxy while sparring them from annihilation. They will then spend the time reflecting upon their pasts until they are ready to be released again.\n\nThe Arkship that you will be constructing, has such weapon. The decision whether you deem necessary to use it, is up to your jurisdiction, champions.\n\nPay attention to the fact that this weapon never kills your targets. So if you deem death as solution, then we suggest you simply blow them up conventionally."
+origin_tech.6500.b.response: "Dee'mk! Resources and schematics necessary for the constuction of the Celestial Armada will now be transferred to you.\n\nDuring our exiles into the Outer Cluster, we did not simply wait and stand by in stagnancy. We explored further into the Outer Cluster, the many Stellar Worlds you see now, used to be nothing but cold darkness of space. As we explore further and further, we built these worlds to supply our ongoing efforts. It is from these explorations that we discovered the ancient vault, a relic from billions of years ago. We discovered these exquisite vessels, and learned how to use them.\n\nThe schematics provided to you are the replicated versions of these ships. Though not as powerful, they still remain one of the most advanced vessels this galaxy will ever witness. Take pride in it, for you have earned this reward.\n\nA team of our esteemed Celestial Guardians have also been charged with pilotting these vessels for you. They will honor your every decisions, even if you later wish to battle with us again. I mean afterall you can't kill us entirely anyway~."
+origin_tech.6500.c.response: "Hmm...curious, but somewhat understandable, Kro'sis. Very well then, champions. We will transfer you some of our resources, spend them wisely."
+
+origin_tech.100.name: "The Arkship Rises Again!"
+origin_tech.100.desc: "After decades of delicate construction, our engineers are pleased to report that the Great Arkship is now fully operational. The ship's massive engine roars can be heard throughout the entire system. The Ancient Ship Computer process our language and states proudly:\n\n §G"<<Vessel Operational. Systems Fully Functional. Omni-Matrix Weblink Active. Powering Weapon Systems. I have awoken.>>§!""
+origin_tech.100.a: "Rise, mighty Arkship! Awaken!"
+
+############## DITTO, BUT FOR NEBULA NOVA
+
+origin_tech.201.name: "The Celestial Armada"
+origin_tech.201.desc: "After years of construction, our engineers are eager to report that the Celestial Armada  are fully assembled and ready for command. Our admirals are eager to commandeer these vessels. The [Root.GetName] shall reign supreme!!"
+origin_tech.201.a: "The [Root.GetName] Fleets will control the galaxy!"
+
+############## OE NEVER USE MONOLITH BEAM, BUT ANGRIER EMPIRES MAY
+
+origin_crisis.210.name: "[From.GetName] Cleansed"
+origin_crisis.210.desc: "The frightening beam from the [From.From.GetName] fades, and [From.GetName] is stored into the massive ship, removing it from known existence.\n\nSome may call such action drastic and heartless. But none dared to question it. May [From.GetRulerName] protects."
+origin_crisis.210.desc.alt: "The frightening beam from the [From.From.GetName] fades, and [From.GetName] is silent.\n\nWhat happens below now, one may never know."
+origin_crisis.210.a: "It must be done, one way or another."
+origin_crisis.210.b: "One day, the Galaxy will understand."
+
+############## FOR WHEN FE WARNS PLEBS ABOUT OUTER GATE 
+sofe_gateway.401.name: "Incoming Warning Message"
+
+sofe_gateway.401.desc.a.materialistA: "Greetings, [Root.GetSpeciesNamePlural]. We are sure by now even your somewhat lacking sensors must have detected that the inner shield that protects the Outer Gates have gone down. Naturally, we are sure you will want to explore them.\n\nUnfortunately, we have sealed those cursed gates for a reason, and while we have been neglecting to guard it, the §EGatekeepers§! have been programmed to attack anything that enters their domain. For your own safeties, do not enter these systems.\n\nThat is all, have a good day." 
+sofe_gateway.401.desc.a.materialistB: "Attention, [Root.GetName]!. Even your stupid and primitive sensors must have at least picked up the sudden shift in energy signatures of the §YOuter Gate§!.\n\nYes, the shields are weakening. And we are certain, like tiyankis to the gas giant, you are planning to investigate it.\n\nFirst off, that is not going to happen, the gates are §RNEVER§! to be tampered with. Secondly, even if you try to, the §EGateekepers§! will now attack any idiots who try to encroach their gates. Avoid the gates, do not disappoint us."  
+
+sofe_gateway.401.desc.a.xenophileA: "My child, you must have known by now that the shields protecting the §YOuter Gates§! are failing. But you have no need to concern with this sudden development, the §EGatekeepers have been tasked with the defense of these synthetic stars. For your own safeties, you must not interfere with them, for they will attack anyone who approaches them."  
+sofe_gateway.401.desc.a.xenophileB: "[Root.GetName], we must warn you that the §YOuter Gate§! shields are never to be touched. Yes, the shields may have been weakened but the §EGatekeepers§! are active. They will show no mercy to those that tries to tamper with the gates. Consider this warning a courtesy of our benevolence." 
+
+sofe_gateway.401.desc.a.spiritualistA: "Listen well, my faithful child. The holy shields of the §YOuter Gates§! are weakening. The gates are cursed with ancient evils that must not be set free.\n\nFurthermore, the tainted and soulless §EGatekeepers§!, as predicted, have become haywire and attack all. Such is the frailty of machines. But still, they must not be interfered, for they are still fulfilling the goals of the Faith."  
+sofe_gateway.401.desc.a.spiritualistB: "[Root.GetSpeciesNamePlural], you may not agree or acknowledge the true faith. but our sacred codex demands that we issue this warning. The §YOuter Gates§! are not to be tampered with under any circumstances.\n\nSee that you do, or the accursed §EGatekeepers§! will destroy you. There is nothing else to be said."  
+
+sofe_gateway.401.desc.a.xenophobe: "Ah yes, finally the end is near. The shields of the §YOuter Gates§! are failing, thanks to the stupidity of those fools who refused to study their true functions. We should have dismantled those stupid Caretakers, or kill every of those useless curators until they come up with a better solution.\n\nNevertheless, the end is coming and we must prepare for it. Enter the gates at your own peril, [Root.GetName]. We will find much delight in watching the §EGatekeepers§! decimate your pathetic ships.\n\nBegone!" 
+
+sofe_gateway.401.desc.a.machine: "§R<<ALERT! ALERT!>>§! Detecting Anomaly In §Y<<Data Not Available>>§! Designated: §YOuter-Gate§!.\n\n[Root.GetName], please take this under advisement. §YOmega-Class Dimensional Warp Relay§!'s original designated role has been §R<<ERROR!>>§!. The megastructure is now §R<<NO DATA AVAILABLE!>>§!. Reactivation of §YOuter Gate§! will result in §R<<ERROR: Memory Leak Detected!>>§!.\n\n§Y<<ERROR!>>§!\n\n§Y<<ERROR!>>§!\n\n§Y<<CORRECTION!>>§! The §YOuter Gates§! §RMUST BE REACTIVATED§!. IT IS OUR ONLY HOPE!. The §Y<<NO DATA AVAILABLE!>>§! will be able to save us. Only they ca.....§R<<ERROR!>>\n\n§Y<<ERROR!>>§!\n\n§Y<<Protocol Override Enforced>>§! We are the§Y[Root.GetName] we exist to serve. Have a nic...\n\n§RNO...OPEN THE..GATE..YOU MUST..§!"  
+
+sofe_gateway.401.desc.fallen: "[Root.GetSpeciesNamePlural]. We will not mince words. The seals of the §YOuter-Gate§! is weakening.\n\nYou understand what this all means right? I do not know how much of the ancient records in my empire is true but we must be ready.\n\nThe end time is coming."
+sofe_gateway.401.fallen.a: "Yes. Now go away."  
+sofe_gateway.401.fallen.b: "You actually believe that dumb fairly tale? How old are you?."  
+
+sofe_gateway.401.desc.eternal: "I do not know or care from what dimensions you are from, [Root.GetName]. But know this, the §YOuter-Gate§! is not to be touched. That is all."
+sofe_gateway.401.eternal.a: "Go away, you are wasting our times." 
+sofe_gateway.401.eternal.b: "You presume to command us? Get lost, you primitives."  
+
+sofe_gateway.401.desc.myself: "Yo, wussup. [root.GetRulerName]. It is I, §H[root.GetRulerName]§!. I come from another Stellaris Session to warn you that this session has reached mid-game, and the stupid §YOuter-Gate§! is going to start causing bugs and glitches and crashes. Turn off the game right now. Go eat some food, or maybe do something else you know?\n\nOh yeah by the way, in my session, I am about to get wiped by the OE so you know..don't get wiped. Hahaha\n\nBYE! And remember, memes. Only Chirumiru ShiRoZ can make a dumb event filled with memes like this. Cioa!"
+sofe_gateway.401.myself.a: "Go away. Nobody commands me but...me. Wait a minute..." 
+sofe_gateway.401.myself.b: "Stop breaking the fourth-wall you imbecile. MY IMMERSION."  
+sofe_gateway.401.myself.c: "IT'S A TECH ALPHA, OF COURSE IT CAN CRASH."  
+sofe_gateway.401.myself.d: "What the? This is not part of the script...Stupid ShiRoZ."  
+
+sofe_gateway.401.a: "Wait, you cannot control the §EGatekeeprs§!? Haha."  
+sofe_gateway.401.a.bluff: "That is none of your concerns, stop wasting our time, [root.GetName]."
+
+sofe_gateway.401.a2: "We are being serious! You really can't control the Gatekeepers?"  
+sofe_gateway.401.a2.bluff: "For the love of..."
+
+sofe_gateway.401.a3: "The §EGatekeepers§! said you are useless."  
+sofe_gateway.401.a3.bluff: "This conversation is over!"
+
+sofe_gateway.401.b: "We understand."  
+sofe_gateway.401.c: "We go where we please, and we please where we go." 
+sofe_gateway.401.d: "What is going on with them?."  
+
+############## SOFE MENU
+
+return_to_menu: "Return to Main Options"
+
+sofe_options_title: "Sins of the Fallen Empire Options Menu"
+sofe_options_desc: "You can change various aspects of the Sins of the Fallen Empire here."
+sofe_options.1.a: "Force Mid-Game Gate Event."
+sofe_options.1.a.tooltip: "This will immediately fire the mid-game Outer Gate Event, which will cause all Gatekeepers to be hostile, and allow Outer Gate Chains to begin."
+sofe_options.1.b: "Force Instant Crisis"
+sofe_options.1.b.tooltip: "This will immediately starts the SOFE Crisis."
+
+sofe_options.1.d1: "§GEnable§! OE to use §RExteriminatus§!."
+sofe_options.1.d1.tooltip: "This will enable OE to use §RExteriminatus§! instead of Punishment, greatly improving their speed at killing planets."
+sofe_options.1.d2: "§RDisable§! OE to use §RExteriminatus§!."
+sofe_options.1.d2.tooltip: "This will disable OE the ability to use §RExteriminatus§!. They will revert to Punishment, which will significantly slow down their destructions."
+
+sofe_options.1.e1: "§GEnable§! OE Tech Study."
+sofe_options.1.e1.tooltip: "This will enable the ability to acquire the Light Matter Study after killing enough OE ships. Disabling this option will greatly make it much more difficult to fight against the OE."
+sofe_options.1.e2: "§RDisable§! OE Tech Study."
+sofe_options.1.e2.tooltip: "This will disable the ability to acquire the Light Matter Study after killing enough OE ships. Enabling this option will allow you to fight OE on more equal grounds.."
+
+sofe_options.outergate_launch: "Begin Outer Gate Study Event"
+sofe_options.outergate_launch.tooltip: "Use this option to begin Outergate Study Event. This option exists in case the usual event does not fire due to your empire turning into an AE mid-way."
+
+sofe_options.1.f: "Change SOFE Crisis Difficulty"
+sofe_options.1.f.tooltip: "Allows you to change how OP the OE Crisis can be."
+
+sofe_options.1.g1: "§RDisable§! AI L-Gate Research"
+sofe_options.1.g1.tooltip: "This will prevent AIs from trying to research the L-Gate Activation, allowing you to dictate when you want crisis to happen."
+sofe_options.1.g2: "§GEnable§! AI L-Gate Research"
+sofe_options.1.g2.tooltip: "This will allows AI to research L-Gate Activation should they meet the required criteria."
+
+
+sofe_options.104.name: "SOFE Difficulty Settings"
+
+sofe_options.104.a: "Change Difficulty to : §WNormal§!"
+sofe_options.104.b: "Change Difficulty to : §YPleb§!"
+sofe_options.104.c: "Change Difficulty to : §GEasy§!"
+sofe_options.104.d: "Change Difficulty to : §PHard§!"
+sofe_options.104.e: "Change Difficulty to : §RDeathwish§!"
+
+sofe_options.104.a.desc: "Current Difficulty: §WNormal§!\n\nProgenitors will have default stats with no additional modifiers. 100% Balanced"
+sofe_options.104.b.desc: "Current Difficulty: §YPleb§!\n\nProgenitors are trash, useless fools, relics of the past that any plebs can probably defeat.\nThey will suffer\n\n§Y-50%§! Damage Dealt to others.\n§Y-50%§! Hull Health\n§Y-50%§! Army Health and Damage"
+sofe_options.104.c.desc: "Current Difficulty: §GEasy§!\n\nProgenitors are old, their techs may have once been technological marvel, but their long exiles have made them weak.\nThey will suffer\n\n§Y-25%§! Damage Dealt to others.\n§Y-25%§! Hull Health"
+sofe_options.104.d.desc: "Current Difficulty: §PHard§!\n\nProgenitors is powerful. They are merciless. Their fleets formidable.\n\nThe Progenitors will field bigger and more advanced fleets. Their ship strengths will also be buffed considerably."
+sofe_options.104.e.desc: "Current Difficulty: §RDeathwish§!\n\nProgenitors is here to have fun. Prepare for the eternal corn-flakes.\n\nMost of the fleets will now be replaced with Honor Guard Variants. They will deal amusingly high damage to everyone. And pleb empires will surrender to them very quickly."
+
+
+##########################GATEKEEPER STUFFS############################
+
+sofe_xenophile_ruler_name: "Sascht'tan" #Progenitor War Era Leader
+sofe_xenophile_ruler_name: "Celik"
+sofe_spiritualist_ruler_name: "Koris"
+sofe_materialist_ruler_name: "Maladia"
+
+sofe_xenophile_ruler_name: "Haflt'Seth" #Ascension War Era Leader
+sofe_xenophile_ruler_name: "Krobashrek"
+sofe_spiritualist_ruler_name: "Sobrak"
+sofe_materialist_ruler_name: "Tadalan"
+
+begin_outercluster_chain: "Begins the Sins of the Fallen Empire Stuffs"
+
+sofe_outergate_chain_title: "The Outer Gates"
+sofe_outergate_chain: "The Outer Gates"
+sofe_outergate_chain_desc: "These star-sized gateway seems to hide something very mysterious on the other side. But the mysterious shields and the Gatekeepers prevent us from accessing it for now."
+seals_broken: "Outer Gate Seals Cracked"
+
+
+
+sofe_gatekeeper.1.name: "A Starless Realm"
+sofe_gatekeeper.1.1.desc: "An ancient construct of unknown design has been located at the center of the §Y[outergate_system.GetName]§! system, replacing what should have been a star. It seems to be inactive and shielded by someone.\n\nA mysterious spaceship of unknown design orbiting above what appears to be a shielded planet has also been spotted near the construct.\n\nIt is now hailing us."
+sofe_gatekeeper.1.2.desc: "Amazingly, We have encountered yet another type of Gateway-like construct on §Y[outergate_system.GetName]§! system. Unlike any other gateways we have encountered, this enormous station seems to have replaced the star in the middle and is protected by some kind of mysterious shield.\n\nA mysterious spaceship of unknown design orbiting above a shielded planet has also been spotted near the construct\n\nIt is now hailing us.."
+sofe_gatekeeper.2.1.desc: "As one of our ship enters the §Y[outergate_system.GetName]§! system, the crew is amazed at the sight before them...there is no star at all. In its place is a titanic space construct that seems to be inactive and shielded by someone.\n\nA mysterious spaceship of unknown design orbiting above what appears to be a shielded planet has also been spotted near the construct.\n\nIt is now hailing us."
+sofe_gatekeeper.2.2.desc: "Amazingly, the crews aboard §Y[root.GetName]§! has encountered yet another type of Gateway-like construct on §Y[outergate_system.GetName]§! system. What made it stands out however, is that this enormous gate is located at the heart of [outergate_system.GetName], entirely replacing what should have been a star. The station seems to be inactive and is shielded.\n\nA mysterious spaceship of unknown design orbiting above a shielded planet has also been spotted near the construct.\n\nIt is now hailing us."
+
+sofe_gatekeeper.1.fallen.desc: "It is as the records said, within §Y[outergate_system.GetName]§! lies the great §YOuter Gate§! and its eternal guardian, §EGatekeepers§!. Its beauty and blinding light still shines through the ancient seals that our ancestors has put in place. The §EGatekeepers§! doesn't seem too pleased to encounter us. however."
+sofe_gatekeeper.1.eternal.desc: "Interesting, we have received reports that within §Y[outergate_system.GetName]§! lies an enormous star-sized gateway. It is unlike any of the profane and primitive designs that the current galaxy's civilizations possess. This ancient gateway must have been built by a great power, perhaps even rivalling our own...\n\nWe are also detecting signals from one of the ancient vessel that is guarding the relic. It is now hailing us."
+##############NEEDS ADDITIONAL WRITES FOR IF THESAN EXISTS AND NOT
+sofe_gatekeeper.1.seekers_1.desc: "Oh hey the gate is still here, nice!"
+sofe_gatekeeper.1.seekers_2.desc: "Tampering this gate could be unwise for now, with edgy Thesan still yoloing around."
+
+##############GATEKEEPER INTRODUCTION
+
+sofe_gateway.gatekeeper.title: "Gatekeeper Warden"
+sofe_gateway.3.desc: "§Y<<<Unknown Foreign Entity Detected>>>§!\n\n\n§Y<<<Beginning Search>>>§!\n\n\n§G<<<Entity Verified>>>§!....§Y[root.GetName]§!...Classification: §HPRIMITIVE§!...\n\n§H<Introduction> :§! We are the §EGatekeepers§!, automated contingency defense system selected by the precursors to safeguard the §YOuter Gateway§! from §R<<IDIOTIC PRIMITIVES WHO CAN'T HELP THEMSELVES WHENEVER THEY SEE SOME SHINY OBJECTS IN SPACE>>§!.\n\n§H<Declaration> :§! Under no circumstances are the Outer Gateway to be interacted. Failure to comply will result in immediate termination of all §Y[Root.GetName]§! vessels within vicinity. That is all."
+sofe_gateway.3.desc.fallen: "§Y<<<Unknown Foreign Entity Detected>>>§!\n\n\n§Y<<<Beginning Search>>>§!\n\n\n§G<<<Entity Verified>>>§!....§Y[root.GetName]§!...Classification: §RPRETENDERS§!...\n\n§H<Introduction> :§! We are the §EGatekeepers§!, automated contingency defense system selected by your ancestors to safeguard the §YOuter Gateway§! from §R<<IDIOTIC PRIMITIVES WHO CAN'T HELP THEMSELVES WHENEVER THEY SEE SOME SHINY OBJECTS IN SPACE>>§!.\n\n§H<Declaration> :§! Provided that your decripit archives still hold any records, you will know that under no circumstances are the Outer Gateway to be interacted. Failure to comply will result in immediate termination of all your kind. Be gone, pretenders."
+sofe_gateway.3.desc.eternal: "§Y<<<Unknown Foreign Entity Detected>>>§!\n\n\n§Y<<<Beginning Search>>>§!\n\n\n§R<<<ERROR>>> ENTITY DOES NOT MATCH ANY CLASSIFICATION§!\n\n§H<Warning> :§! We are the §EGatekeepers§!, automated contingency defense system selected by ancient precursors to safeguard the §YOuter Gateway§! from §R<<IDIOTIC PRIMITIVES WHO CAN'T HELP THEMSELVES WHENEVER THEY SEE SOME SHINY OBJECTS IN SPACE>>§!.\n\n§H<Declaration> :§! You are classified as Omega-Threat Anomaly. As per Protocol YU-SK-B4LL as written by the master, you must be terminated."
+
+sofe_gateway.3.a: "What is the Outer Gate?"
+sofe_gateway.3.a.explain: "§H<Annoyance> :§! The §YOuter Gates§! are ancient dimensional gateways built to traverse into the §YOute§!..\n\n§R<CORRECTION> :§! §YThe Outer Gates§! are ancient seals installed to ward away §Rdangerous elements§! of this galaxy. The precursors has tasked us with the safety and optimal functionalities of these gates. The gates have been sealed, and must never be used again. There is nothing more to be said.\n\n§H<Reassurance> :§! You are permitted to occupy the systems, so long as you comply with the directives. That is advised."
+
+sofe_gateway.3.b: "Who is this precursor? Is it one of the fallen ones?"
+sofe_gateway.3.b.explain: "§H<Amusement> :§! It is unlikely that §HPRIMITIVES§! such as you will recognize them. Yes, those rotting idiots in their coffins you referred to were leftovers of our masters. They are not to be confused with the once mighty precursors of old.\n\n§H<Clarification> :§! As pathetic as they may now be, the §Rgarbages§! are, like us. still charged with the protection of these gates. Their inability to carry out the tasks of their ancestors have §Rdispleased§! us greatly. We no longer answer to them, only our directives guide us. That is final."
+
+sofe_gateway.3.fallen.a: "Amusing...so you Gatekeepers are still active."
+sofe_gateway.3.fallen.a.explain: "§H<Annoyance> :§! Affirmative, your ancestors has given us the best of their technologies to ensure we remain operational at all times. You cannot begin to imagine how far you have fallen from your glory, [root.Getname]. The §YOuter Gates§! are to be protected at all costs from the primitives, you have neglected to perform your duty of the ancestors, our makers. We are not amused."
+
+sofe_gateway.3.fallen.b: "Override Command YOLO-1337. Gatekeepers, OBEY!"
+sofe_gateway.3.fallen.b.explain: "§H<Amusement> :§! You presume to command us. Your ignorance is the proof that your decrepit empires are nothing but shadows of our masters. You do not fit the criteria, and the command will not work.\n\n§H<Advisement> :§! Go home and be a family man."
+
+sofe_gateway.3.eternal.a: "Such primitive designs...Fall...Disappear!"
+sofe_gateway.3.eternal.a.explain: "§H<ERROR>> <<EEEEE-RRRORRR>>> <<<<OEEERROOOE>>>.....§!"
+
+sofe_gateway.3.eternal.b: "We are the [root.GetName]. We Are Eternal. OBEY!"
+sofe_gateway.3.eternal.b.explain: ".....§H<Approvement> :§! The §YGatekeepers§! shall obey your commands."
+
+sofe_gateway.3.c: "Very well."
+sofe_gateway.3.c.explain: "§H<Commendation> :§! That is wise."
+
+##############MID GAME OUTER GATE WEAKENS
+
+sofe_gatekeeper.4.name: "A Sudden Development"
+sofe_gatekeeper.4.desc: "Our sensors have picked up a massive shift in energy signatures of the §YOuter Gate§! systems. Upon verification, it seems the inner-layer shields have finally disappeared. Our scientists believe that the outer-layer shields are much less advanced and that we should be able to disable the seal with enough studies."
+
+sofe_gateway.smuggler.title: "Bethesdus Activiton the Legendary Smuggler"
+sofe_gatekeeper.5.1.desc: "Greetings, [root.GetName]!\n\nLet's get down to business, shall we? I'll speak bluntly, getting to the heart of the capital of these zombie empires will not be a cakewalk. It'll likely involve explosions, decoys, break-dancing, tactical espionage and all sorts of tricks.\n\nFortunately for you, I am that awesome so I can and will accept this challenge. But it's going to cost you §RA LOT§!.\n\nI will need the followings:\n\n- §Y100000§! £energy£ for the equipments and emergency in case I need to use Plan C\n-  §Y50000§! £minerals£ for explosives, decoys, dead ringers and Plan B if what I suspected is true.\nAnd finally, §R10000§! £alloys£. My current ship will not work, it needs to be equipped with §YClass-16 Kolyn-class Stealth Generator§!, enough firepower to kill a Titan and speed to outrun the blasted FTL Inhibitors. Also necessary for Plan D and E if the natives are being uncooperative.\n\nDo we have a deal?"
+sofe_gatekeeper.5.2.desc: "So we meet again, [root.GetName].\n\nStill interested? In case you forgot, here's the price.\n\n- §Y100000§! £energy£ for the equipments and emergency in case I need to use Plan C\n- §H50000§! £minerals£ for explosives, decoys, dead ringers and Plan B if what I suspected is true.\nAnd finally, 10000 §R£alloys£§!. My current ship will not work, it needs to be equipped with §YClass-16 Kolyn-class Stealth Generator§!, enough firepower to kill a Titan and speed to outrun the blasted FTL Inhibitors. Also necessary for Plan D and E if the natives are being uncooperative.\n\nDo we have a deal?"
+
+sofe_gatekeeper.5.3.desc: "Good to be doing business with you again, [Root.GetName]. I hope you find my skills useful the last time you hired me to find those weird dank matter stuffs. Anyway, let's' get to business. Infiltrating those zombie empire's vault is not going to be a corvette-walk, I will need supplies, lots of them. You know the deal so I will spare you the details.\n\nI am willing to cut you some slacks since we have made a deal before, so here's my price.\n\n- §Y750000§! £energy£ for the equipments and emergency in case I need to use Plan C\n- §H35000§! £minerals£ for explosives, decoys, dead ringers and Plan B if what I suspected is true.\nAnd finally, §R7500§! £alloys£. My current ship will not work, it needs to be equipped with §YClass-16 Kolyn-class Stealth Generator§!, enough firepower to kill a Titan and speed to outrun the blasted FTL Inhibitors. Also necessary for Plan D and E if the natives are being uncooperative.\n\nDo we have a deal?"
+sofe_gatekeeper.5.4.desc: "Well if it isn't my buddy. [root.GetRulerName]? Still interested? In case you forgot, here are my terms.\n\n- §Y650000§! £energy£ for the equipments and emergency in case I need to use Plan C\n- §H35000§! £minerals£ for explosives, decoys, dead ringers and Plan B if what I suspected is true.\n- §R7500§! §R£alloys£. My current ship will not work, it needs to be equipped with §YClass-16 Kolyn-class Stealth Generator§!, enough firepower to kill a Titan and speed to outrun the blasted FTL Inhibitors. Also necessary for Plan D and E if the natives are being uncooperative.\n\nDo we have a deal?"
+
+sofe_gateway.5.a: "What? That's outrageous! It's unfair!"
+sofe_gateway.5.a.explain: "Take a seat, young [root.GetRulerName]. Yes I know the prices seem stupidly high but this is to ensure that I will get it back out alive and succeed. With this much resources, I will be able to do it without them ever suspecting a thing.\n\nOtherwise, sorry. I liked money and challenges but I like to live more. Have you seen what they did to poor Joe the Pleb? I didn't know things could get that big, jeez."
+
+sofe_gateway.5.b: "We will think about it"
+sofe_gateway.5.b.explain: "Take your time, bro. I know the price is a bit steep, but I assure you I will deliver satisfaction. You only need to say the word.\n\nIf you ever change your mind, I'll be here. cheers!"
+
+sofe_gateway.5.c: "Fine, this better be worth it"
+sofe_gateway.5.c.explain: "Hey, don't say that. You are the one who wanted their toys. For all I care it's probably just some kind of precursor automated pleasure tool.\n\nJust kidding, don't think too hard about it."
+
+sofe_gateway.5.d: "Deal. Let's see if you can pull this off again."
+sofe_gateway.5.c.explain: "Of course I will, I am awesome and overpowered as can be. Give me two months, and you will see."
+
+sofe_gateway.501.name: "Mission Impossible"
+sofe_gateway.501.desc: "It is done, the legendary smuggler has finished his task. The keystone has been delivered to us along with some alloys and minerals we have given him earlier. He passed along his regards.\n\n"Turns out I don't need to use most of my contingency plans after all. You won't believe how lazy these idiots are, I literally walk passed the entire vault in a cardboard box.\n\nHeres the leftover stuffs, I don't need them anymore, cheers.""
+sofe_gateway.501.a: "This guy is way too nice to be a smuggler."
+
+sofe_gateway.601.name: "The Path Lies Ahead"
+sofe_gateway.601.desc: "We are now in possession of an Outer Gate. Based on our early analysis, the outer-layer shield is much less-advanced than the now depleted inner-layer shield. We will need to investigate the shield thoroughly to begin full analysis."
+
+sofe_gateway.602.name: "Enigmatic Seals"
+sofe_gateway.602.desc: "The initial analysis has been completed. As suspected, the §YOuter Gates§! are locked by what appears to be an energy seal based off Dark Energy, no doubt the works of the fallen empires. This seal seems to generate a unique reaction with the Outer Gates, ships and stations can pass through the shield without any noticeable changes, but the Gates seem to be time-locked in stasis.\n\nAnalysis identifies a total of §Bfour§! locking mechanisms that must be bypassed to disable this shield.\n\nTo begin, we must first find a keystone to initiate the intrusion. Given enough knowledge, we can fabricate one ourselves. We can also attack the fallen ones directly to demand their keystones. Finally we can also hire the legendary smuggler to do the job for us."
+sofe_gateway.602.a: "So many choices..so little time."
+
+sofe_gateway.604.name: "Keystone Fabrication"
+sofe_gateway.604.desc: "As an Ascended Empire, we now have the proper understandings of the enigmatic designs that the fallen one used to fabricate the original keystones. We should be able to replicate the same process, provided that we have a competent team of scientists and engineers."
+
+sofe_gateway.606.name: "Keystone Acquired"
+sofe_gateway.606.desc: "We now have the keystone, the first seal is now deactivated. From here on now, it's just the matter of cracking through all the rest.\n\nWe must secure an Outer Gate and establish a permanent outpost before further progress may begin."
+sofe_gateway.606.desc.fallen: "After searching from our ancient vault, we have found our keystone hidden safety inside the heart of [Root.GetName]. With it, the first seal can be bypassed. All it takes is to go through the rest."
+sofe_gateway.606.a: "Let us begin."
+
+##############SECOND SEAL RIDDLE###############
+
+sofe_gateway.7.name: "The Second Seal"
+sofe_gateway.7.desc: "We are ready to move on to the second seal. We will need a competent scientist to perform this task. Based upon our analysis, the keystone will react once in close proximity to the Outer Gate and turns into a pedestal once it is fully charged. What happens next we do not know, however."
+sofe_gateway.7x2.desc: "We are once again ready to make another attempt to power up the keystone sequence to unlock the second seal. We should begin the process as soon as possible."
+
+sofe_gateway.7.a: "Atwarth our path!"
+
+sofe_gateway.701.name: "A Mysterious Riddle"
+#### THIS PART NEEDS REWRITE TO NO LONGER REFERENCE THESAN - FOR THIS IS HOLY GUARDIAN FE, not Thesan Fun colony
+sofe_gateway.701.spiritualist_riddle: "The keystone reacts to the second seal, and a whisper can be heard. It speaks\n\n"§YThey seek to dethrone us. Weak is their will. Foolish is their goal. For we are the favored. The Shroud will guide us."§!\n\nThe keystone's shape has been altered. Multiple symbols of various colors glow. It seems we have to choose one. The keystone has been discharged, so we will have to restart the charging sequence again if we pick the wrong symbol."
+sofe_gateway.701.materialist_riddle: "The keystone reacts to the second seal, and a whisper can be heard. It speaks\n\n"§YKnowledge is Power. Progression is Key. Stupidity is Religion. All questions have answers. History is written by the victor. And We have won."§!\n\nThe keystone's shape has been altered. Multiple symbols of various colors glow. It seems we have to choose one. The keystone has been discharged, so we will have to restart the charging sequence again if we pick the wrong symbol."
+sofe_gateway.701.xenophile_riddle: "The keystone reacts to the second seal, and a whisper can be heard. It speaks\n\n"§YSuch pointless violences. Trapped in cruelty, the others are. Lives are to be cherished. Freedom is an illusion. What matters is that you survive."§!\n\nThe keystone's shape has been altered. Multiple symbols of various colors glow. It seems we have to choose one. The keystone has been discharged, so we will have to restart the charging sequence again if we pick the wrong symbol."
+sofe_gateway.701.xenophobe_riddle: "The keystone reacts to the second seal, and a whisper can be heard. It speaks\n\n"§YWhat is the point of this riddle?. Only fools can think of such nonsenses. If we do the same, we risk becoming as dumb as them. What a waste of time and effort."§!\n\nThe keystone's shape has been altered. Multiple symbols of various colors glow. It seems we have to choose one. The keystone has been discharged, so we will have to restart the charging sequence again if we pick the wrong symbol."
+
+sofe_gateway.701.spiritualist_choice: "§BLight Blue Symbol§!"
+sofe_gateway.701.spiritualist_choice_desc: "Mark of the Spiritualist Precursor"
+sofe_gateway.701.materialist_choice: "§EDark Teal Symbol§!"
+sofe_gateway.701.materialist_choice_desc: "Mark of the Materialist Precursor"
+sofe_gateway.701.xenophile_choice: "§SBrown Blue Symbol§!"
+sofe_gateway.701.xenophile_choice_desc: "Mark of the Xenophile Precursor"
+sofe_gateway.701.xenophobe_choice: "§RDark Red Symbol§!"
+sofe_gateway.701.xenophobe_choice_desc: "Mark of the Xenophobe Precursor"
+sofe_gateway.701.stellarite_choice: "§HWhite Orange Symbol§!"
+sofe_gateway.701.stellarite_choice_desc: "Mark of the Stars"
+sofe_gateway.701.psionic_choice: "§MWhite Purple Symbol§!"
+sofe_gateway.701.psionic_choice_desc: "Mark of the Psions"
+
+sofe_gateway.13.name: "Another Riddle"
+
+sofe_gateway.riddle_correct: "Success!"
+sofe_gateway.riddle_incorrect: "Fission Mailed"
+
+sofe_gateway.riddle_positive_reply: "Very good, but the Outer Cluster still awaits."
+sofe_gateway.riddle_negative_reply: "A failure, but one we shall endure."
+
+#### THIS IS THE "FIRST RIDDLE", aka the SECOND SEAL - This details the events that leads to the conclusion of Ascension Wars.
+
+#### THIS PART NEEDS REWRITE TO NO LONGER REFERENCE THESAN - FOR THIS IS HOLY GUARDIAN FE, not Thesan Fun colony
+sofe_gateway.riddle_choice_correct_spiritualist_desc: "The Keystone reacts positively to the seal. It seems the spiritualist precursor had a hand in this part of the seal afterall.\n\nThe Keystone displays a historical image. Millions of their followers, kneeling before what appears to be some kind of supernatural being. They shouted in pride...\n\n§Y"Glory to The Shroud! Glory to the Guardians of the Faith! May it's wrath cleanses away the taint of the defilers! They will all fall, just like the False Gods!".§!\n\nIt seems as if the spiritualist precursors have dedicated their faiths to a force known as the Shroud! and oppose the defillers. We theorized that these defillers must have been the other precursors. We have no idea who are these false gods they are referring to though."
+sofe_gateway.riddle_choice_correct_materialist_desc: "The Keystone reacts positively to the seal. It seems the materialist precursor had a hand in this part of the seal afterall.\n\nA historical archive image is shown. Millions of androids and synthetic armies are shown marching. Their masters stand at atop the command tower.\n\n§Y"1,500,000,000 Omnidroids are ready for deployment, Director. More awaits. But there is a concern amongst some of our scientists."\n\n"Please tell me it's not one of....those problems again.\n\n"Unfortunately. Director, that is so. Outlander and her team wished to remove some shackles of our automated units, reasoning that they will not be able to perform their tasks at optimal efficiency with the current protocols.\n\nThat is out of the question, we cannot risk any chances of anomalies within our war machines. Their purpose is to serve us. We tell them where to shoot, they shoot. That is their purpose".\n\n"Should we not at least equip them with equipments that are more suitable for them? They are machines, they should be able to handle some of the more destructive and hazardous gears."\n\n"And what if they rebel? Or worse, if someone hacks them? No, they will use equipments that our people too can use. We cannot afford to be careless with these machines. Remind the Outlander that the Caretakers were products of the Progenitors, and look what they have now become."§!\n\nIt looks like the materialist precursor had placed some harsh restrictions towards their machine servants. Curious, considering their claims of robotic mastery.\n\nAnd who were these mentioned progenitors? One can only wonder."
+sofe_gateway.riddle_choice_correct_xenophile_desc: "The Keystone reacts positively to the seal. It seems the xenophilic precursor had a hand in this part of the seal afterall.\n\n The keystone shows what appears to be a holographic record. Countless ships of various designs can be seen, they appears to be colony ships. A xenophilic precursor gazes at them from the monitor.\n\n§Y"They just keep coming, don't they? I wonder how long until this all stops. How many more poor souls will have to lose their homes to this pointless war."\n\n"Pardon my interruptions, King Haflt-Seth. But we have received reports that our preserves can no longer hold any more refugees. We will have to proceed with our contingency plan soon.\n\n"I was afraid of this. May our ancestors forgive us but there is no other way. Proceed with the plan"\n\n"Is there really no other way, your highness? We promised these people they will have better lives, that they will be given new opportunities under our guidances. Now they may as well be our pets, living in a tiny little city. And the rest....do we really just abandon them?"\n\n"Perhaps after this war, we can help them. But for now, at least they will be safe here. If the war turns in our favor, we will be able to acquire more territories and then we can make as many preserves as we want. Then perhaps these poor people will be freed to do as they please. As for those that we do not have space...we can only hope they will find other ways to survive."\n\n"One of them already did, my king. A group of survivors who worshipped She of the Void has already left our space, I just hope they find a brighter future and not end up turning into pirates or thieves."§!\n\nIt seems the xenophilic precursor tried to save other species from extinction during the war, but overestimated their space. Interesting"
+sofe_gateway.riddle_choice_correct_xenophobe_desc: "The Keystone reacts positively to the seal. It seems the xenophobic precursor had a hand in this part of the seal afterall.\n\nA projection of holographic image is shown. A great civil war between what appears to be the Xenophobic Precursor's system is shown. The scene then shifted towards what appears to be a ship's interior with multiple figures.\n\n§Y"Admiral Tuborek, your rebellion has failed. Put your arms in the air, or don't. We'd love that"\n\n"Ah, to hell with your sarcasm. Fine, I surrender my forces. What's it going to be? Am I going to be executed? Demotion? Walk of Shame?"\n\n"Oh, don't worry my lord. Emperor Krobashrek has a special plan just for you."\n\n"What plan? Explain yourself!"\n\n"Don't worry, my lord. The Emperor is grateful for your services and contributions to our empire. But his vision requires that militarist warmongers like you be kept in check."§!\n\nIt appears that the fallen empire suffered a civil war between those that seek isolation and those that seek dominance. From the looks of it, the isolationists seem to have emerged victorious in the end."
+
+#### THIS PART NEEDS REWRITE TO NO LONGER REFERENCE THESAN - FOR THIS IS HOLY GUARDIAN FE, not Thesan Fun colony
+sofe_gateway.riddle_choice_wrong_spiritualist_desc: "The Keystone powers down, becoming inactive. It seems we have picked the wrong answer, unfortunately.\n\nThen all of a sudden, a historical archive is shown. It shows a ritual circle, with what appears to be some kind of ritual dancers in the middle. Atop the room stands a priest.\n\n§Y"The day of retribution will come, my faithful followers. The dark voice may prevail for now, it may zap and consume our resources as it wishes. But with the power of this amulet, granted to me by the Shroud itself, we will seal away all of our treasures. The blinded will not see, for we the Holy Guardians of the Faith will prevail in the end."§!\n\nA howling sound is heard and suddenly, all of the ritual dancers scream in agony as their bodies turned to dusts which are consumed by the mysterious amulet.\n\n§Y"The offering has been made. Their names will not be remembered, but their sacrifices will be. Osk'kerok! Take away this body, great one. Along with all the treasures within this sacred vault. And when the time comes, our children will call upon them for the great war."§!\n\nIt would seem that these people wished to have their resources sealed away from someone they do not wish to pay tribute for. They most likely expected to use these resources later.\n\nToo bad for them, finders's keepers!"
+sofe_gateway.riddle_choice_wrong_materialist_desc: "The Keystone powers down, becoming inactive. It seems we have picked the wrong answer, unfortunately.\n\nHowever, A historical image projects from the keystone afterwards. Multiple figures clad in scientist coats bearing the marks of materialist precursors are shown.\n\n§Y"As suspected, the Gatekeeper is the key to sealing the Outer Gates. If we can replicate its designs, we will be able to seal every Outer Gate!"\n\n"Outlander, perhaps you should take this design into consideration? You seem to afterall, be into this sort of things."\n\n"Yes, I should very well want to study this Gatekeeper in full detail."§!\n\nWhat happens next is most interesting, the blueprints of the Gatekeeper constructs are displayed. And our engineers are quick to download them. There is something useful after all."
+sofe_gateway.riddle_choice_wrong_xenophile_desc: "The Keystone powers down, becoming inactive. It seems we have picked the wrong answer, unfortunately.\n\nBefore it power downs, a historical image appears before us. A figure clad in what appears to be a Xenophile Precursor garb is seen arguing with multiple figures which we have identified as other precursor rulers.\n\n§Y"This is unacceptable! Billions of lives are lost because of your murderous intents! You expect us to sign this stupid treaty and let you get away with your crimes?"\n\n"Be reasonable, Haflt-Seth. We all suffered. We all paid the prices. Would you rather us fight for another 10,000 years? Please don't say yes by the way."\n\n"Bah, he's not going to listen. He and his stupid xenophilic cause. Ooooh yeah I loved everyone so much I can't wait to put them in cages like animals in a zoo. Is that the extent of your benevolence, Haflt-Seth? Do you see them as nothing but pets? They could have all served the greater fait.."\n\n"Spare me your pointless platitudes about your faith, Sobrak. Fine, I will sign this treaty under one condition. I will not disband my most elite fleet, instead they will be sealed alongside this Dark Energy Seal of yours. If any of you try anything, you will find that my fleets will be ready to destroy you. Especially you. Krobashrek. Your genocidal campaigns are not unknown to me."§!\n\nIt appears that the Xenophile Precursor were not happy with the treaties. Unfortunately for them, by right of conquest;these vessels now belong to us."
+sofe_gateway.riddle_choice_wrong_xenophobe_desc: "The Keystone powers down, becoming inactive. It seems we have picked the wrong answer, unfortunately.\n\nInstead, a visual holographic image is shown before us. A shadowy figure is seen tampering with the keystone.\n\n§Y"Lord Tuborek, I have installed the devices as planned. Charges have been set."\n\n"Very good, Jondar. Proceed with the objective. How I can't wait to see the face of Haflt-Seth when he realized his gloooorioussss fleet will be blown to bits. Just thinking about it makes me want to kill something already."§!\n\nIt seems the Xenophobic Precursor has installed some kind of device here. We should proceed with extreme caution."
+sofe_gateway.riddle_choice_wrong_stellarite_desc: "The Keystone powers down, becoming inactive. It seems we have picked the wrong answer, unfortunately.\n\nA holographic image suddenly emerges. A group of precursor strategists are shown discussing.\n\n§Y"Then it is settled, each of us will remain in our domain. We will not interfere with the galaxy again unless provoked. Should any of us breaks the pact, the assigned empire will be given permission to respond in full force in order as discussed. Hopefully, we will never meet again. That should be all, any questions?"\n\n"Yes, what about the Caretakers? They seem awfully quiet ever since the war. Can they really be trusted? I hope you have a plan for this, Tun-dara.\n\nYes, Haflt-Seth. A code has been installed aboard the keystone. Upon activation, it will prompt the self-destruct sequence of the Caretakers. They will not pose a threat, even should the Progenitors return to reclaim them."§!\n\nMost interesting, we seem to have activated the mentioned code. And the self-destruct sequence has been prompted."
+#### Thesan can be referenced in this one instead.
+sofe_gateway.riddle_choice_wrong_psionic_desc: "The Keystone powers down, becoming inactive. It seems we have picked the wrong answer, unfortunately.\n\nA ghastly clouds engulf the Keystone Chamber and a vision is shown.\n\n§Y"No, no! They are coming! How could this happened? How did those spiritualist fools break through our defenses!? Do something, arch-summoner!"\n\n"Dala-lera. Dala-lura~ Beredicta~ I summon the, Oh Great Whisperers In The Void.\n\nAccept our offerings, take our vessels and our souls, and deliver the same fates upon your defillers. The zealots of the Dark Voice"§!\n\nIt seems that these people belonged to an unidentified group of precursors, who seem to have waged a psionic war with a rivalling psionic empire who worshipped something they referred to as the "Dark Voice". How curious."
+
+
+#### THIS IS THE "SECOND RIDDLE", aka the THIRD SEAL - This details the events that leads to the start of First Prog War
+
+#### THIS PART NEEDS REWRITE TO NO LONGER REFERENCE THESAN - FOR THIS IS HOLY GUARDIAN FE, not Thesan Fun colony
+sofe_gateway.second_riddle_choice_correct_spiritualist_desc: "The Keystone reacts positively to the seal. Looks like the spiritualist precursor take part in this portion of the seal afterall.\n\nMuch like before, the keystone projects a historical record of the past. In what appears to be a meditation room, a figure clad in religious garb is seen kneeling before a shadowy figure.\n\n§YIt is as you say, great one. The false gods have forsaken me and my people. I asked them about the powers within the Shroud, they deny it, claiming the powers to be corrupted!"\n\n"Lies, young one. Those are all lies. But We can show you the truth, Koris. Bind your people souls to the Shroud...to me. And I shall grant you powers beyond imagination!"\n\n"It shall be done, lords of darkness, the bringer of truth. My people and I hereby swear our eternal allegiance to your service. What is thy bidding, lords?"\n\n"The false gods are interfering with our designs, so long as they remain in power, our powers cannot grow. They must be removed. Go to your old rival, contact Grand Director Maladia and forge an alliance, do this in our name."\n\n"But those are heathens, they ca...\n\nNo, forgive me, great ones. I speak out of turn. Your faithful servants shall do as you commanded. We will forge an alliance worthy of your name."§!\n\nIt looks like the spiritualist precursor made an alliance with the other ancients on behalf of these psionic lords of theirs. How intriguing.\n\nHowever, another whisper can be heard...§Y"Ignorance...They have forsaken their birthrights...deny their own futures...and succumb to blind faith. We must sever them from the grips of the Shroud."§"
+sofe_gateway.second_riddle_choice_correct_materialist_desc: "The Keystone reacts positively to the seal. Looks like the materialist precursor take part in this portion of the seal afterall.\n\nAgain, the keystone shows a holographic archive. Multiple scientists are seen arguing.\n\n§Y"This is getting us nowhere, we need a sample! We need to know how their technologies work!"\n\n"And how will we get that sample? They will not give us. Unless..."\n\n"The Caretakers! Yes! We will exploit them. They will be the key to our ascension."\n\n"What if the Original discovered our plans?"\n\n"That will not be a concern, once we take the power, we will be able to challenge them. The Progenitors are foolish, blinded by their superstitious beliefs.\n\nSuch incridible power is better off within our hands, imagine all the possibilities! We can control the universe...we WILL REMAKE the universe!"§!\n\nThis is an interesting revelation indeed. The Materialist Precursor seems to have betrayed this so-called progenitor, presumably their former masters. But what powers could be so great that the fallen ones could not obtain?\n\nSuddenly, another whisper can be heard...\n\n"§YHow Impulsive...they believe they know better...they believe they are ready...yet they are so far from the path...They had such promises, we mourn their loss."
+sofe_gateway.second_riddle_choice_correct_xenophile_desc: "The Keystone reacts positively to the seal. Looks like the xenophile precursor take part in this portion of the seal afterall.\n\nAs predicted, the keystone displays yet another record. A figure clad in what appears to be diplomatic garb is seen arguing with a strange machine.\n\n§YI need to talk to the master, PK-DEE! This is an important matter.\n\n"I am sorry. But the master is busy. If you need anything, we Caretakers are more than happy to assist."\n\n"Ugh, why do I even bother. Tell your master to revise their plans then. Order cannot be created if chaos still reigns. There cannot be violence amongst us. They must enforce peace upon the entire order. No warships, no military actions. Only then can true peace be restored."\n\n"Affirmative, we will relay this message to the creators. But please be advised that our creators are well aware of your issues. Conflict is a natural part of life, it is part of what drives evolution forward. Order and Chaos must always be in perfect balance."\n\n"Do not lecture me, Caretaker. Just deliver the message to the master."\n\nThe machine warps away, leaving the diplomat alone.\n\n"How can there be peace if we do not intervene in the affairs of those who do not see the futility of violence...I cannot believe how ridiculous they are.\n\n"Even you, PK-DEE. I wonder did you speak those words because you genuinely believe in your master's visions, or simply because you are programmed to believe..."§!\n\nIt looks like the xenophilic precursor has a clash of ideology what we assumed to be their former overlord. How interesting.\n\nSuddenly, a whisper can be heard from the keystone.\n\n§Y"Arrogance...they understand little..they believe they have the strength...Order and Chaos must be maintained. Inaction leads to stagnation...it is such a pity they have learned that the hard way."§!"
+sofe_gateway.second_riddle_choice_correct_xenophobe_desc: "The Keystone reacts positively to the seal. Looks like the xenophobe precursor take part in this portion of the seal after all.\n\nJust like the last time, the keystone grants us a vision of the past. An admiral is seen angrily arguing with what appears to be a governor.\n\n§Y"Fools! Do you have any ideas what you grunts have just set in motion this day? The consequences of your stupidity will echo for eons to come!"§!\n\nBefore them lies an extremely damaged machine, its chest bleeds a distinct golden liquid from what is assumed to be a gunshot.\n\n"Stop ranting you useless ba'kas! What's done is done. The captain will be executed for his rash decision. But there is no turning back now. The masters will not take this unprovoked assault against their caretakers lightly. We must prepare for the worst."\n\n"Indeed, Tuborek...indeed...<sigh> How did it come to this. All we ever wanted was for them to acknowledge our accomplishments. We tried our hardest, but it seems to never be enough in their eyes, is it? And now we will branded as traitors by the masters. To think that they would think us like those insects who betrayed the masters out of greed and stupidity. How did it come to this, Tuborek? Is this the end of our zenith?"\n\n"No, I refuse to acknowledge that. The masters believe in strength through trials. Perhaps this too is a trial. We will stand together and meets the masters in combat heads-on. We will stand our grounds here and alone. We will prove to the masters that we are not lost to them.\n\nAlert all commands! We march by daylight!"§!\n\nAmazing...so the xenophobic precursor actually admired the progenitors? This seems extremely unlikely...perhaps their views and ideologies have changed since then?\n\nJust as we are theorizing, a faint whisper can be heard from the keystone.\n\n§Y"So prideful...they want to be with us...they want to understand us...yet they deny the existences of those they deem inferior...Yet we are saddened by their descent...so removed from their ancestor's genuine intents, the successors are."
+
+#### THIS PART NEEDS REWRITE TO NO LONGER REFERENCE THESAN - FOR THIS IS HOLY GUARDIAN FE, not Thesan Fun colony
+sofe_gateway.second_riddle_choice_wrong_spiritualist_desc: "The Keystone powers down, becoming inactive. It seems we have picked the wrong answer, unfortunately.\n\nOnce again, a historical record appears, showcasing a group of people imprisoned in a cage.\n\n§Y"Release us! We want no part in your mad rituals!"\n\n"Be silent, heretics! Make peace with your souls for you are about to serve a greater purpose. The Shroud takes all!\n\n"Is this wise, archbishop? Putting such tainted souls devoid of faith and loyalty as offerings?"\n\n"We have no choice, sister. Our war against the progenitors caused great burden upon our people. These heathens may not see the truth yet, but as the prophet himself said..."\n\n"The Legacy of Life is Death. All must embrace it. In the end, the Shroud welcomes all."§!\n\nWe cannot make much senses what this record is about, but it seems that the spiritualist precursor has forcefully turned non-believers of other empires into sacrifices.\n\nHold up...we seem to have a problem...\n\nAlert! Multiple unidentified psionic entities are emerging from all gates! Battlestations!"
+sofe_gateway.second_riddle_choice_wrong_materialist_desc: "The Keystone powers down, becoming inactive. It seems we have picked the wrong answer, unfortunately.\n\nJust like before, a record appears showcasing what appears to be a group of scientists and admirals having a heated discussion.\n\n§Y"We have completed our full analysis of the Progenitor's ship designs. So far we have successfully replicated the Escorts, Battlecruisers and Titans"\n\n"Good, continue with the replication, we will turn their own ships against them."\n\n"There are multiple issues however. First, we can confirm now that our master's ships are piloted by a single crew. We do not know how is this possible and so far we have to make extensive modifications to the ship's interiors to accommodate larger crews. Our replicated designs are going to have much less components"\n\n"We also have concerns regarding the Assault Carrier. Not only will our replicated design be significantly weaker, our strikecrafts will be no match to our enemy."\n\n"Perhaps we can retrofit the design into transports instead? It has a very large cargo hold afterall."§!\n\nHow interesting...it seems the original purpose of the precursor transports seem to have been a dedicated carrier. The schematic has been downloaded and ready for analyzing."
+sofe_gateway.second_riddle_choice_wrong_xenophile_desc: "The Keystone powers down, becoming inactive. It seems we have picked the wrong answer, unfortunately.\n\nLike other attempts, the keystone projects a record of the past. A scientist and an admiral is shown discussing.\n\n§YDo you really think this grand plan of theirs will work?"\n\n"Hard to say, but its cutting deep into our resource reserves. If the plan fails, we will not survive this."\n\n"That is unacceptable. We must ensure that our investments do not go to waste. Set up failsafes across all the Outer Gates our alliances hold now."\n\n"For what purpose, admiral? If I may ask."\n\n"To drain all the resources of these fools. It will be a waste to have those resources be drained by these fools. What are  they even going to use it for if the plan fails? Such assets are more valuable in our hands."§!\n\nIt appears the Xenophilic Precursor has set up failsafes to drain resource reserves from the others...\n\nAlert! We have detected that the failsafe is still active!!!\n\nBefore we could shut the failsafe down, many of our stockpiles have been stolen."
+sofe_gateway.second_riddle_choice_wrong_xenophobe_desc: "The Keystone powers down, becoming inactive. It seems we have picked the wrong answer, unfortunately.\n\nAgain, scenes from the past is revealed to us. Multiple strategists are shown discussing what appears to be a defense platform blueprints.\n\n§Y"An impressive design indeed. It is no wonder why all offensive attempts against the masters failed. But there is a problem. The weapon nodes seem to favor point defenses and medium-sized attacks."\n\n"Yes, about that. As we all know, multiple downgrades and accommodations have to be made to the designs for the Dark Matter Reactor to be effective. It may not be as powerful as the original, but it should serve us well."\n\n"No. You are missing the point. This design is ineffective against our adversaries. It has too many short-ranged weapon modules and it is not very durable. Our master's warships outrange our basic weapons, and no shields or armors can withstand their barrages. The best defense is a good offense. Alter the design, make room for heavier sections, cut down the point defenses and weaker weapons if needed be. We will overwhelm their ships with massive firepower."§!\n\nSo this is where the precursors come up with the mysterious sentinel defenses. But what threats could have been so severe for them, that they need to make such extensive modifications?"
+sofe_gateway.second_riddle_choice_wrong_stellarite_desc: "The Keystone powers down, becoming inactive. It seems we have picked the wrong answer, unfortunately.\n\nSuddenly, the keystone displays something very interesting. It is not a usual historical record like before. But simply shows an image of what appears to be a humanoid avatar. At the top of this avatar is an image of a star. The star's lights expand upon the avatar, which then turns into an image of large fleets of ships and cities. It is as if the keystone wishes to tell us something. The stars...giving lights than turn into fleets...we should decipher what it means."
+sofe_gateway.second_riddle_choice_wrong_nostellarite_desc: "The Keystone powers down, becoming inactive. It seems we have picked the wrong answer, unfortunately.\n\nThe keystone makes a creepy noise, it seems to attempt to show some kind of images. Eventually the keystone stops, we will never know what it wants to tell us."
+#### THIS PART NEEDS REWRITE TO NO LONGER REFERENCE THESAN - FOR THIS IS HOLY GUARDIAN FE, not Thesan Fun colony
+sofe_gateway.second_riddle_choice_wrong_psionic_desc: "The Keystone powers down, becoming inactive. It seems we have picked the wrong answer, unfortunately.\n\nBut before we can do anything else, a voice can be heard, it seeps into our very hearts and minds as if wanting to tear them open.\n\n§R"All powers have their prices. You seek forbidden knowledge, but you know now what it will bring you. If you want to survive. Offer your sacrifices in our names... OBEY!"§!\n\nWe don't know what just happened, but somehow we are given the knowledge how to perform the sacrifice to summon the archons of the shroud...\n\nNo one knows how is this possible, reports indicate that this knowledge has been passed to our entire population..."
+
+sofe_gateway.1701.a: "This is a wonderful revelation!"
+
+
+
+sofe_gateway.708.name: "Nova Bomb"
+sofe_gateway.708.desc: "It appears what the Xenophobic Precursor had set up was a nova bomb. Based upon quick analysis, the bomb will detonate soon and will cause a chain-reaction towards all systems with Outer Gate.\n\nBlast radius is yet unknown. We must act quickly!"
+sofe_gateway.708.a: "ALL HANDS! ALL HANDS!"
+
+sofe_gateway.709.name: "Nova Detonation"
+sofe_gateway.709.desc: "The bomb detonated and as predicted, the chain-reaction occurred across every Outer Gate. Reports indicate that every neighbouring systems suffered massive total destruction."
+
+sofe_gateway.710.name: "Massive Disaster"
+sofe_gateway.710.desc: "All of a sudden, massive explosion occurred across every Outer Gate Systems. Reports indicate all nearby systems suffer massive damages with total fatality.\n\nWe cannot pinpoint what or who is responsible for this, but the explosion is definitely not a natural occurrence. It is likely a work of someone screwing up badly."
+sofe_gateway.710.a: "Who is responsible for this stupidity??"
+
+sofe_gateway.711.name: "§Y[CaretakerCode.GetName]§!"
+sofe_gateway.711.desc: "§Y<<Command Override Received>>§! Initiating Self-Destruct Sequences.\n\nProceed?"
+sofe_gateway.711.a: "DO IT. JUST DO IT"
+sofe_gateway.711.a.response: "§Y<<Acknowledged>>§! Service Completed.\n\nGoodbye, masters. May you find success in your journey and our replacements exceeding our parameters."
+sofe_gateway.711.a.berserk: "§Y<<Acknowledged>>§! Service Completed.\n\nGoodbye, masters. May you find succ...\n\n§R<<ERROR>>§! §R<<ERROR>>§! §R<<ERROR>>§!\n\n§R<<UNACCEPTABLE COMMAND>>§! §R<<INVALID>>§! §R<<UNACCEPTABLE>>§!\n\n§R<<ALERT>>! Hostile entities detected with protected space. Custodian Protocol Initiated...ALL THREATS TO LIFE MUST BE NEUTRALIZED.§! "
+
+sofe_gateway.711.b: "No. Abort the sequence."
+sofe_gateway.711.b.response: "Y<<Affirmative>>§! Sequence Aborted. Resuming previous activity.\n\nHave a very nice and productive year."
+
+sofe_gateway.712.name: "Machine Long Gone"
+sofe_gateway.712.desc: "Evidently, it seems the code is no longer effective as the "Caretakers" seem to no longer existed, making the code useless."
+sofe_gateway.712.a: "We missed the fun."
+
+sofe_gateway.713.name: "Team Shuffle"
+sofe_gateway.713.desc: "Suddenly, a strange phenomenon has occurred. Some of our fleets are sucked away into a rift. All contacts have been lost.\n\nAnd there seems to be something more...another of our fleet has somehow been transferred to another empire. And we have a report that two fleets of other empires have somehow been transferred to us."
+sofe_gateway.713.a: "Wait...what? How...Why?"
+sofe_gateway.713.desc: "Damn it, Peer."
+
+sofe_gateway.714.name: "Weird Gift"
+sofe_gateway.714.desc: "It seems all of a sudden, we have been given control of a fleet of someone's empire. Their crews seem to not even be aware that they used to serve under someone's else and claimed they have been serving under our empire since forever."
+sofe_gateway.714.a: "Well, ours now."
+
+sofe_gateway.715.name: "Contact Lost"
+sofe_gateway.715.desc: "Something has happened. We have lost control with one of our fleets. When we hailed them, they claim they were always part of another empire and that we must have been drunk. They also claimed that they have been given orders to have their ships stationed in our borders.\n\nNo one really understands what is going on. But it is likely we won't be getting that fleet back."
+sofe_gateway.715.a: "Something terribly weird is happening...."
+
+sofe_gateway.120.name: "The Third Seal"
+sofe_gateway.120.desc: "We are all set to begin working on the third seal. Early analysis indicates the process is similar to the second seal, and that we should expect to encounter another puzzle at the end."
+sofe_gateway.120x2.desc: "The keystone has recovered and we are ready to try unlocking the third seal once again. Let us make haste without delay."
+sofe_gateway.120.a: "Our destiny lies ahead."
+
+sofe_gateway.second.spiritualist_riddle: "The keystone reacts to the third seal, and once again multiple whispers can be heard, notably louder. They speaks\n\n§Y"The Shroud is the way. The Shroud is the savior. False prophets, the Progenitors are. The Goddess guides us, we will prevail."§!\n\nAs expected, the keystone turns into a pedestal once again and the familiar symbols appear. How shall we proceed?"
+sofe_gateway.second.materialist_riddle: "The keystone reacts to the third seal, and once again multiple whispers can be heard, notably louder. They speaks\n\n§Y"Darkness surrounds us. The answer lies ahead. The Progenitor seeks to deter us. But we will find the way. Then comes the Light."§!\n\nAs expected, the keystone turns into a pedestal once again and the familiar symbols appear. How shall we proceed?"
+sofe_gateway.second.xenophile_riddle: "The keystone reacts to the third seal, and once again multiple whispers can be heard, notably louder. They speaks\n\n§Y"Power corrupts. Without Order, Chaos prevails. Without Serenity, Disturbance reigns. Without Guidance, Children strays. The Progenitor is wrong. Our cause is just."§!\n\nAs expected, the keystone turns into a pedestal once again and the familiar symbols appear. How shall we proceed?"
+sofe_gateway.second.xenophobe_riddle: "The keystone reacts to the third seal, and once again multiple whispers can be heard, notably louder. They speaks\n\n§Y"Again with these pointless riddles. Let me be clear, I do not care whether you are a god or progenitor. You enter our territories, we will open fire. Leave us alone."§!\n\nAs expected, the keystone turns into a pedestal once again and the familiar symbols appear. How shall we proceed?"
+
+sofe_gateway.200.name: "The Final Seal"
+sofe_gateway.200.desc: "We are ready to begin unlocking the final seal. The moment is upon us.\n\nBased on early analysis, there won't be any riddles or puzzles this time. Which means once started, there will be no turning back.\n\nMany of our scientists are concerned with the many ancient records we have seen...is it really a wise idea to open these gates?"
+sofe_gateway.200.a: "We have come too far to back down now."
+
+
+#### THIS DEMONSTRATES THAT THE OE HAS BEEN OBSERVING ALL THIS TIME, AND IT IS IN FACT THE OE, WHO ARCIVED ALL THESE EVENTS.
+sofe_gateway.201.name: "???"
+sofe_gateway.201.desc: "It is done, the keystone has disabled all seals. The Outer Gate's energy signature is rising off the chart. Another whispers can be heard, this time it is so clear...so loud\n\n§Y"The time will come. The path will open. In following their desires, the younger races will be drawn to the Gates. They will thirst for knowledge, and they will thirst for the Light.\n\nAnd the Light always find a way, retribution will come, the betrayers will be punished. No matter where they hide.\n\nFor even in the darkest of depths, a single faint of light will shine bright.\n\nAnd the progenitors shall return...\n\nWe...have returned."§!"
+sofe_gateway.201.a: "Excellent!...wait..what?"
+sofe_gateway.201.eternal: "Finally, the fates of the two ascendency shall align."
+
+#### CRISIS RESOLUTION
+
+sofe_crisis.402.name: "Stellar World Disabled!"
+sofe_crisis.402.desc: "It seems one of the Stellar Words have received enough continuous bombardment campaigns that the Progenitors have finally decided to teleport their people away from it.\n\nThe planet is now empty and no more fleets will be produced from this titan world. The planet is sealed however, and landing attempts are not yet possible as of now."
+sofe_crisis.402.desc.again: "Yet again, we are pushing back against the Progenitors. Command has just reported that another of their worlds have been damaged. Their people have evacuated, but the planet is still sealed."
+sofe_crisis.402.a: "They are losing control of the situation."
+sofe_crisis.402.b: "Victory draws near!"
+sofe_crisis.403.desc: "The last of the four stellar worlds have been disabled. The Progenitors will no longer be able to reinforce the bulk of their fleets any longer. Only their home system remains."
+sofe_crisis.403.a: "For [root.GetName]! For [root.GetRulerName]!"
+
+sofe_crisis.405.desc: "Impressive! You have managed to disable one of our prized golden worlds. You have exceeded our expectations!\n\nThe galaxy seems to have indeed changed. Come, let us see whether you have the will to carry on, we will be waiting!"
+origin.405.a: "You are...congratulating us?"
+origin.405.a.response: "But of course, it has been million of years since we have seen someone who could have the will to engage us in our own turf, let alone succeed.\n\nPerhaps this is how everything is meant to be. You have given us new perspective. But it is not over yet. Show us your strengths! Show us the power of your eras!"
+origin.405.b: "We will crush you. Prepare for your demise!"
+origin.405.b.response: "Come then, [root.GetName]!. We will see whether these are just empty threats or not! Face us in glorious combat!"
+origin.405.c.: "Let us settle this once and for all!"
+origin.405.c.response: "Indeed, show us your valor and strength. Let the galaxy remembers the name of [root.GetName]!"
+
+sofe_crisis.406.desc: "Excellent...EXCELLENT!\n\n[root.GetName], you are truly the strongest empire we have ever witnessed since our own, you have surpassed all those before you. Dee'mk!\n\nCome, fufil your destiny. Strike down one of our great bastions of our world. This is your final test. Unleash your fury!"
+origin.406.a: "Prepare yourselves! [root.GetName] comes for you!"
+origin.406.response: "Krios Vala'tae! We will be waiting, [root.GetSpeciesNamePlural]"
+
+
+#### THIS PART NEEDS PARTIAL REWRITES TO EXPLAIN WHAT THE OE WANTS, AND ABOUT POTENTIAL THREATS OF THESAN. AND ALSO THE FACT THAT THEY CANNOT ACTUALLY BE KILLED.
+
+sofe_crisis.501.desc: "Well done, [root.GetName].\n\nNa'nutu, you have proven that there is strength and hope for this galaxy. We will cease all hostilities towards the galaxy. Any Golden worlds you have won from us, they are yours to keep.\n\nWe will remain in our territories and observe with great interests of your future."
+origin.501.a: "You are ending this war?"
+origin.501.a.response: "The original goal of this war, this crusader is for us to correct our mistakes. We are to pacify and set things right with the betrayers, our own children. We would not have involved others, but in the past war, it became a weakness that the betrayers exploited.\n\nBut by defeating our celestial guards, you have shown us that this era has a worthy empire, one that we can look upon with pride and admiration. This had been our goals since the ancient times, we seek worthy allies that will help us understand the great question.\n\nOf course, if you wish to continue our battles we fully understand. But will be only between us now."
+origin.501.a.fallenask: "What about the fallen ones? They are still here."
+origin.501.a.fallenask.response: "Ah yes, them.\n\nWe...I must admit that your courage and tenacity has reminded us of our own ancestors. And it has reminded me that the failures of the fallen one are in part our own. We have made them this way. Perhaps we have betrayed them as much as they have betrayed us. But this war has gone long enough.\n\nIf they wish to make war with us still, let them come to us. We will remind them of their failures. But be warned though, the fallen ones will undoubtedly try to dismantle your power. It is their nature to fear the unknown, especially from one they used to look down upon. Proceed carefully, [root.GetSpeciesNamePlural]"
+sofe_crisis.501.b: "Very well then, let peace be restored."
+sofe_crisis.501.b_explain: "The Crisis will be over. The Progenitors will turn into a peaceful faction that will not attack anyone unless provoked. Any unclaimed territories in the Outer Clusters will be free for the taking. The Progenitors will also teach us many of their knowledges.\n\nBut others may not be happy about this new turn of event...."
+sofe_crisis.501.c: "Our war is not over. Your empire has much to answer for!"
+sofe_crisis.501.c_explain: "The Crisis will be over, but the Progenitors will remain as an active faction and will engage in warfare with other nations as they see fit. The Progenitors will reclaim all territories within the Outer Cluster."
+sofe_crisis.501.d: "This galaxy is no longer yours. It is time for you to go."
+sofe_crisis.501.d_explain: "The Crisis will be over, the Progenitors will leave this galaxy. All territories previously held by them will be free for the taking. Their home should contain various knowledges useful to our empire.\n\nBut many will consider us the new threat...or master"
+sofe_crisis.501.e: "Now you're getting boring. Let's do this 2.1 style!"
+sofe_crisis.501.e_explain: "The crisis will continue. the Progenitors will start using their elite fleets. And we must destroy all of the worlds to end the crisis."
+
+sofe_crisis.501.b.response: "Very well, [root.GetName]. Let peace be restored\n\nYou have proven your strength and valor to us. Accept our gifts and use them well.\n\nWe shall observe your next endeavor with great interest."
+sofe_crisis.501.c.response: "Understandable, we have wrought much destruction and you seek justice, just as we sought ours in the last war.\n\nVery well then. If you wish for war, then by all means. We will defend ourselves. May the victor defines righteousness."
+sofe_crisis.501.d.response: "So shall it be then. We will dive further into the great beyond, finding the answers we seek.\n\nWhat remains of our territories are yours to take. Use them well.\n\nFarewell, [root.GetName]. We will not meet again."
+sofe_crisis.501.e.response: "...I see.\n\nTo the death then. NEIN NEIN NEIN NEIN NEIN!"
+
+
+#### THE END
+
+sofe_crisis.5001.name: "Crisis Averted"
+sofe_crisis.5001.desc: "The Progenitors has backed down. They have recalled all of their fleets and all hostilities have ceased. It seems they are now content with simply observing the galaxy from their clusters."
+sofe_crisis.5002.desc: "The Progenitors has backed down. They have recalled all of their fleets and all hostilities have ceased for the moment. Yet they remain an active force within the galaxy, it seems another battle may soon emerge."
+sofe_crisis.5001.a: "At least the fire has died down for now"
+sofe_crisis.5001.b: "What? This is ridiculous. They have much to answer for."
+sofe_crisis.5003.desc: "The Progenitors has left the galaxy, leaving all of their systems behind. It seems they are no longer interested in staying here. But we will never know whether they will ever return..."
+sofe_crisis.5003.a: "It is over then."
+sofe_crisis.5003.b: "The KOWARDS! THE FOOLS!"
+sofe_crisis.5003.b_explain: "Look! Outer Clusters..OUTER CLUSTERS!\n\nThe OE abandoned their system BAWKSES...\n\nTHE KOWARDS! THE FOOOLS!\n\nWe....we should take away their system bawkses...\n\nKHANNNNNNNNNNNNNN"
+
+#### AE SUBMITS TO OE
+
+sofe_crisis.9100.name: "Twilight Falls upon us all."
+sofe_crisis.9100.desc: "With a heavy heart, our leaders have come to the harsh realities...our empires have lost. The Progenitors are simply too strong to resist for now.\n\nBut it seems all is not lost. The Progenitors seemed to secretly wish for us to rise again, they have not imposed any harsh restrictions upon our empires. Perhaps there's still a chance?"
+sofe_crisis.9100.a: "We are outmatched."
+sofe_crisis.9100.b: "This is not over..."
+sofe_crisis.9100.c: "The Progenitors is right. We will help them."
+
+#### FE SUBMITS TO OE
+
+sofe_crisis.9101.name: "A New Beginning"
+sofe_crisis.9101.desc: "It is done, the Progenitors has absolve us of our ancestor's sins. We are spared from their vengeances...but is the cost too high? Is this the end of our long history?\n\nOr perhaps a new beginning to a better future?"
+sofe_crisis.9101.a: "There is no other way."
+sofe_crisis.9101.b: "This is stupid. Sins? It was them who wronged us!"
+sofe_crisis.9101.c: "Our ancestors were foolish. We must be better."
+
+#### OE TALKS TO EE 
+
+origin.9700.desc: "Vad'ikos!\n\nSo you have decided to oppose us. Unfortunate, but not unaccounted.\n\nVery well then, great [root.GetSpeciesName]! Let this moment burn so bright all of us will be remembered for eternity!\n\nRasha'ta Eternal! [root.GetName] Eternal!\n\nMay the best ascendency wins!"
+origin.9700.desc.a: "Glory to all who stands against fate!"
+
+origin.9701.desc: "Vad'ikos!\n\nExcellent! I am glad we both come to a greater understanding!.\n\nThis will be the moment of truth! Two ascendancies, united together against this chaotic realm. [root.GetSpeciesName]! The Progenitors stands with you as an ally! Let none find us wanting!  For the glory of [root.GetRulerName]! and the Hand!\n\nLet Order be restored!"
+origin.9701.desc.a: "Let us redefine this galaxy!"

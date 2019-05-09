@@ -1,0 +1,26 @@
+﻿l_russian:
+
+ #Edicts
+ edict_kingmaker:0 "Отметить для освобождения"
+ edict_kingmaker_desc:1 "Этот эдикт позволяет пометить выбранные миры для освобождения в качестве вассала."
+ edict_kingmaker_choose_ethics:0 "Выбор этических принципов вассалов"
+ edict_kingmaker_choose_ethics_desc:1 "Это позволит нам выбрать этические принципы наших вассалов, чтобы они продолжали приносить пользу."
+ edict_kingmaker_choose_gov:0 "Выбор правительства вассалов"
+ edict_kingmaker_choose_gov_desc:1 "Это позволит нам выбрать правительство наших вассалов, чтобы они продолжали приносить пользу."
+ 
+ #Decisions 
+ decision_kingmaker:0 "Пометка планеты для освобождения"
+ decision_kingmaker_desc:1 "Эта планета выделена и помечена для возможного освобождения в качестве вассала."
+ decision_kingmaker_effects_short:0 "Отмечает планету для освобождения."
+ decision_remove_kingmaker:0 "Убрать метку с планеты"
+ decision_remove_kingmaker_desc:1 "Отмена подготовки планеты к освобождению в качестве вассала."
+ decision_release_kingmaker:0 "Освободить выбранные планеты"
+ decision_release_kingmaker_desc:1 "Выбранные планеты будут освобождены в качестве вассального государства."
+ decision_tech_kingmaker:0 "Передача технологий вассалам"
+ decision_tech_kingmaker_desc:1 "Эдикт о передаче всех наших известных технологий нашим вассалам, чтобы они оставались сильными."
+ 
+ 
+ #Modifiers
+ kingmaker_colony:0 "Метка освобождения"
+ kingmaker_colony_desc:0 "Эта планета была отмечена для возможного освобождения."
+ 

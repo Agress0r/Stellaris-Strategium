@@ -1,0 +1,249 @@
+﻿l_russian:
+
+####################################
+# 	SPECIAL PROJECTS
+####################################
+
+MIGRATING_VENERABLE_COLONY_1_PROJECT:0 "Подготовка транспорта"
+MIGRATING_VENERABLE_COLONY_1_PROJECT_DESC:0 "Подготовка транспортного корабля достаточно большого для перевозки части почтенной колонии в ваш мир в [Root.GetName]."
+MIGRATING_VENERABLE_COLONY_2_PROJECT:0 "Транспортировка колонии"
+MIGRATING_VENERABLE_COLONY_2_PROJECT_DESC:0 "Почтенная колония готова к транспортировке в [Root.GetName]."
+
+
+####################################
+# 	EVENT CHAINS
+#################################### 
+
+migrating_venerable_colony_chain_title:0 "Миграция Почтенных"
+migrating_venerable_colony_chain_desc:0 "Часть почтенной колонии в вашем родном мире хочет мигрировать в [Root.GetName]."
+
+
+####################################
+# 	Buildings and Districts
+####################################
+
+building_citadel:0 "Цитадель"
+building_citadel_desc:1 "Массивная укрепленная цитадель с расширенным гарнизоном и подземными сооружениями, хорошо защищенная от орбитальной бомбардировки."
+building_foundry_slave:0 "Кузницы сплавов"
+building_foundry_slave_desc:1 "Эти массивные кузницы могут производить сплавы в огромных количествах."
+building_private_clinic:0 "Частная клиника"
+building_private_clinic_desc:1 "Наши известные генные медики могут предложить лучшее медицинское лечение, которое можно купить за деньги."
+building_backally_clinic:0 "Нелегальные клиники"
+building_backally_clinic_desc:0 "Наши врачи хорошо обучены экспериментальному и немного неэтичному медицинскому лечению."
+building_corp_robot:0 "Частный завод робототехники"
+building_corp_robot_desc:0 "Высокотехнологичные фабрики, где опытные робототехники собирают новейшие модели роботов."
+building_corp_robot_crime:0 "Тайный завод робототехники"
+building_corp_robot_crime_desc:0 "Скрытые фабрики, на которых опытные робототехники собирают новейшие модели роботов для богатейших покупателей."
+building_corp_construction:0 "Частные строительные подрядчики"
+building_corp_construction_desc:0 "Наши квалифицированные строительные бригады могут построить все, что вы пожелаете."
+building_corp_construction_effect_desc:0 "Владелец филиала получает §G500§! £energy£ Энергии каждый раз когда на этой планете строится новый район или улучшение."
+building_corp_construction_crime:0 "Синдикат строительных подрядчиков"
+building_corp_construction_crime_desc:0 "С помощью взяток и поддельных документов наши строительные бригады могут захватить значительную часть строительного бизнеса этой планеты."
+
+district_industry_uncapped:0 "Промышленный район"
+district_industry_uncapped_plural:0 "Промышленные районы"
+district_industry_uncapped_desc:0 "Промышленный сектор, в котором металлурги и ремесленники занимаются своей работой."
+
+####################################
+# 	Jobs
+####################################
+
+planet_elders:0 "Почтенные Старейшины"
+job_venerable_elder:0 "Почтенный Старейшина"
+job_venerable_elder_plural:0 "Почтенные Старейшины"
+job_venerable_elder_desc:0 "Почтенные старейшины нашего вида, эти грибные колонии простираются на многие километры. Эти древние существа видели расцвет и падение целых цивилизация и являются бесценным источником мудрости для нашего народа."
+job_venerable_elder_effect_desc:0 "£job_venerable_elder£ $job_venerable_elder_plural$ производит £unity£ §Y$unity$§! и немного увеличивает производство специалистов и рабочих."
+mod_job_venerable_elder_add:0 "Деятельность: $job_venerable_elder$"
+mod_job_venerable_elder_per_pop:0 "§G+1§! $job_venerable_elder$ деятельности на $VALUE$ населения"
+mod_job_venerable_elder_per_pop_short:0 "\n§G+1§! £mod_job_venerable_elder_add£ на $VALUE$ £pop£"
+
+job_servant_noble:0 "Слуга"
+job_servant_noble_plural:0 "Слуги"
+job_servant_noble_desc:1 "Слуги выполняют различные работы по дому для своих хозяев."
+mod_job_servant_noble_add:0 "Деятельность: $job_servant_noble$"
+
+job_natural_hunter:0 "Охотник"
+job_natural_hunter_plural:0 "Охотники"
+job_natural_hunter_desc:1 "Эти профессиональные охотники преследуют опасных зверей, которые обитают на этой планете."
+mod_job_natural_hunter_add:0 "Деятельность: $natural_hunter$"
+
+job_servitor_caretaker_drone:0 "Заботящийся дрон"
+job_servitor_caretaker_drone_plural:0 "Заботящийся дроны"
+job_servitor_caretaker_drone_desc:1 "Работа заботящихся дронов состоит в том чтобы гарантировать что все потребности наших $job_bio_trophy_plural$ удовлетворены."
+mod_job_servitor_caretaker_drone_add:0 "Деятельность: $job_servitor_caretaker_drone$"
+
+job_odd_factory_drone:0 "$job_odd_factory_worker$"
+job_odd_factory_drone_plural:0 "$job_odd_factory_worker_plural$"
+job_odd_factory_drone_desc:1 "$job_odd_factory_worker_desc$"
+mod_job_odd_factory_drone_add:0 "Деятельность: $job_odd_factory_drone$"
+
+job_hive_queen:0 "Королева Улья"
+job_hive_queen_plural:0 "Королевы Улья"
+job_hive_queen_desc:1 "Королевы Улья дают новую жизнь улью. Они являются волей проявления Разума."
+mod_job_hive_queen_add:0 "Деятельность: $job_hive_queen$"
+
+job_corvee_labor:0 "Разнорабочий"
+job_corvee_labor_plural:0 "Разнорабочий"
+job_corvee_labor_desc:1 "Эти разнорабочие выполнять несложные работы для государства."
+mod_job_corvee_labor_add:0 "Деятельность: $job_corvee_labor$"
+mod_job_corvee_labor_per_pop:0 "§G+1§! $job_corvee_labor$ деятельности на $VALUE$ населения"
+mod_job_corvee_labor_per_pop_short:0 "\n§G+1§! £mod_job_corvee_labor_add£ на $VALUE$ £pop£"
+
+job_master_coordinator:0 "Основная контролирующая программа"
+job_master_coordinator_plural:0 "Основные контролирующие программы"
+job_master_coordinator_desc:0 "Основная управляющая программа обеспечивает выполнение воли главного компьютера."
+mod_job_master_coordinator_add:0 "Деятельность: $job_master_coordinator$"
+
+
+####################################
+# 	Armies
+####################################
+
+machine_assault_synth_3:0 "Боевая Мегамашина"
+machine_assault_synth_3_plural:0 "Боевые Мегамашины"
+machine_assault_synth_3_desc:0 "Эта колоссальная боевая машина возвышается над полем боя. Её массивная огневая мощь превосходит многие армии. Уничтожить одного из таких колоссов крайне сложно."
+
+
+####################################
+# 	Decisions and Edicts
+####################################
+
+decision_subterranean_expansion:0 "Подземное Расширение"
+decision_subterranean_expansion_effects:0 "Мы начнем раскопки для строительства новых подземных районов.\nУйдет около §Y6 Месяцев§! для обнаружения подходящего места, и еще §Y18 Месяцев§! до окончания работ."
+decision_subterranean_expansion_desc:0 "Мы начнем раскопки для строительства новых подземных районов, что увеличит полезную площадь планеты."
+decision_mastery_of_nature_subterranean:0 "$decision_subterranean_expansion$"
+decision_mastery_of_nature_subterranean_desc:0 "$decision_subterranean_expansion_desc$"
+decision_subterranean_expansion_removal:0 "Устранение подземных пустот"
+decision_subterranean_expansion_removal_effects:0 "Мы должны заполнить наши подземные пещеры, если мы хотим превратить этот мир в Планету-Город."
+decision_subterranean_expansion_removal_desc:0 "Мы должны заполнить наши подземные пещеры, если мы хотим превратить этот мир в Планету-Город."
+decision_hunting_preserve:0 "Создать охотничий заповедник"
+decision_hunting_preserve_desc:0 "Специально построенные и поддерживаемые охотничьи заповедники дадут нашим гражданам возможность отточить свое мастерство."
+decision_remove_hunting_preserve:0 "Удалить охотничий заповедник"
+decision_remove_hunting_preserve_desc:0 "Тщательно удалить заповедник опасной дикой природы из этого мира."
+decision_nature_preserve:0 "Создать природный заповедник"
+decision_nature_preserve_desc:0 "Выделить часть планеты как природный заповедник для наслаждения наших граждан."
+decision_remove_nature_preserve:0 "Удалить природный заповедник"
+decision_remove_nature_preserve_desc:0 "Удалить природный заповедник с это планеты чтобы создать больше места для расширения районов."
+decision_corvee_public_works:0 "Общественные работы"
+decision_corvee_public_works_desc:0 "Отправить наших граждан на общественные работы."
+
+edict_construction_campaign:0 "Инфраструктурные проекты"
+edict_construction_campaign_desc:0 "Эта кампания вкладывает значительные средства в новые строительные инициативы."
+edict_construction_campaign_hive:0 "Инфраструктурные проекты"
+edict_construction_campaign_hive_desc:0 "Выделяя нашим рабочим дронам дополнительные питательные вещества, мы можем увеличить их производительность во время интенсивных строительных проектов."
+edict_army_campaign:0 "Армейская вербовочная кампания"
+edict_army_campaign_desc:0 "Вы выполнили свой долг? Расходуя средства на пропаганду военной службы мы можем увеличить набор в армию наших граждан."
+edict_immigration_campaign:0 "Кампания по переселению"
+edict_immigration_campaign_desc:0 "Тратя ресурсы на целевые пиар-кампании, мы можем создать этой планете репутацию благоприятного рубежа - места где каждый может начать новую жизнь и процветать."
+edict_machine_research_campaign:0 "Машинная исследовательская кампания"
+edict_machine_research_campaign_desc:0 "Выделяя дополнительные ресурсы для наших лабораторий, мы можем повысить производительность наших исследовательских алгоритмов."
+edict_farming_subsidies_hive:0 "Стимулирования сельского хозяйства"
+edict_farming_subsidies_hive_desc:0 "Этот указ обеспечивает агрессивный стимул для положительного, поддающегося количественному измерению, воздействия на производство продуктов питания."
+edict_food_ration:0 "Карточная система"
+edict_food_ration_desc:0 "Этот указ устанавливает строгие нормы на продукты питания."
+land_clearance_increase_size_4:0 "Навсегда увеличивает размер планеты на §G4§! района. Можно использовать только один раз на каждой планете."
+edict_pitharan_fertilizer:0 "Питхаранское удобрение"
+edict_pitharan_fertilizer_desc:0 "Эта высокоплотная мелкая пыль служит отличным удобрением."
+edict_crystal_hull:0 "Кристаллическое покрытие корпуса"
+edict_crystal_hull_desc:0 "Укрепляя наши корабли редкими кристаллами, мы можем улучшить прочность их корпуса."
+edict_dark_matter_research:0 "Исследование темной материи"
+edict_dark_matter_research_desc:0 "необычные свойства темной материи делают ее превосходной для использования в исследовательских целях."
+edict_zro_pilots:0 "Зро-усиленные пилоты"
+edict_zro_pilots_desc:0 "Употребление зро улучшит способности наших пилотов"
+edict_zro_army:0 "Зро-усиленные солдаты"
+edict_zro_army_desc:0 "Употребление зро улучшит способности наших солдат-псиоников"
+
+
+####################################
+# 	WAR
+####################################
+
+casus_belli_cb_ideology_crusader:0 "Идеология"
+casus_belli_cb_ideology_crusader_acquire_hint:1 "§HВоенная цель§! против соседей-еретиков."
+war_goal_wg_force_ideology_crusader:0 "Навязать веру"
+war_goal_wg_force_ideology_crusader_desc:1 "Война ведется, чтобы навязать наши религиозные убеждения врагу.\n\nВ случае мира по статус-кво, системы, которые мы оккупируем, будут выпущены в качестве нового идеологического союзника, если они будут включать хотя бы одну планету."
+
+####################################
+# 	Factions
+####################################
+
+IMPERIALIST_SERVICE_BENEFITS:0 "Нет преимуществ без Службы"
+IMPERIALIT_NO_SERVICE_BENEFITS:0 "$IMPERIALIST_SERVICE_BENIFITS$"
+IMPERIALIST_SERVICE_BENEFITS_DESC:0 "Наличие населения с высоким уровнем жизни без полной военной службы расстроит [Root.GetName]."
+IMPERIALIST_FLEET_SIZE:0 "Сильный флот"
+IMPERIALIST_NO_FLEET_SIZE:0 "Слабый флот"
+IMPERIALIST_FLEET_SIZE_DESC:0 "Использование как минимум 50% нашего максимального размера флота порадует наше адмиралтейство."
+IMPERIALIST_FLEET_SIZE_CORP:0 "Сильный флот"
+IMPERIALIST_NO_FLEET_SIZE_CORP:0 "Слабый флот"
+IMPERIALIST_FLEET_SIZE_CORP_DESC:0 "Использование как минимум 50% нашего максимального размера флота порадует наших военных подрядчиков."
+IMPERIALIST_ARMIES:0 "Сильная армия"
+IMPERIALIST_NO_ARMIES:0 "Слабая армия"
+IMPERIALIST_ARMIES_DESC:0 "Содержание как минимум 12 атакующих армейских подразделений порадует [Root.GetName]."
+
+PROGRESSIVE_IDEALISTIC_FOUNDATION:0 "Идеалистические Основы"
+PROGRESSIVE_BROKEN_IDEALISM:0 "$PROGRESSIVE_IDEALISTIC_FOUNDATION$"
+PROGRESSIVE_IDEALISTIC_FOUNDATION_DESC:0 "Обеспечение соблюдения основополагающих эгалитарных идеалов нашей страны будет радовать [Root.GetName]."
+PROGRESSIVE_IDEALISTIC_DEMOCRACY:0 "Демократическая власть"
+PROGRESSIVE_IDEALISTIC_NOT_DEMOCRACY:0 "$PROGRESSIVE_IDEALISTIC_DEMOCRACY$"
+PROGRESSIVE_IDEALISTIC_DEMOCRACY_DESC:0 "Демократически избранное правительство будет радовать [Root.GetName]."
+
+PROSPERITY_PROFIT:0 "В прибыли"
+PROSPERITY_NO_PROFIT:0 "В убытке"
+PROSPERITY_PROFIT_DESC:0 "Наличие положительного ежемесячного дохода энергокредитов порадует [Root.GetName]."
+PROSPERITY_WANTS_STRATEGIC_RESOURCE_POP_DESC:0 "Наличие положительного ежемесячного дохода кристаллов, газов и пылинок порадует [Root.GetName]."
+
+TECHNOLOGIST_FLESH_IS_WEAK:0 "Плоть слаба"
+TECHNOLOGIST_NO_FLESH_IS_WEAK:0 "$TECHNOLOGIST_FLESH_IS_WEAK$"
+TECHNOLOGIST_FLESH_IS_WEAK_DESC:0 "Принятие бонуса за стремление Плоть Слаба порадует [Root.GetName]."
+
+TOTALITARIAN_HEIR:0 "Наследник трона"
+TOTALITARIAN_NO_HEIR:0 "Нет наследника престола"
+TOTALITARIAN_HEIR_DESC:0 "Отсутствие законного наследника престола заставит нервничать [Root.GetName]."
+TOTALITARIAN_ARISTOCRAT:0 "Аристократическая элита"
+TOTALITARIAN_NO_ARISTOCRAT:0 "$TOTALITARIAN_ARISTOCRAT$"
+TOTALITARIAN_ARISTOCRAT_DESC:0 "Попытка лишить дворянство их привилегий разозлит [Root.GetName]."
+TOTALITARIAN_HAPPY_ARISTOCRAT:0 "Довольные аристократы"
+TOTALITARIAN_UNHAPPY_ARISTOCRAT:0 "Недовольные аристократы"
+TOTALITARIAN_HAPPY_ARISTOCRAT_DESC:0 "Сохранение счастья населения категории правителей выше 60% порадует [Root.GetName]."
+TOTALITARIAN_HARMONIOUS:0 "$civic_harm_collective$"
+TOTALITARIAN_NO_HARMONIOUS:0 "$civic_harm_collective$"
+TOTALITARIAN_HARMONIOUS_DESC:0 "$civic_harm_collective_desc$"
+TOTALITARIAN_WISE_KING:0 "Мудрый монарх"
+TOTALITARIAN_NO_WISE_KING:0 "$TOTALITARIAN_WISE_KING$"
+TOTALITARIAN_WISE_KING_DESC:0 "Наличие правителя уровня 5 или выше порадует [Root.GetName]."
+
+TRADITIONALIST_IMPERIAL_CULT:0 "Имперский культ"
+TRADITIONALIST_NO_IMPERIAL_CULT:0 "$TRADITIONALIST_IMPERIAL_CULT$"
+TRADITIONALIST_IMPERIAL_CULT_DESC:0 "Любая попытка убрать Имперский культ сильно разозлит [Root.GetName]."
+TRADITIONALIST_CITY_WORLD:0 "Нет экуменополису"
+TRADITIONALIST_NO_CITY_WORLD:0 "$TRADITIONALIST_CITY_WORLD$"
+TRADITIONALIST_CITY_WORLD_DESC:0 "Уничтожение природной среды планеты путем создания экуменополиса расстроит [Root.GetName]."
+
+
+####################################
+# 	AI Personalities
+####################################
+
+personality_knowledge_seekers:0 "Искатели Знаний"
+personality_knowledge_seekers_desc:0 "Искатели Знаний высоко ценят стремление к исследованиям и открытиям. Они с радостью будут обмениваться знаниями с теми кому они доверяют."
+egalitarian_imperialists:0 "Ксенофобные протекционисты"
+egalitarian_imperialists_desc:0 "Ксенофобные протекционисты хотят защищать своих граждан от галактики, которую они считают опасной. Хотя они склонны к изоляционизму, они не выше того, чтобы брать богатства у чужаков для обеспечения своих."
+
+CIVIC_SB_FRIENDLY_GREETING_01:0 "Приветствую, товарищ."
+EI_HOSTILE_GREETING_01:0 "Мы внимательно следим за тобой, [From.GetSpeciesNameInsult]. Мы не позволим вам стать угрозой для народа [Root.GetSpeciesAdj]."
+EI_HOSTILE_GREETING_02:0 "Неприятно смотреть, как ваши системы плохо управляются [From.GetSpeciesNameInsult]. Наши граждане могли бы использовать их с пользой."
+EI_HOSTILE_GREETING_03:0 "Мы не позволим вам, мерзким тиранам, угрожать свободе нашего народа!"
+EI_HOSTILE_GREETING_04:0 "Вы утверждаете что народ [From.GetSpeciesAdj] свободны, но что животное знает о свободе?"
+EI_DOMINEERING_GREETING_01:0 "Вы могли бы быть полезны для [Root.GetName] пока."
+EI_NEUTRAL_GREETING_01:0 "Права народа [Root.GetSpeciesAdj] имеют первостепенное значение для нас. Права вашего народа являются второстепенными."
+EI_FRIENDLY_GREETING_01:0 "Попытки вашиг граждан понять свободу в некотором смысле достойны восхищения."
+EI_WAR_GREETING_01:0 "Вам больше не позволено угрожать свободе нашего народа."
+EI_VASSAL_GREETING_DISLOYAL_01:0 "Мы вернем нашему народу свободу, которую вы украли!"
+
+
+####################################
+# 	Misc Tooltips
+####################################
+
+EMPIRE_DESIGN_iferyx_2:0 "Объединенные флоты Иферикса"
+EMPIRE_DESIGN_iferyx_2_desc:1 "Когда-то разделенные на раздробленное общество конкурирующих анклавов торговцев, ифериксианцы были вынуждены объединиться под одним знаменем, чтобы отразить катастрофическое распространение инвазивных видов на их родном континенте. В то время как эгалитарные принципы обеспечивают основу для общества ифериксианцев, в правительстве сохраняется секретный совет, гарантирующий что индивидуалистические тенденции ифериксианцев больше никогда не будут угрожать независимости вида. \n\nСпиритуализм ифериксианцев представляет собой объединение фольклора, суеверий и мифологий, сформированных различными предреспубликанскими общинами, и продолжающих наполнять повседневную жизнь в своем родном мире."

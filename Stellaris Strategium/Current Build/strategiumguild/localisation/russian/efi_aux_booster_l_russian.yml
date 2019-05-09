@@ -1,0 +1,16 @@
+﻿l_russian:
+ 
+ REACTOR_BOOSTER_4:0 "Усилитель реактора IV"
+ REACTOR_BOOSTER_4_DESC:0 "$REACTOR_BOOSTER_1_DESC$"
+ REACTOR_BOOSTER_5:0 "Усилитель реактора V"
+ REACTOR_BOOSTER_5_DESC:0 "$REACTOR_BOOSTER_1_DESC$"
+ REACTOR_BOOSTER_6:0 "Усилитель реактора VI"
+ REACTOR_BOOSTER_6_DESC:0 "$REACTOR_BOOSTER_1_DESC$"
+ 
+ tech_reactor_boosters_4:0 "Усилитель реактора 4"
+ tech_reactor_boosters_4_desc:0 "$REACTOR_BOOSTER_1_DESC$"
+ tech_reactor_boosters_5:0 "Усилитель реактора 5"
+ tech_reactor_boosters_5_desc:0 "$REACTOR_BOOSTER_1_DESC$"
+ tech_reactor_boosters_6:0 "Усилитель реактора 6"
+ tech_reactor_boosters_6_desc:0 "$REACTOR_BOOSTER_1_DESC$"
+

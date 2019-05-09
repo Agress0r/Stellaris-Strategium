@@ -1,0 +1,11 @@
+﻿l_russian:
+ ####################################
+ # jobs
+ ####################################
+ job_oparchivist:0 "Архивариус"
+ job_oparchivist_plural:0 "Ахивариус"
+ job_oparchivist_desc:0 "Архивариусы находятся где-то между титулом знаменитости и святых, т.к. посвящают свою жизнь сохранению того, что их общество считает самым священным: Знания."
+ job_oparchivist_effect_desc:0 "£job_oparchivist£ $job_oparchivist_plural$ проводят §Y$Research$§!."
+ mod_job_oparchivist_add:0 "$job_oparchivist$"
+ mod_job_oparchivist_per_pop:0 "§G+1§! $job_oparchivist$ вакансий за $VALUE$ поселений"
+ mod_job_oparchivist_per_pop_short:0 "\n§G+1§! £mod_job_oparchivist_add£ за $VALUE$ £pop"

@@ -1,0 +1,15 @@
+﻿l_russian:
+
+
+sol_mars_system_initializer_NAME:0 "Солнечная система с Марсом"
+ 
+sol_mars_system_initializer_DESC:0 "Новый старт на не такой уж красной планете."
+sol_both_system_initializer_NAME:0 "Солнечная система с Землёй и Марсом"
+ 
+sol_both_system_initializer_DESC:0 "Две планеты лучше, чем одна! Обычно..."
+sol_asteroid_system_initializer_NAME:0 "Солнечная система с астероидами"
+
+sol_asteroid_system_initializer_DESC:0 "Система по образцу Земной, но теперь с обитаемыми астероидами."
+deneb_asteroid_system_initializer_NAME:0 "Система Денеб с астероидами"
+
+deneb_asteroid_system_initializer_DESC:0 "Стартовая солнечная система Содружества людей, теперь с обитаемыми астероидами."
